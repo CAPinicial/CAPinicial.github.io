@@ -1,0 +1,1540 @@
+COD: 66406
+
+¿Cuál de las siguientes es un tipo de radiación?
+
+A Radiaciones alfa.
+
+B Radiaciones beta.
+
+C Radiaciones gamma.
+
+D Todas las anteriores.
+
+RESPUESTA: D
+
+NORMA: Las radiaciones. Consejo de Seguridad Nuclear
+
+REFERENCIA DOCTRINAL: Las radiaciones. Consejo de Seguridad Nuclear
+
+
+
+COD: 66407
+
+Son radiaciones ionizantes:
+
+A las que, debido a la energía que transportan, pueden arrancar electrones de los átomos circundantes.
+
+B las radiaciones electromagnéticas.
+
+C las radiaciones que tienen mayor longitud de onda.
+
+D Todas las respuestas son correctas.
+
+RESPUESTA: A
+
+NORMA: Las radiaciones. Consejo de Seguridad Nuclear
+
+REFERENCIA DOCTRINAL: Las radiaciones. Consejo de Seguridad Nuclear
+
+
+
+COD: 66408
+
+Las radiaciones alfa son:
+
+A más penetrantes que las radiaciones beta.
+
+B muy penetrantes. 
+
+C poco penetrantes.
+
+D Las respuestas A y B son correctas.
+
+RESPUESTA: C
+
+NORMA: Las radiaciones. Consejo de Seguridad Nuclear
+
+REFERENCIA DOCTRINAL: Las radiaciones. Consejo de Seguridad Nuclear
+
+
+
+COD: 66409
+
+Las radiaciones beta son:
+
+A menos penetrantes que las radiaciones alfa.
+
+B más penetrantes que las radiaciones alfa.
+
+C más penetrantes que las radiaciones gamma.
+
+D Las respuestas A y C son correctas.
+
+RESPUESTA: B
+
+NORMA: Las radiaciones. Consejo de Seguridad Nuclear
+
+REFERENCIA DOCTRINAL: Las radiaciones. Consejo de Seguridad Nuclear
+
+
+
+COD: 66410
+
+Las radiaciones ionizantes:
+
+A tienen siempre origen natural.
+
+B son siempre producidas por las actividades humanas.
+
+C pueden ser de origen natural en algunos casos, pero para producirse necesitan siempre la intervención del hombre.
+
+D pueden ser tanto de origen natural como artificial.
+
+RESPUESTA: D
+
+NORMA: Las radiaciones. Consejo de Seguridad Nuclear
+
+REFERENCIA DOCTRINAL: Las radiaciones. Consejo de Seguridad Nuclear
+
+
+
+COD: 66411
+
+¿De dónde provienen las radiaciones ionizantes de origen natural a las que estamos expuestos?
+
+A Del Sol.
+
+B De la corteza terrestre.
+
+C De los alimentos.
+
+D Todas las respuestas son correctas.
+
+RESPUESTA: D
+
+NORMA: Las radiaciones. Consejo de Seguridad Nuclear
+
+REFERENCIA DOCTRINAL: Las radiaciones. Consejo de Seguridad Nuclear
+
+
+
+COD: 66412
+
+¿Qué es el fondo radiactivo natural?
+
+A El conjunto de radiaciones ionizantes que provienen de fuentes naturales.
+
+B El conjunto de radiaciones no ionizantes que provienen de fuentes naturales.
+
+C El conjunto de radiaciones ionizantes y no ionizantes que provienen de fuentes naturales.
+
+D Las radiaciones que emiten las estrellas más alejadas de nosotros.
+
+RESPUESTA: A
+
+NORMA: RD 1029/2022, art. 4
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66413
+
+Las radiaciones ionizantes:
+
+A se usan en Medicina con fines diagnósticos.
+
+B se usan en Medicina para tratar enfermedades.
+
+C no deben aplicarse en ningún caso sobre una persona por sus efectos perjudiciales para la salud.
+
+D Las respuestas A y B son correctas.
+
+RESPUESTA: D
+
+NORMA: Las radiaciones. Consejo de Seguridad Nuclear
+
+REFERENCIA DOCTRINAL: Las radiaciones. Consejo de Seguridad Nuclear
+
+
+
+COD: 66414
+
+¿Qué se entiende por actividad de una materia radiactiva?
+
+A Que está en situación de emitir radiaciones.
+
+B El tiempo durante el que emite radiaciones.
+
+C El número de desintegraciones que se producen en ella en un determinado intervalo de tiempo.
+
+D El número de isótopos radiactivos que contiene.
+
+RESPUESTA: C
+
+NORMA: RD 1029/2022, art. 4
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66415
+
+¿Cuál es la unidad de medida de la actividad de una materia radiactiva?
+
+A El sievert (Sv).
+
+B El becquerel o bequerelio (Bq).
+
+C El julio.
+
+D El newton.
+
+RESPUESTA: B
+
+NORMA: Acuerdo ADR, 1.2.2.1; RD 1029/2022, art. 4
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66416
+
+¿Qué se entiende por actividad específica de una materia radiactiva?
+
+A La actividad que presenta por unidad de masa.
+
+B El tipo de radiaciones que emite.
+
+C El alcance de las radiaciones que emite.
+
+D Los períodos de tiempo durante los que emite radiaciones ionizantes.
+
+RESPUESTA: A
+
+NORMA: Acuerdo ADR, 2.2.7.1.3
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66417
+
+¿Qué se entiende por vida media de un isótopo radiactivo?
+
+A El tiempo que tarda en reducir su actividad a la mitad.
+
+B La media aritmética de los tiempos de vida de las distintas materias radiactivas.
+
+C La mitad del tiempo que tarda en desintegrarse.
+
+D El tiempo promedio de vida antes de desintegrarse.
+
+RESPUESTA: D
+
+NORMA: Leyes de la desintegración. Universidad de Granada
+
+REFERENCIA DOCTRINAL: Leyes de la desintegración. Universidad de Granada
+
+
+
+COD: 66418
+
+¿Qué es el período de semidesintegración de una materia radiactiva?
+
+A El tiempo promedio de vida antes de desintegrarse.
+
+B La vida media de esa materia.
+
+C El tiempo que tardan en desintegrarse la mitad de los núcleos.
+
+D Las respuestas B y C son correctas.
+
+RESPUESTA: C
+
+NORMA: Leyes de la desintegración. Universidad de Granada
+
+REFERENCIA DOCTRINAL: Leyes de la desintegración. Universidad de Granada
+
+
+
+COD: 66419
+
+¿En qué supuestos no resulta aplicable el ADR?
+
+A Material radiactivo que forme parte integral del medio de transporte.
+
+B Material radiactivo incorporado en productos de consumo aprobados después de su venta al usuario final.
+
+C Minerales en los que la concentración de actividad no supere 10 veces el valor establecido para cada elemento.
+
+D Todas las respuestas son correctas.
+
+RESPUESTA: D
+
+NORMA: Acuerdo ADR, 1.7.1.4
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66420
+
+El transporte de objetos sólidos no radiactivos que tengan materias radiactivas en la superficie:
+
+A está sujeto siempre al ADR.
+
+B está sujeto al ADR cuando se supere el límite establecido para considerar que hay contaminación.
+
+C no está sujeto al ADR mientras no se supere 2 Bq/cm2 para emisores alfa de baja toxicidad.
+
+D no está sujeto al ADR en ningún caso.
+
+RESPUESTA: B
+
+NORMA: Acuerdo ADR, 1.7.1.4
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66421
+
+Los envíos de material radiactivo para los que no sea posible cumplir todas las disposiciones del ADR:
+
+A podrán transportarse si se obtiene una autorización especial.
+
+B solo podrán transportarse en ámbito nacional.
+
+C solo podrán transportarse bajo responsabilidad del expedidor.
+
+D no podrán transportarse por carretera.
+
+RESPUESTA: A
+
+NORMA: Acuerdo ADR, 1.7.4.1
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66422
+
+¿Qué entiende el ADR por materias LSA-BAE?
+
+A Materias que solo están contaminadas superficialmente.
+
+B Materias que solo presentan contaminación transitoria.
+
+C Materias que por su naturaleza tienen una actividad específica limitada.
+
+D Materias radiactivas de baja dispersión.
+
+RESPUESTA: C
+
+NORMA: Acuerdo ADR, 2.2.7.1.3
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66423
+
+¿Qué entiende el ADR por objetos CSO-OCS?
+
+A Objetos que solo están contaminados superficialmente.
+
+B Objetos que solo presentan contaminación transitoria.
+
+C Objetos que por su naturaleza tienen una actividad específica limitada.
+
+D Objetos radiactivos de baja dispersión.
+
+RESPUESTA: A
+
+NORMA: Acuerdo ADR, 2.2.7.1.3
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66424
+
+Según el ADR, las materias radiactivas sólidas acondicionadas en una cápsula sellada que se dispersen poco se consideran:
+
+A materias que solo están contaminadas superficialmente.
+
+B materias radiactivas en forma especial.
+
+C materias que por su naturaleza tienen una actividad específica limitada.
+
+D materias radiactivas de baja dispersión.
+
+RESPUESTA: D
+
+NORMA: Acuerdo ADR, 2.2.7.1.3
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66425
+
+¿Qué entiende el ADR por materias radiactivas en forma especial?
+
+A Materias que solo están contaminadas superficialmente.
+
+B Materias sólidas no susceptibles de dispersión o una cápsula sellada que contenga materias radiactivas.
+
+C Materias que por su naturaleza tienen una actividad específica limitada.
+
+D Materias radiactivas de baja dispersión.
+
+RESPUESTA: B
+
+NORMA: Acuerdo ADR, 2.2.7.1.3
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66426
+
+El ADR considera que, para que haya contaminación radiactiva, la presencia en una superficie de materias radiactivas de emisores beta y gamma debe superar:
+
+A 2 Bq/cm2.
+
+B 0,2 Bq/cm2.
+
+C 0,4 Bq/cm2.
+
+D 0,04 Bq/cm2.
+
+RESPUESTA: C
+
+NORMA: Acuerdo ADR, 2.2.7.1.2
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66427
+
+El ADR considera que, para que haya contaminación radiactiva, la presencia en una superficie de materias radiactivas de emisores alfa de baja toxicidad debe superar:
+
+A 0,4 Bq/cm2.
+
+B 0,04 Bq/cm2.
+
+C 2 Bq/cm2.
+
+D 0,2 Bq/cm2.
+
+RESPUESTA: A
+
+NORMA: Acuerdo ADR, 2.2.7.1.2
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66428
+
+El ADR considera que, para que haya contaminación radiactiva, la presencia en una superficie de materias radiactivas de emisores alfa distintos de los de baja toxicidad debe superar:
+
+A 0,4 Bq/cm2.
+
+B 0,04 Bq/cm2.
+
+C 2 Bq/cm2.
+
+D 0,2 Bq/cm2.
+
+RESPUESTA: B
+
+NORMA: Acuerdo ADR, 2.2.7.1.2
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66429
+
+¿Qué entiende el ADR por contaminación radiactiva transitoria?
+
+A Aquella que está presente por un período inferior a 10 días.
+
+B Aquella que está presente por un período inferior a 24 horas.
+
+C Aquella que está presente por un período inferior a 2 horas.
+
+D Aquella que puede ser eliminada de una superficie en las condiciones normales de transporte.
+
+RESPUESTA: D
+
+NORMA: Acuerdo ADR, 2.2.7.1.2
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66430
+
+¿Cuál de las siguientes es materia fisionable?
+
+A La que contenga solo uranio natural no irradiado.
+
+B La que contenga solo uranio natural irradiado en reactores térmicos.
+
+C La que contenga solo 0,25 gramos de uranio 233.
+
+D La que contenga solo 0,20 gramos de uranio 235.
+
+RESPUESTA: C
+
+NORMA: Acuerdo ADR, 2.2.7.1.3
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66431
+
+La contaminación radiactiva sufrida por una persona:
+
+A puede ser externa e interna.
+
+B solo puede ser externa.
+
+C solo se produce por irradiación.
+
+D solo se produce por contacto directo con la piel.
+
+RESPUESTA: A
+
+NORMA: RD 1029/2022, art. 4
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66432
+
+El Reglamento sobre protección de la salud contra los riesgos derivados de la exposición a las radiaciones ionizantes se aplica a las radiaciones procedentes:
+
+A solo de fuentes artificiales.
+
+B de fuentes naturales de cualquier tipo.
+
+C de radionucleidos naturales procesados.
+
+D de exposiciones por motivos médicos.
+
+RESPUESTA: C
+
+NORMA: RD 1029/2022, art. 2
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66433
+
+Según el Reglamento sobre protección de la salud contra los riesgos derivados de la exposición a las radiaciones ionizantes, la autorización de una actividad que implique riesgo radiactivo exige:
+
+A que las ventajas superen a los perjuicios a la salud que pueda producir.
+
+B que la exposición a radiaciones a consecuencia de la misma no supere las dosis máximas fijadas en el mismo.
+
+C que la exposición a radiaciones a consecuencia de la misma se mantenga siempre lo más baja posible.
+
+D Todas las respuestas son correctas.
+
+RESPUESTA: D
+
+NORMA: RD 1029/2022, art. 6
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66434
+
+En el ámbito de la protección contra radiaciones ionizantes, la unidad de medida de la dosis absorbida es:
+
+A el bequerelio (Bq).
+
+B el gray (Gy).
+
+C el sievert (Sv).
+
+D el sievert/hora (Sv/h).
+
+RESPUESTA: B
+
+NORMA: RD 1029/2022, art. 4
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66435
+
+En el ámbito de la protección contra radiaciones ionizantes, se entiende por dosis equivalente:
+
+A la dosis absorbida por un tejido u  órgano, ponderada por el tipo y  calidad de la radiación.
+
+B la cantidad de energía absorbida por un cuerpo.
+
+C la suma de las dosis absorbidas por un tejido u órgano.
+
+D la dosis recibida por unidad de tiempo.
+
+RESPUESTA: A
+
+NORMA: RD 1029/2022, art. 4
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66436
+
+En el ámbito de la protección contra radiaciones ionizantes, se entiende por dosis efectiva:
+
+A la dosis absorbida por un tejido u  órgano, ponderada por el tipo y  calidad de la radiación.
+
+B la cantidad de energía absorbida por un cuerpo.
+
+C la suma de las dosis equivalentes ponderadas en todos los tejidos y órganos del cuerpo.
+
+D la dosis recibida por unidad de tiempo.
+
+RESPUESTA: C
+
+NORMA: RD 1029/2022, art. 4
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66437
+
+En el ámbito de la protección contra radiaciones ionizantes, se entiende por tasa de dosis:
+
+A la dosis absorbida por un tejido u  órgano, ponderada por el tipo y  calidad de la radiación.
+
+B la cantidad de energía absorbida por un cuerpo.
+
+C la suma de las dosis equivalentes ponderadas en todos los tejidos y órganos del cuerpo.
+
+D la dosis efectiva recibida por unidad de tiempo.
+
+RESPUESTA: D
+
+NORMA: RD 1029/2022, art. 4
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66438
+
+En el ámbito de la protección contra radiaciones ionizantes, se entiende por dosis comprometida:
+
+A la dosis absorbida por un tejido u  órgano, ponderada por el tipo y  calidad de la radiación.
+
+B la dosis procedente de incorporación.
+
+C la suma de las dosis equivalentes ponderadas en todos los tejidos y órganos del cuerpo.
+
+D la dosis efectiva recibida por unidad de tiempo.
+
+RESPUESTA: B
+
+NORMA: RD 1029/2022, art. 4
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66439
+
+El Reglamento sobre protección de la salud contra los riesgos derivados de la exposición a las radiaciones ionizantes:
+
+A establece límites de dosis diferentes para grupos distintos de personas.
+
+B establece un límite de dosis igual para todas las personas.
+
+C establece dos límites de dosis diferentes, según se trate de adultos o niños.
+
+D no establece límites de dosis sino que prohíbe todo tipo de radiación.
+
+RESPUESTA: A
+
+NORMA: RD 1029/2022, 11,12,13,15
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66440
+
+Según el Reglamento sobre protección de la salud contra los riesgos derivados de la exposición a las radiaciones ionizantes, el límite de dosis efectiva para trabajadores expuestos es:
+
+A 6 mSv por año.
+
+B 100 mSv cada período de cinco años.
+
+C 20 mSv por año.
+
+D Las respuestas B y C son correctas.
+
+RESPUESTA: C
+
+NORMA: RD 1029/2022, art. 11
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66441
+
+Según el Reglamento sobre protección de la salud contra los riesgos derivados de la exposición a las radiaciones ionizantes, el límite de dosis efectiva para personas en formación de 16 a 18 años de edad es:
+
+A 50 mSv por año.
+
+B 100 mSv cada período de cinco años.
+
+C 6 mSv por año.
+
+D Las respuestas A y B son correctas.
+
+RESPUESTA: C
+
+NORMA: RD 1029/2022, art. 13
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66442
+
+Según el Reglamento sobre protección de la salud contra los riesgos derivados de la exposición a las radiaciones ionizantes el límite de dosis efectiva para el público en general es:
+
+A 50 mSv por año.
+
+B 1 mSv por año.
+
+C 6 mSv por año.
+
+D 100 mSv cada período de cinco años.
+
+RESPUESTA: B
+
+NORMA: RD 1029/2022, art. 15
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66443
+
+El índice de transporte (IT) de un bulto que no sea transportado en la modalidad de uso exclusivo:
+
+A no debe ser superior a 10.
+
+B no debe ser superior a 50.
+
+C no debe ser superior a 100.
+
+D No hay límite para el índice de transporte de un bulto, sino sólo para el del vehículo en conjunto.
+
+RESPUESTA: A
+
+NORMA: Acuerdo ADR, 4.1.9.1.10
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66444
+
+El índice de seguridad con respecto a la criticidad (ISC) de un bulto que no sea transportado en la modalidad de uso exclusivo:
+
+A no debe ser superior a 10.
+
+B no debe ser superior a 50.
+
+C no debe ser superior a 100.
+
+D No hay límite para el índice ISC de un bulto, sino sólo para el del vehículo en conjunto.
+
+RESPUESTA: B
+
+NORMA: Acuerdo ADR, 4.1.9.1.10
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66445
+
+Los bultos radiactivos que tengan un índice de transporte (IT) superior a 10:
+
+A no se pueden transportar por carretera.
+
+B se pueden transportar sin ninguna restricción.
+
+C se pueden transportar en la modalidad de uso exclusivo.
+
+D solo se pueden transportar con una autorización especial.
+
+RESPUESTA: C
+
+NORMA: Acuerdo ADR, 7.5.11, CV 33 (3.4)
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66446
+
+Los bultos radiactivos que tengan un índice de seguridad con respecto a la criticidad (ISC) superior a 50:
+
+A no se pueden transportar por carretera.
+
+B solo se pueden transportar con una autorización especial.
+
+C se pueden transportar sin ninguna restricción.
+
+D se pueden transportar en la modalidad de uso exclusivo.
+
+RESPUESTA: D
+
+NORMA: Acuerdo ADR, 7.5.11, CV 33 (3.4)
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66447
+
+En un transporte que no se efectúe en la modalidad de uso exclusivo, la suma de los índices de transporte (IT) de los bultos a bordo del vehículo no debe ser superior a:
+
+A 50.
+
+B 100.
+
+C 10.
+
+D Para los vehículos no hay límite, sólo opera para los bultos individuales.
+
+RESPUESTA: A
+
+NORMA: Acuerdo ADR, 7.5.11, CV 33 (3.3)
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66448
+
+En un transporte que no se efectúe en la modalidad de uso exclusivo, la suma de los índices de seguridad con respecto a la criticidad (ISC) de los bultos a bordo del vehículo no debe ser superior a:
+
+A 100.
+
+B 50.
+
+C 10.
+
+D Para los vehículos no hay límite, sólo opera para los bultos individuales.
+
+RESPUESTA: B
+
+NORMA: Acuerdo ADR, 7.5.11, CV 33 (3.3)
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66449
+
+En un transporte que no se efectúe en la modalidad de uso exclusivo, la tasa de dosis en la superficie externa del vehículo, en condiciones rutinarias de transporte, no debe superar:
+
+A 10 mSv/h.
+
+B 5 mSv/h.
+
+C 6 mSv/h.
+
+D 2 mSv/h.
+
+RESPUESTA: D
+
+NORMA: Acuerdo ADR, 7.5.11 (CV33)
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66450
+
+En un transporte que no se efectúe en la modalidad de uso exclusivo, la tasa de dosis a 2 metros de distancia del vehículo, en condiciones rutinarias de transporte, no debe superar:
+
+A 1 mSv/h.
+
+B 0,5 mSv/h.
+
+C 0,1 mSv/h.
+
+D 2 mSv/h.
+
+RESPUESTA: C
+
+NORMA: Acuerdo ADR, 7.5.11 (CV33)
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66451
+
+En un transporte que no se efectúe en la modalidad de uso exclusivo, la tasa de dosis en la superficie externa de un bulto no debe superar:
+
+A 5 mSv/h.
+
+B 6 mSv/h.
+
+C 2 mSv/h.
+
+D 10 mSv/h.
+
+RESPUESTA: C
+
+NORMA: Acuerdo ADR, 4.1.9.1.11
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66452
+
+En un transporte que se efectúe en la modalidad de uso exclusivo, si se cumplen determinadas condiciones, la tasa de dosis en la superficie externa de un bulto puede llegar hasta:
+
+A 10 mSv/h.
+
+B 5 mSv/h.
+
+C 6 mSv/h.
+
+D 2 mSv/h.
+
+RESPUESTA: A
+
+NORMA: Acuerdo ADR, 7.5.11 (CV33)
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66453
+
+En un transporte que se efectúe en la modalidad de uso exclusivo, la suma de los índices de transporte (IT) de los bultos a bordo del vehículo:
+
+A no debe ser superior a 50.
+
+B no debe ser superior a 100.
+
+C no debe ser superior a 10.
+
+D no está limitada.
+
+RESPUESTA: D
+
+NORMA: Acuerdo ADR, 7.5.11 (CV33)
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66454
+
+En un transporte que se efectúe en la modalidad de uso exclusivo, la suma de los índices de seguridad con respecto a la criticidad (ISC) de los bultos a bordo del vehículo:
+
+A no debe ser superior a 100.
+
+B no debe ser superior a 50.
+
+C no debe ser superior a 10.
+
+D no está limitada.
+
+RESPUESTA: A
+
+NORMA: Acuerdo ADR, 7.5.11 (CV33)
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66455
+
+La contaminación transitoria sobre las superficies externas de cualquier bulto, en las condiciones rutinarias de transporte, para los emisores beta y gamma no debe sobrepasar:
+
+A 0,4 Bq/cm2.
+
+B 4 Bq/cm2.
+
+C 2 Bq/cm2.
+
+D 0,2 Bq/cm2.
+
+RESPUESTA: B
+
+NORMA: Acuerdo ADR, 4.1.9.1.2
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66456
+
+La contaminación transitoria sobre las superficies externas de cualquier bulto, en las condiciones rutinarias de transporte, para los emisores alfa distintos de los de baja toxicidad no debe sobrepasar:
+
+A 2 Bq/cm2.
+
+B 4 Bq/cm2.
+
+C 0,4 Bq/cm2.
+
+D 0,2 Bq/cm2.
+
+RESPUESTA: C
+
+NORMA: Acuerdo ADR, 4.1.9.1.2
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66457
+
+Cuando se almacenen en tránsito grupos de bultos que contengan sustancias fisionables, se debe respetar una distancia entre grupos de:
+
+A 1 metro.
+
+B 20 metros.
+
+C 2 metros.
+
+D 6 metros.
+
+RESPUESTA: D
+
+NORMA: Acuerdo ADR, 7.5.11 (CV33)
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66458
+
+Si un transportista constata durante la realización de un porte que el envío supera los límites que establece el ADR para la tasa de dosis o la contaminación por radiactividad, deberá:
+
+A informar al expedidor.
+
+B informar al destinatario.
+
+C adoptar medidas de modo inmediato para reducir las consecuencias de este hecho.
+
+D Todas las respuestas son correctas.
+
+RESPUESTA: D
+
+NORMA: Acuerdo ADR, 1.7.6.1
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66459
+
+En actividades de transporte de materias radiactivas, es obligatorio hacer un control individual cuando la dosis eficaz a la que están expuestos los trabajadores:
+
+A supera 6 mSv por año.
+
+B está entre 1 y 6 mSv por año.
+
+C supera 2 mSv por año.
+
+D supera 5 mSv por año.
+
+RESPUESTA: A
+
+NORMA: Acuerdo ADR, 1.7.2.4
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66460
+
+Los trabajadores expuestos a radiaciones ionizantes externas:
+
+A deben utilizar un dosímetro individual en todos los casos.
+
+B deben utilizar un dosímetro individual si están catalogados en la categoría A.
+
+C deben utilizar un dosímetro individual siempre que estén catalogados en la categoría B.
+
+D no precisan utilizar dosímetro individual, pero deben someterse a controles médicos periódicos.
+
+RESPUESTA: B
+
+NORMA: RD 1029/2022, art. 33
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66461
+
+En ambientes de trabajo con riesgo de exposición a radiaciones ionizantes, las zonas de trabajo en las que el riesgo de radiación supere determinados valores se catalogarán como:
+
+A zonas controladas.
+
+B zonas vigiladas.
+
+C zonas contaminadas.
+
+D Las respuestas A y B son correctas.
+
+RESPUESTA: D
+
+NORMA: RD 1029/2022, art. 18
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66462
+
+Las zonas de trabajo con riesgo de exposición a radiaciones ionizantes en las que exista riesgo de recibir dosis efectivas superiores a 6 mSv por año se catalogarán como:
+
+A zonas contaminadas.
+
+B zonas vigiladas.
+
+C zonas controladas.
+
+D zonas expuestas.
+
+RESPUESTA: C
+
+NORMA: RD 1029/2022, art. 18
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66463
+
+Las zonas de trabajo con riesgo de exposición a radiaciones ionizantes en las que exista riesgo de recibir dosis efectivas superiores a 1 mSv por año, sin superar 6 mSv por año, se catalogarán como:
+
+A zonas contaminadas.
+
+B zonas vigiladas.
+
+C zonas controladas.
+
+D zonas expuestas.
+
+RESPUESTA: B
+
+NORMA: RD 1029/2022, art. 18
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66464
+
+En el transporte de materias radiactivas, se pueden clasificar como bultos exceptuados aquellos cuya tasa de dosis en su superficie externa no supere:
+
+A 5 μSv/h.
+
+B 0,5 μSv/h.
+
+C 5 mSv/h.
+
+D 0,5 mSv/h.
+
+RESPUESTA: A
+
+NORMA: Acuerdo ADR, 2.2.7.2.4.1.2
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66465
+
+En el transporte de materias radiactivas, los bultos tipo A no deberán contener materias que supongan una actividad:
+
+A superior a A1.
+
+B superior a A2.
+
+C superior a 10 veces A1 o A2.
+
+D Las respuestas A y B son correctas.
+
+RESPUESTA: D
+
+NORMA: Acuerdo ADR, 2.2.7.2.4.4
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66466
+
+En el transporte de materias radiactivas, el diseño de los bultos tipo B(U):
+
+A requiere aprobación multilateral.
+
+B requiere aprobación unilateral del país de origen.
+
+C requiere aprobación unilateral del país de destino.
+
+D no requiere aprobación.
+
+RESPUESTA: B
+
+NORMA: Acuerdo ADR, 6.4.22.2
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66467
+
+En el transporte de materias radiactivas, el diseño de los bultos tipo B(M):
+
+A requiere aprobación multilateral.
+
+B requiere aprobación unilateral del país de origen.
+
+C requiere aprobación unilateral del país de destino.
+
+D no requiere aprobación.
+
+RESPUESTA: A
+
+NORMA: Acuerdo ADR, 6.4.22.3
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66468
+
+¿Cuántos tipos de bultos industriales contempla el ADR para el transporte de materias radiactivas?
+
+A Uno.
+
+B Dos.
+
+C Tres.
+
+D Ninguno.
+
+RESPUESTA: C
+
+NORMA: Acuerdo ADR, 6.4.5.1
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66469
+
+¿A qué ensayos deben someterse los bultos de tipo A, utilizados en el transporte de materias radiactivas?
+
+A A los previstos para condiciones normales de transporte.
+
+B A los previstos para condiciones de incidente leve.
+
+C A los previstos para condiciones de accidente.
+
+D A ninguno especial, pues no requieren aprobación previa.
+
+RESPUESTA: A
+
+NORMA: Acuerdo ADR, 6.4.7.14
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66470
+
+Cuando los bultos de tipo A, utilizados en el transporte de materias radiactivas, sean sometidos a los ensayos especificados para los mismos, la tasa de dosis máxima en su superficie:
+
+A no puede aumentar.
+
+B no puede aumentar más de un 5 %.
+
+C no puede aumentar más de un 10 %.
+
+D no puede aumentar más de un 20 %.
+
+RESPUESTA: D
+
+NORMA: Acuerdo ADR, 6.4.7.14
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66471
+
+¿A qué ensayos deben someterse los bultos de tipo B(U), utilizados en el transporte de materias radiactivas?
+
+A A los previstos para condiciones normales de transporte.
+
+B A los previstos para condiciones de incidente leve.
+
+C A los previstos para condiciones de accidente.
+
+D A ninguno especial, pues no requieren aprobación previa.
+
+RESPUESTA: C
+
+NORMA: Acuerdo ADR, 6.4.8.8
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66472
+
+Cuando los bultos de tipo B(U), utilizados en el transporte de materias radiactivas, sean sometidos a los ensayos especificados para los mismos, la tasa de dosis a 1 metro de su superficie:
+
+A debe permanecer sin cambios.
+
+B no debe exceder de 10 mSv/h.
+
+C no debe exceder de 1 mSv/h.
+
+D no debe exceder de 5 mSv/h.
+
+RESPUESTA: B
+
+NORMA: Acuerdo ADR, 6.4.8.8
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66473
+
+Los embalajes de bultos de hexafluoruro de uranio deben llevar una placa de metal con diferentes informaciones:
+
+A siempre.
+
+B cuando contengan 10 gramos o más.
+
+C cuanto contengan 0,1 kg o más.
+
+D nunca.
+
+RESPUESTA: C
+
+NORMA: Acuerdo ADR, 6.4.21.8
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66474
+
+¿Cuál de las siguientes es una categoría utilizada para clasificar los bultos de materias radiactivas?
+
+A I-BLANCA.
+
+B I-AMARILLA.
+
+C II-BLANCA.
+
+D Las respuestas A y C son correctas.
+
+RESPUESTA: A
+
+NORMA: Acuerdo ADR, 5.1.5.3.4
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66475
+
+Los transportistas de materias radiactivas deben:
+
+A solicitar siempre la aprobación previa de las expediciones que realicen.
+
+B notificar siempre con carácter previo las expediciones que realicen.
+
+C inscribirse en el Registro de Transportistas de Materiales Radiactivos.
+
+D Las respuestas B y C son correctas.
+
+RESPUESTA: C
+
+NORMA: RD 1836/1999, art. 78
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66476
+
+La autorización especial de conductor con formación ampliada a transporte de materias radiactivas no es necesaria:
+
+A para transportar bultos exceptuados.
+
+B en determinados supuestos, para transportar bultos de tipo A.
+
+C en determinados supuestos, para transportar bultos de tipo B(U).
+
+D Las respuestas A y B son correctas.
+
+RESPUESTA: D
+
+NORMA: Acuerdo ADR, 8.5 (S5, S12)
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66477
+
+¿Qué menciones debe incluir la carta de porte cuando se transportan materias radiactivas?
+
+A El número 7, correspondiente a la clase.
+
+B La actividad máxima del contenido radiactivo.
+
+C La categoría del bulto.
+
+D Todas las respuestas son correctas.
+
+RESPUESTA: D
+
+NORMA: Acuerdo ADR, 5.4.1.1; Acuerdo ADR, 5.4.1.2.5.1
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66478
+
+¿En qué tipo de bultos debe figurar el símbolo de riesgo radiactivo (trébol)?
+
+A En los de tipo A.
+
+B En los de tipo B(U).
+
+C En los de tipo BI-1.
+
+D En todos los que contengan materias radiactivas, salvo los bultos exceptuados.
+
+RESPUESTA: B
+
+NORMA: Acuerdo ADR, 5.2.1.7.6
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66479
+
+¿Cuál de los siguientes no es un modelo de etiqueta previsto para bultos de materias radiactivas?
+
+A 7A.
+
+B 7D.
+
+C 7E.
+
+D Todos los anteriores lo son.
+
+RESPUESTA: B
+
+NORMA: Acuerdo ADR, 5.2.2.1.11.1
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66480
+
+¿Deben llevar placas-etiqueta los vehículos que transportan bultos conteniendo materias radiactivas?
+
+A Sí.
+
+B Solo cuando sean materias fisionables.
+
+C Solo cuando sean bultos de tipo B(U), B(M) o C.
+
+D No.
+
+RESPUESTA: A
+
+NORMA: Acuerdo ADR, 5.3.1.5.2
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66481
+
+¿Qué bultos de materias radiactivas deben estar separados durante el transporte de las películas fotográficas sin revelar?
+
+A Ninguno.
+
+B Los de categoría I-BLANCA.
+
+C Los de categoría II-AMARILLA.
+
+D Las respuestas B y C son correctas.
+
+RESPUESTA: C
+
+NORMA: Acuerdo ADR, 7.5.11 (CV33)
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 66482
+
+¿Qué mercancías peligrosas de clase 7 se consideran de alto riesgo?
+
+A Todas.
+
+B Las contenidas en bultos de tipo B.
+
+C En general, las contenidas en bultos de tipo BI-2 y BI-3.
+
+D En general, aquellas cuya actividad es igual o superior a 3.000 A2 por bulto.
+
+RESPUESTA: D
+
+NORMA: Acuerdo ADR, 1.10.3.1.3
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+

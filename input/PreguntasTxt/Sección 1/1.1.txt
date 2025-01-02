@@ -1,0 +1,5040 @@
+COD: 1
+
+¿A cuántos caballos de vapor (CV) equivale un kilovatio (kW)?
+
+A 1 kW = 0,736 CV.
+
+B 1 kW = 0,876 CV.
+
+C 1 kW = 0,325 CV.
+
+D 1 kW = 1,36 CV.
+
+RESPUESTA: D
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 2
+
+¿A cuántos kilovatios (kW) equivale un caballo de vapor (CV)?
+
+A 1 CV = 0,325 kW.
+
+B 1 CV = 0,500 kW.
+
+C 1 CV = 0,736 kW.
+
+D 1 CV = 0,876 kW.
+
+RESPUESTA: C
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 5
+
+¿A qué equivale la potencia de un motor, es decir, a qué equivale la cantidad de trabajo que desarrolla el motor por unidad de tiempo?
+
+A Al par desarrollado por el motor multiplicado por la masa total transportada.
+
+B Al par desarrollado por el motor multiplicado por la distancia recorrida.
+
+C Al par desarrollado por el motor multiplicado por el número de revoluciones a las que gira el mismo.
+
+D Al par desarrollado por el motor a un número de revoluciones en que se alcanza un aprovechamiento total del combustible.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+
+
+COD: 7
+
+¿A qué número de revoluciones se alcanza la potencia máxima de un motor?
+
+A Al número de revoluciones a las que gira el motor en el momento de arrancarlo.
+
+B A bajas revoluciones.
+
+C A un número intermedio de revoluciones.
+
+D A un número de revoluciones próximo al máximo.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+
+
+COD: 8
+
+¿A qué régimen de revoluciones del motor de un vehículo es mayor el par motor?
+
+A A un régimen bajo de revoluciones.
+
+B A un régimen medio de revoluciones.
+
+C A un régimen alto de revoluciones.
+
+D En todo el rango de revoluciones del motor.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+
+
+COD: 23
+
+¿Por medio de qué mecanismos se obtienen en la caja de velocidades con cambio manual las relaciones de desmultiplicación adaptadas a los diferentes valores que opone el vehículo al desplazarse?
+
+A Por medio de un conjunto de contrapesos.
+
+B Por medio de un conjunto de engranajes.
+
+C Por medio de un conjunto de válvulas.
+
+D Por medio de un conjunto de ruedas.
+
+RESPUESTA: B
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 52
+
+¿Cómo es la cantidad de combustible que se inyecta en el motor y el par motor cuando este gira a bajas revoluciones?
+
+A Pequeña y, por tanto, también lo es el par motor.
+
+B Pequeña, pero en cambio el par motor es grande.
+
+C Grande y, por tanto, también lo es el par motor.
+
+D Grande, al contrario que el par motor producido.
+
+RESPUESTA: A
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 75
+
+¿Cómo se denomina al motor que conserva un par similar durante una amplia gama de revoluciones?
+
+A Lineal.
+
+B Elástico.
+
+C Inelástico.
+
+D Exponencial.
+
+RESPUESTA: B
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 106
+
+El par motor está relacionado con:
+
+A la longitud del cigüeñal.
+
+B el diámetro del embrague.
+
+C la expansión de los gases quemados en el interior del cilindro.
+
+D el número de velocidades de la caja de cambios.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 137
+
+¿Cómo se llama el par que proporciona la tracción para que, aplicado a través de la adherencia entre neumático y calzada, permita el desplazamiento del vehículo?
+
+A Par en rueda.
+
+B Par en transmisión.
+
+C Par motor.
+
+D Par en cigüeñal.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+
+
+COD: 151
+
+¿Cómo se llaman las curvas a través de las cuales se representan el par y la potencia, en las cuales se ve cómo varían las prestaciones en función de las revoluciones?
+
+A Curvas de potencia media.
+
+B Curvas técnicas normalizadas.
+
+C Curvas características.
+
+D Curvas máximas.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+
+
+COD: 155
+
+El par motor se produce…
+
+A debido a la fuerza de expansión de los gases quemados en el motor que se transforma en giro del cigüeñal.
+
+B debido a la fuerza de compresión de la mezcla de aire y carburante en el motor por acción del giro del cigüeñal.
+
+C debido a la apertura y cierre de las válvulas de admisión y escape de la culata.
+
+D debido a la diferencia de potencial producida en los sistemas de generación de electricidad.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 172
+
+¿Qué efecto se produce en el régimen de revoluciones del motor hasta llegar a las ruedas?
+
+A Se produce una multiplicación.
+
+B Se produce una desmultiplicación.
+
+C Se produce una desclasificación.
+
+D Se produce una potenciación.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 175
+
+¿Cómo son los valores de par y potencia que aparecen en las especificaciones técnicas indicadas por el fabricante del vehículo?
+
+A Mínimos.
+
+B Medios.
+
+C Incrementados.
+
+D Máximos.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+
+
+COD: 183
+
+¿Con qué nivel de revoluciones se obtiene un mejor par motor?
+
+A El par motor no depende de las revoluciones.
+
+B Con el más bajo.
+
+C Con el más alto.
+
+D Con un nivel medio.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 232
+
+¿Cuál de las siguientes afirmaciones es cierta?
+
+A La potencia máxima se alcanza a la velocidad máxima.
+
+B Los valores máximos de par y potencia no se alcanzan al mismo régimen de funcionamiento del motor.
+
+C El par máximo se alcanza al ralentí.
+
+D La potencia máxima se alcanza al ralentí.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+
+
+COD: 236
+
+¿Cuál de las siguientes afirmaciones es cierta respecto al número de revoluciones al que se alcanzan el par máximo y la potencia máxima?
+
+A El número de revoluciones al que se alcanzan el par máximo y la potencia máxima coinciden.
+
+B El par máximo se alcanza a un número bajo de revoluciones, mientras que la potencia máxima se alcanza a un número intermedio de revoluciones.
+
+C El par máximo se alcanza a un número intermedio de revoluciones, mientras que la potencia máxima se alcanza a un número de revoluciones próximo al máximo.
+
+D El par máximo se alcanza a un número de revoluciones próximo al máximo, mientras que la potencia máxima se alcanza a un número intermedio de revoluciones.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+
+
+COD: 241
+
+De las siguientes afirmaciones relativas a la potencia que debe tener un vehículo para transportar una carga determinada, ¿cuál es cierta?
+
+A Lo mejor es que el vehículo tenga la mayor potencia posible para desplazarse rápidamente.
+
+B Lo mejor es que tenga la menor potencia posible, con objeto de que sean menores los consumos.
+
+C Lo mejor es que la relación entre la potencia del motor y la masa transportada sea la adecuada.
+
+D Con tal que el vehículo tenga potencia suficiente para transportar la carga, no importa cuál sea el valor de la potencia.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 243
+
+Para poder utilizar adecuadamente el motor de un vehículo, ¿cuál de las siguientes características es innecesario conocer?
+
+A La potencia máxima.
+
+B El coeficiente de rozamiento.
+
+C El consumo específico.
+
+D El par máximo.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 244
+
+¿Cuál de las siguientes características no forma parte de la definición de "zona económica del motor"?
+
+A El consumo específico.
+
+B El par máximo.
+
+C La energía termodinámica.
+
+D La potencia máxima.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 281
+
+¿Qué elemento de la cadena cinemática tiene como función convertir la fuerza y el número de revoluciones del motor en función de la fuerza de tracción que se quiere conseguir?
+
+A El cigüeñal.
+
+B La caja de velocidades.
+
+C El embrague.
+
+D El diferencial.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+
+
+COD: 295
+
+En el ámbito de la física dinámica, ¿qué es un "par"?
+
+A La fuerza que desarrolla un mecanismo en rotación o la fuerza que hay que hacer para hacerlo girar.
+
+B La fuerza que desarrolla un mecanismo en movimiento lineal o la fuerza que hay que hacer para ponerlo en movimiento.
+
+C La potencia que desarrolla un motor al girar.
+
+D La cantidad de trabajo que puede desarrollar un motor en un determinado tiempo.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+
+
+COD: 297
+
+¿Qué es el consumo específico de un motor?
+
+A El consumo de combustible, en litros, para que el vehículo recorra 100 km.
+
+B La forma de medir la cantidad de carburante que gasta el motor en relación a la potencia desarrollada.
+
+C La forma de medir la cantidad de carburante que gasta el motor en relación al par desarrollado.
+
+D La cantidad de kilómetros que puede recorrer un vehículo con una cantidad determinada de combustible (normalmente 10 litros).
+
+RESPUESTA: B
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 298
+
+¿Qué es el consumo específico en un motor?
+
+A La cantidad de carburante necesaria para producir una unidad de fuerza en una unidad de tiempo.
+
+B La cantidad de calor necesario para producir una unidad de velocidad en una unidad de tiempo.
+
+C La cantidad de carburante necesaria para producir una unidad de potencia en una unidad de tiempo.
+
+D La cantidad de carburante necesaria para producir una unidad de temperatura en una unidad de tiempo.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 308
+
+Teniendo en cuenta la acción que produce el grupo cónico, ¿qué es mayor, el par en rueda o el par motor?
+
+A Siempre es mayor el par en rueda.
+
+B Siempre es mayor el par motor.
+
+C Son iguales.
+
+D Dependiendo del número de revoluciones, a veces es mayor el par en rueda y otras veces el par motor.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 348
+
+¿Qué magnitud física se tendrá que desarrollar al hacer girar una llave para desenroscar una tuerca de una rueda?
+
+A Una fuerza.
+
+B Una potencia.
+
+C Una impulsión.
+
+D Un par de fuerzas.
+
+RESPUESTA: D
+
+NORMA: Mecánica newtoniana
+
+REFERENCIA DOCTRINAL: Mecánica newtoniana
+
+
+
+COD: 410
+
+¿Qué se representa en las curvas características del motor de un vehículo?
+
+A La forma en que varía la potencia en función del par del vehículo.
+
+B La forma en que varían las prestaciones (el par y la potencia) en función del número de revoluciones del vehículo.
+
+C La forma en que varía el par en función de la potencia del vehículo.
+
+D La forma en que varía la velocidad en función del consumo del vehículo.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 446
+
+¿Qué tipo de transformación energética ocurre en el motor?
+
+A La energía mecánica del carburante se transforma en energía química.
+
+B La energía mecánica del carburante se transforma en energía eléctrica.
+
+C La energía química del carburante se transforma en energía mecánica.
+
+D La energía química del carburante se transforma en energía eléctrica.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente para conductores de vehículos industriales. IDAE
+
+
+
+COD: 466
+
+¿Se produce la fuerza máxima de combustión al pisar el acelerador a fondo?
+
+A Sí, porque la cantidad de carburante que se inyecta es máxima.
+
+B No, porque, aunque se pise a fondo el acelerador, no se puede inyectar más carburante.
+
+C No, pues, aunque se inyecte la máxima cantidad de carburante, no hay suficiente aire ni tiempo para quemarlo.
+
+D No, porque, al pisar el acelerador a fondo, las resistencias de rozamiento son máximas.
+
+RESPUESTA: C
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 472
+
+A altas revoluciones, la cantidad de combustible que se inyecta es mucha, pero no hay suficiente aire para que pueda mezclarse y quemarse. ¿Por qué es poca la cantidad de aire?
+
+A Porque, al girar el motor con mucha rapidez, el aire no tiene tiempo de llenar el cilindro.
+
+B Porque se inyecta mucho combustible y no deja sitio para que entre aire.
+
+C Porque, en estas condiciones, dentro del cilindro existe una presión muy alta que no deja entrar más aire.
+
+D Porque la válvula de admisión no se abre.
+
+RESPUESTA: A
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 520
+
+En una caja de velocidades con 5 marchas, ¿qué se consigue con la quinta velocidad?
+
+A En esta marcha no hay desmultiplicación, igualándose las r.p.m. del motor.
+
+B Se reducen en gran medida las r.p.m. del motor, con lo que se pierde en velocidad, pero se gana en fuerza.
+
+C Se reducen un poco las r.p.m. del motor, lo que permite alcanzar una cierta velocidad para recorridos urbanos.
+
+D En esta marcha se produce una multiplicación de las revoluciones del motor.
+
+RESPUESTA: D
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 521
+
+En una caja de velocidades con 5 marchas, además de la marcha atrás, ¿cuál es generalmente la marcha que produce una multiplicación de las r.p.m. del motor?
+
+A La primera velocidad.
+
+B La tercera velocidad.
+
+C La quinta velocidad.
+
+D La marcha atrás.
+
+RESPUESTA: C
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 522
+
+En una caja de velocidades con 5 marchas y marcha atrás, ¿cuál es generalmente la marcha que tiene más fuerza, produce más desmultiplicación y es, por tanto, la más corta?
+
+A La segunda velocidad.
+
+B La primera velocidad.
+
+C La quinta velocidad.
+
+D La marcha atrás.
+
+RESPUESTA: D
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 525
+
+En una caja de velocidades de 5 marchas, ¿qué se consigue con la primera velocidad?
+
+A En esta marcha no hay desmultiplicación, igualándose las r.p.m. del motor, consiguiéndose una velocidad alta, pero poca fuerza.
+
+B Se reducen en gran medida las r.p.m. del motor, con lo que se pierde en velocidad, pero se gana en fuerza.
+
+C Se reducen un poco las r.p.m. del motor, lo que permite alcanzar una cierta velocidad para recorridos urbanos.
+
+D En esta marcha se produce una multiplicación de las revoluciones del motor.
+
+RESPUESTA: B
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 713
+
+La utilización adecuada de la caja de velocidades…
+
+A debe evitar las turbulencias.
+
+B mejora la velocidad, pero perjudica al consumo.
+
+C debe permitir que el motor gire siempre dentro de la zona económica.
+
+D perjudica a la velocidad, pero mejora el consumo.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 721
+
+La zona de máxima eficiencia del motor, zona económica…
+
+A depende fundamentalmente de la aerodinámica del vehículo.
+
+B está especificada en el cuentarrevoluciones, generalmente de color rojo.
+
+C está especificada en el cuentarrevoluciones, generalmente de color verde.
+
+D depende fundamentalmente de la MMA por eje.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 815
+
+Cuando se conduce en la zona del cuentarrevoluciones donde se produce el máximo par motor…
+
+A se desaprovecha el carburante.
+
+B se incrementan los residuos expulsados a través del tubo de escape.
+
+C las piezas se desgastan más.
+
+D se aprovecha mejor el carburante.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 829
+
+Cuanto mayor es el régimen de giro del motor…
+
+A menores serán las pérdidas por fricción entre las piezas del motor.
+
+B mayor será el consumo.
+
+C mayores serán las pérdidas por fricción entre las piezas del motor, lo que se traducirá en un menor consumo.
+
+D habrá un menor consumo.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 830
+
+Cuanto menor es el régimen de giro del motor…
+
+A menores serán las pérdidas por fricción entre las piezas del motor, lo que se traducirá en un menor consumo.
+
+B menores serán las pérdidas por fricción entre las piezas del motor sin que exista incidencia alguna en el consumo.
+
+C mayores serán las pérdidas por fricción entre las piezas del motor, lo que se traducirá en un menor consumo.
+
+D mayores serán las pérdidas por fricción entre las piezas del motor, lo que se traducirá en un mayor consumo.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 848
+
+De los siguientes factores de los que depende la potencia de un motor, ¿cuál es el que más influye en su valor?
+
+A La cilindrada del motor.
+
+B El grado de llenado de los cilindros.
+
+C La relación de compresión.
+
+D El número de revoluciones.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 900
+
+El consumo de carburante…
+
+A disminuye al aumentar la velocidad.
+
+B disminuye con marchas cortas.
+
+C aumenta a elevado número de revoluciones.
+
+D es inexistente con el vehículo en ralentí.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 905
+
+El consumo de carburante de un vehículo se suele medir en…
+
+A euros cada 1.000 kilómetros recorridos.
+
+B litros consumidos cada 100 kilómetros recorridos.
+
+C litros consumidos por período de tiempo.
+
+D euros cada 100 kilómetros recorridos.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 906
+
+El consumo específico en un vehículo representa la cantidad…
+
+A de carburante necesaria para producir una unidad de potencia en una unidad de tiempo.
+
+B de calor necesaria para producir una unidad de fuerza en una unidad de tiempo.
+
+C de carburante necesaria para producir una unidad de fuerza en una unidad de tiempo.
+
+D de carburante necesaria para producir una unidad de temperatura en una unidad de tiempo.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 939
+
+El par máximo representa el máximo esfuerzo que se puede obtener…
+
+A del acelerador a un régimen de velocidad dado.
+
+B de la caja de cambios a un régimen de giro dado.
+
+C del motor a un régimen de giro dado.
+
+D del carburador a una temperatura dada.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 1046
+
+En función de por dónde se circule, se recomiendan unas técnicas indicadas para optimizar el consumo de carburante. ¿Qué se recomienda en llano?
+
+A Mantener el pedal acelerador presionado.
+
+B Circular en punto muerto siempre que sea posible.
+
+C Mantener la aguja del tacómetro en la parte izquierda de la zona económica, lo más cerca posible del régimen de consumo específico mínimo.
+
+D Reducir la relación de trasmisión seleccionada.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 1163
+
+Para que el motor entregue una cierta potencia, ¿puede haber varias combinaciones posibles de velocidades y posiciones del acelerador o existe solo una combinación posible?
+
+A En cada motor, para una potencia determinada, existe solo una marcha y posición del acelerador.
+
+B Para que un motor entregue una potencia dada, existe una sola combinación de la caja de velocidades, aunque pueden existir varias posiciones del acelerador.
+
+C Para que un motor entregue una cierta potencia, existen varias combinaciones en la caja de velocidades y posiciones del pedal acelerador, aunque con diferentes consumos cada una de ellas.
+
+D Para que un motor entregue una cierta potencia, existen dos o tres combinaciones en la caja de velocidades y posiciones del pedal acelerador, aunque con el mismo consumo todas ellas.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 1171
+
+Para un par motor dado, ¿de qué depende el par que llega a las ruedas?
+
+A De la temperatura de los gases de escape.
+
+B De la presión que exista en el colector de escape.
+
+C De la relación de transmisión entre el volante motor y las ruedas.
+
+D Del orden de encendido del motor.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 1484
+
+¿Qué elemento del motor transforma el movimiento lineal alternativo del pistón en movimiento giratorio?
+
+A El árbol de levas.
+
+B El cigüeñal.
+
+C El cilindro.
+
+D El segmento.
+
+RESPUESTA: B
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 1485
+
+El cigüeñal transforma…
+
+A el movimiento horizontal del pistón en movimiento vertical.
+
+B el movimiento vertical del pistón en movimiento horizontal.
+
+C el movimiento lineal alternativo del pistón en movimiento giratorio.
+
+D el movimiento giratorio del pistón en movimiento lineal alternativo.
+
+RESPUESTA: C
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 2142
+
+Cuanto mayor sea la desmultiplicación que se produzca en la caja de velocidades…
+
+A menor fuerza transmitirá el motor a las ruedas motrices.
+
+B mayor fuerza transmitirá el motor a las ruedas motrices.
+
+C menor fuerza transmitirá el motor al embrague.
+
+D mayor fuerza transmitirá el motor al embrague.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2143
+
+Cuanto menor sea la desmultiplicación que se produzca en la caja de velocidades…
+
+A menor fuerza transmitirá el motor a las ruedas motrices.
+
+B mayor fuerza transmitirá el motor a las ruedas motrices.
+
+C menor fuerza transmitirá el motor al embrague.
+
+D mayor fuerza transmitirá el motor al embrague.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2220
+
+¿Qué es el par motor?
+
+A Es el esfuerzo que transmite el pistón sobre el cigüeñal.
+
+B Es la velocidad de movimiento del pistón.
+
+C Es el tiempo que tarda el pistón en recorrer la distancia que hay entre el punto muerto superior y el punto muerto inferior.
+
+D Es el tiempo que tarda el pistón en realizar dos carreras.
+
+RESPUESTA: A
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 2222
+
+El par mínimo de un motor se produce…
+
+A al ralentí.
+
+B al máximo de revoluciones.
+
+C a un régimen medio de revoluciones.
+
+D cuanto más lleno de gases se encuentre el cilindro.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2224
+
+Cuando un motor se encuentra a ralentí, el par motor…
+
+A será máximo.
+
+B será mínimo.
+
+C será nulo.
+
+D tendrá valor cero.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2225
+
+Al régimen máximo de revoluciones de un motor, el par motor será…
+
+A máximo.
+
+B nulo.
+
+C mínimo.
+
+D superior al mínimo, pero inferior al máximo.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2226
+
+En un motor de combustión, el par motor máximo se consigue…
+
+A cuando el motor gira al máximo de revoluciones.
+
+B cuando el motor gira al mínimo de revoluciones.
+
+C cuando el motor gira a un régimen medio de revoluciones.
+
+D cuando el vehículo circula en pendiente ascendente.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2227
+
+En un mismo motor, ¿puede variar el par motor?
+
+A Sí, porque el par motor depende de la inclinación de la calzada por donde circule el vehículo.
+
+B Sí, porque al máximo de revoluciones se alcanza el mayor par motor.
+
+C Sí, porque a un régimen medio de revoluciones se alcanza el mayor par motor.
+
+D No, porque el par motor es un valor constante para cada motor.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2228
+
+Cuando en un motor el par motor máximo se consigue durante un margen amplio de revoluciones, se dice que es un motor…
+
+A alargado.
+
+B cuadrado.
+
+C supercuadrado.
+
+D elástico.
+
+RESPUESTA: D
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 2229
+
+Se dice que un motor es elástico…
+
+A si puede alcanzar un número alto de revoluciones.
+
+B si no puede alcanzar un número alto de revoluciones.
+
+C cuando se consigue el máximo par motor durante un margen amplio de revoluciones.
+
+D cuando su consumo de carburante varía poco durante un margen amplio de revoluciones.
+
+RESPUESTA: C
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 2230
+
+¿Por qué motivo a un número alto de revoluciones de un motor no se consigue el par motor máximo?
+
+A Porque aumenta el rozamiento del pistón con las paredes del cilindro.
+
+B Porque aumenta el rozamiento del pistón con la biela.
+
+C Porque aumenta el rozamiento del pistón con el cigüeñal.
+
+D Porque hay muy poco tiempo para el llenado del cilindro.
+
+RESPUESTA: D
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 2231
+
+Cuando un motor de combustión gira a altas revoluciones…
+
+A se consigue el máximo par motor.
+
+B el llenado del cilindro es máximo.
+
+C la combustión del carburante con el aire es más potente.
+
+D hay muy poco tiempo para que se queme el carburante.
+
+RESPUESTA: D
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 2237
+
+La potencia de un motor es…
+
+A el par motor.
+
+B el trabajo que es capaz de realizar en la unidad de tiempo.
+
+C la relación de compresión del motor.
+
+D el valor que se tiene en cuenta para fijar el impuesto sobre los automóviles.
+
+RESPUESTA: B
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 2238
+
+La potencia de un motor se mide…
+
+A en caballos fiscales.
+
+B en caballos de vapor.
+
+C en newtons.
+
+D en kilómetros por hora.
+
+RESPUESTA: B
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 2239
+
+La potencia de un motor se mide…
+
+A en caballos fiscales.
+
+B en newtons.
+
+C en kilómetros por hora.
+
+D en kilovatios.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2240
+
+La máxima potencia de un motor se consigue…
+
+A al ralentí.
+
+B a un régimen medio de revoluciones.
+
+C a un número de revoluciones próximo al máximo.
+
+D al máximo de revoluciones.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2241
+
+La potencia de un motor…
+
+A es máxima a un régimen medio de revoluciones.
+
+B aumenta con las revoluciones de motor alcanzando el máximo con el máximo de revoluciones.
+
+C aumenta con las revoluciones de motor alcanzando la máxima potencia cuando el motor gira próximo al máximo.
+
+D permanece invariable con independencia de las revoluciones del motor.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2242
+
+¿Cuál es el factor que más influye en la potencia de un motor?
+
+A La cilindrada del motor.
+
+B La relación de compresión.
+
+C El grado de llenado de los cilindros.
+
+D El número de revoluciones.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2243
+
+¿Qué factor es el que más influye en la potencia de un motor?
+
+A El número de revoluciones.
+
+B La aerodinámica del vehículo.
+
+C El grado de llenado del cilindro.
+
+D La masa del vehículo.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2244
+
+La potencia de un motor, ¿depende de su cilindrada?
+
+A Sí, a mayor cilindrada, mayor potencia.
+
+B Sí, a mayor cilindrada, menor potencia.
+
+C No, su potencia solo depende del carburante que utilice.
+
+D No, su potencia solo dependerá de la aerodinámica del vehículo.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2245
+
+Circular con un automóvil haciendo uso de su máxima potencia, ¿es una buena medida para ahorrar combustible?
+
+A Sí, porque el llenado del cilindro es mayor.
+
+B Sí, porque se aprovecha mejor el carburante quemado.
+
+C Sí, porque se circularía a un régimen medio de revoluciones.
+
+D No, porque se circularía a un régimen alto de revoluciones, aumentando el consumo de carburante.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2246
+
+Cuanto mayor sea la cilindrada de un motor…
+
+A mayor será su potencia.
+
+B menor será su potencia.
+
+C peor será el llenado de los cilindros.
+
+D menor será el número máximo de revoluciones que pueda alcanzar.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2247
+
+Cuando se habla de "par en rueda" se hace referencia al esfuerzo de giro:
+
+A que aplica el pistón sobre el cigüeñal.
+
+B que aplica el pistón sobre la biela.
+
+C que llega a las ruedas motrices.
+
+D que aplica el piñón de ataque del árbol de transmisión sobre la corona dentada del grupo cónico.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2248
+
+El par motor de un motor de combustión…
+
+A es menor que el par en rueda.
+
+B es igual que el par en rueda.
+
+C es mayor que el par en rueda.
+
+D no varía con las revoluciones del motor.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2249
+
+El par en rueda de un automóvil…
+
+A es menor que el par motor.
+
+B es igual que el par motor.
+
+C es mayor que el par motor.
+
+D no depende de la relación de marchas seleccionada.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2250
+
+Un kilovatio de potencia equivale a…
+
+A 1,36 caballos de vapor.
+
+B 2,5 caballos de vapor.
+
+C 1,10 caballos de vapor.
+
+D 2,25 caballos de vapor.
+
+RESPUESTA: A
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 2251
+
+Según la equivalencia que hay entre kilovatios y caballos de vapor, un kilovatio son…
+
+A 0,736 caballos de vapor.
+
+B 1,36 caballos de vapor.
+
+C 2,36 caballos de vapor.
+
+D 1,736 caballos de vapor.
+
+RESPUESTA: B
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 2252
+
+El par motor se mide en…
+
+A caballos de vapor (CV).
+
+B caballos fiscales (CF).
+
+C newton - metro (Nm).
+
+D kilómetros por hora (km/h).
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2253
+
+El par máximo de un motor es…
+
+A el máximo de revoluciones que puede alcanzar el motor.
+
+B la máxima fuerza de giro que puede proporcionar el motor.
+
+C la potencia máxima que puede proporcionar el motor.
+
+D el consumo máximo del motor.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2254
+
+La máxima fuerza de empuje que puede proporcionar el pistón sobre el cigüeñal es…
+
+A el par máximo.
+
+B la potencia máxima.
+
+C el consumo específico.
+
+D la relación de compresión máxima.
+
+RESPUESTA: A
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 2255
+
+En un motor térmico, el máximo aprovechamiento de combustible se produce…
+
+A cuando el motor gira al máximo de revoluciones.
+
+B cuando se hace uso de la máxima potencia del motor.
+
+C cuando el motor funciona en la zona de régimen de par máximo.
+
+D cuando el motor gira al ralentí.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2256
+
+Cuando el motor funciona en la zona de régimen de par máximo…
+
+A se utiliza el máximo de potencia del motor.
+
+B el motor gira al máximo de revoluciones.
+
+C se aprovecha mejor el combustible.
+
+D el motor gira al mínimo de revoluciones.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2257
+
+Si se circula haciendo uso de la máxima potencia del motor…
+
+A aumenta el consumo de carburante.
+
+B se está utilizando el máximo par motor.
+
+C es porque se circula a un régimen medio de revoluciones.
+
+D es porque se circula a bajas revoluciones.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2258
+
+La cantidad de trabajo que puede proporcionar un motor por unidad de tiempo es…
+
+A la potencia.
+
+B el consumo.
+
+C la relación de compresión.
+
+D el par motor.
+
+RESPUESTA: A
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 2259
+
+La cantidad de trabajo que puede proporcionar un motor por unidad de tiempo se mide en…
+
+A caballos de vapor.
+
+B kilómetros por hora.
+
+C newton - metro.
+
+D kilográmetros.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2260
+
+La cantidad de trabajo que puede proporcionar un motor por unidad de tiempo se mide en…
+
+A kilovatios.
+
+B kilómetros por hora.
+
+C millas por hora.
+
+D kilográmetros.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2261
+
+El consumo específico de un motor es…
+
+A la cantidad de litros que consume cada 100 kilómetros.
+
+B la distancia que recorre el vehículo con un litro de carburante.
+
+C la cantidad de combustible que necesita un motor para suministrar una determinada unidad de potencia por unidad de tiempo.
+
+D la distancia que recorre el vehículo con el depósito lleno de carburante.
+
+RESPUESTA: C
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 2262
+
+A la cantidad de combustible que necesita un motor para suministrar una determinada unidad de potencia por unidad de tiempo se le llama..
+
+A consumo específico.
+
+B consumo medio.
+
+C consumo instantáneo.
+
+D consumo total.
+
+RESPUESTA: A
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 2263
+
+De los que se indican, ¿qué tipo de motor es el que tiene un menor consumo específico?
+
+A El motor diésel de inyección directa.
+
+B El motor diésel de inyección indirecta.
+
+C El motor de gasolina de inyección directa.
+
+D El motor de gasolina de inyección indirecta.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2264
+
+De los motores que se indican, ¿cuál es el que tiene un mayor consumo específico?
+
+A El motor diésel de inyección directa.
+
+B El motor diésel de inyección indirecta.
+
+C El motor de gasolina de inyección directa.
+
+D El motor de gasolina de inyección indirecta.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2265
+
+Un motor diésel de inyección directa respecto de un motor diésel de inyección indirecta:
+
+A tiene un mayor consumo específico.
+
+B tiene un menor consumo específico.
+
+C tiene el mismo consumo específico.
+
+D siempre tiene un menor par motor.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2266
+
+Un motor diésel de inyección indirecta respecto de un motor diésel de inyección directa:
+
+A tiene un mayor consumo específico.
+
+B tiene un menor consumo específico.
+
+C tiene el mismo consumo específico.
+
+D siempre tiene un menor par motor.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2267
+
+Ordene los motores de menor a mayor consumo específico.
+
+A Diésel de inyección directa, diésel de inyección indirecta, gasolina de inyección directa y gasolina de inyección indirecta.
+
+B Gasolina de inyección directa, gasolina de inyección indirecta, diésel de inyección directa y diésel de inyección indirecta.
+
+C Diésel de inyección directa, gasolina de inyección directa, diésel de inyección indirecta y gasolina de inyección indirecta.
+
+D Diésel de inyección indirecta, diésel de inyección directa, gasolina de inyección directa y gasolina de inyección indirecta.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2268
+
+Ordene los motores de mayor a menor consumo específico.
+
+A Diésel de inyección directa, diésel de inyección indirecta, gasolina de inyección directa y gasolina de inyección indirecta.
+
+B Gasolina de inyección indirecta, gasolina de inyección directa, diésel de inyección indirecta y diésel de inyección directa.
+
+C Diésel de inyección directa, gasolina de inyección directa, diésel de inyección indirecta y gasolina de inyección indirecta.
+
+D Diésel de inyección indirecta, diésel de inyección directa, gasolina de inyección directa y gasolina de inyección indirecta.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2269
+
+En general, los motores que utilizan el gasóleo como carburante tienen un consumo específico:
+
+A mayor que los que utilizan gasolina como carburante.
+
+B menor que los que utilizan gasolina como carburante.
+
+C igual que los que utilizan gasolina como carburante.
+
+D menor cuando funcionaban al máximo de revoluciones.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2271
+
+Un motor consume más combustible cuando…
+
+A el motor da su máximo par motor.
+
+B el motor da su máxima potencia.
+
+C se utilizan relaciones de marchas largas.
+
+D se circula por una pendiente descendente.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2273
+
+El consumo específico de un motor, ¿indica cómo es su rendimiento?
+
+A No, solo indica la cantidad de litros que consume cada 100 kilómetros.
+
+B No, solo indica cómo es su par motor.
+
+C Sí, a menor consumo específico menor rendimiento del motor.
+
+D Sí, a menor consumo específico mayor rendimiento del motor.
+
+RESPUESTA: D
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 2274
+
+El consumo específico de un motor, ¿indica cómo es su rendimiento?
+
+A No, solo indica la cantidad de litros que consume cada 100 kilómetros.
+
+B No, solo indica cómo es su par motor.
+
+C Sí, a mayor consumo específico mayor rendimiento del motor.
+
+D Sí, a mayor consumo específico menor rendimiento del motor.
+
+RESPUESTA: D
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 2277
+
+Si un motor funciona al máximo de revoluciones…
+
+A aumenta el consumo.
+
+B aumenta el par motor.
+
+C aumenta el consumo y el par motor.
+
+D disminuye el consumo y el par motor.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2279
+
+En un motor que funcione a un régimen medio de revoluciones respecto del mismo motor funcionando al máximo de revoluciones:
+
+A disminuye el consumo.
+
+B disminuye el par motor.
+
+C disminuye el consumo y el par motor.
+
+D aumenta el consumo y el par motor.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2282
+
+¿Qué transformación se produce en el interior de un motor de combustión?
+
+A Monóxido de carbono en oxígeno.
+
+B Energía química en energía mecánica.
+
+C Monóxido de carbono en dióxido de carbono.
+
+D Energía eléctrica en energía mecánica.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2472
+
+El máximo par motor coincide:
+
+A con el máximo de revoluciones del motor.
+
+B con el mínimo de revoluciones del motor.
+
+C con un régimen medio de revoluciones del motor.
+
+D con las revoluciones de máximo consumo.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2474
+
+Cuando un motor funciona a un régimen medio de revoluciones:
+
+A el par motor es mayor y el consumo menor.
+
+B el par motor y el consumo son menores.
+
+C el par motor y el consumo son mayores.
+
+D el par motor es menor y el consumo mayor.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2475
+
+Cuando un motor funciona a un régimen medio de revoluciones en vez de a un régimen alto de revoluciones:
+
+A el par motor es mayor y el consumo menor.
+
+B el par motor y el consumo son menores.
+
+C el par motor y el consumo son mayores.
+
+D el par motor es menor y el consumo mayor.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2477
+
+Para reducir el consumo de combustible, es preferible:
+
+A circular a un régimen de revoluciones que permita utilizar el menor par motor posible.
+
+B circular a un régimen de revoluciones que permita utilizar el mayor par motor posible.
+
+C circular siempre en primera velocidad.
+
+D no utilizar la inercia del vehículo.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2842
+
+Los motores diésel de inyección indirecta tienen un consumo específico:
+
+A mayor que los de inyección directa.
+
+B igual que los de inyección directa.
+
+C menor que los de inyección directa.
+
+D menor cuanto mayor sea el número de revoluciones.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2843
+
+El consumo específico de un motor diésel es:
+
+A mayor que el de un motor de gasolina.
+
+B igual que el de un motor de gasolina.
+
+C menor que el de un motor de gasolina.
+
+D menor cuanto mayor sea el número de revoluciones.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 2844
+
+La potencia de un motor se puede medir en…
+
+A caballos de vapor.
+
+B caballos fiscales.
+
+C metros por segundo.
+
+D metros por hora.
+
+RESPUESTA: A
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 3298
+
+¿Cuál de las siguientes técnicas indicadas es más correcta para optimizar el consumo de carburante?
+
+A Evitar el viento trasero.
+
+B Reducir el régimen de revoluciones.
+
+C Circular en punto muerto siempre que sea posible.
+
+D Usar un adecuado asistente de la dirección.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 3323
+
+¿Cuál de los siguientes estilos de conducción es inadecuado para el ahorro de carburante?
+
+A Utilizar el freno del motor en lugar de los frenos convencionales.
+
+B Actuar sabiendo que el vehículo consume más a bajas revoluciones.
+
+C Al arrancar, esperar unos instantes antes de iniciar la marcha si su vehículo es diésel.
+
+D Actuar sabiendo que el vehículo consume menos en las marchas largas.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 3358
+
+¿Cuál es el concepto de "par motor"?
+
+A Es el trabajo realizado en la unidad de tiempo.
+
+B Es el esfuerzo necesario para hacer girar las ruedas del vehículo.
+
+C Es el esfuerzo que transmite el pistón sobre el cigüeñal y, por tanto, sobre el volante de inercia.
+
+D Es el trabajo necesario para hacer girar las ruedas del vehículo.
+
+RESPUESTA: C
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 3359
+
+¿Cuál es el concepto de potencia de un motor?
+
+A La cantidad de trabajo que puede desarrollar un motor en la unidad de tiempo.
+
+B El esfuerzo necesario para hacer girar a las ruedas del vehículo.
+
+C El esfuerzo que transmite el pistón sobre el cigüeñal y, por tanto, sobre el volante de inercia.
+
+D El trabajo necesario para hacer girar a las ruedas del vehículo.
+
+RESPUESTA: A
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 3431
+
+¿Cuál es la unidad de medida más comúnmente utilizada para medir el consumo específico?
+
+A Amperios por kilovatio y hora (A/kW h).
+
+B Gramos por newton y hora (g/N h).
+
+C Gramos por kilovatio y hora (g/kW h).
+
+D Julios por kilovatio y hora ( J/kW h).
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 3432
+
+¿Cuál es la unidad de medida más comúnmente utilizada para medir el par máximo?
+
+A Kilovatios por metro cuadrado (kW/m2).
+
+B Julio por centímetro (J/cm).
+
+C Newton-metro (Nm).
+
+D Watios por metro cuadrado (W/m2).
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 3433
+
+¿Cuál es la unidad de medida más comúnmente utilizada para medir la potencia máxima del motor de un automóvil?
+
+A Kilovatios (kW).
+
+B Juios (J).
+
+C Newtons (N).
+
+D Voltios (V).
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 3470
+
+¿Cuáles son los límites del régimen de revoluciones de un motor de combustión?
+
+A El régimen de arranque y el máximo, marcado por el corte de inyección.
+
+B El régimen de ralentí y el régimen correspondiente a la potencia máxima.
+
+C El régimen de arranque y el régimen correspondiente al par máximo.
+
+D El régimen de ralentí y el régimen máximo correspondiente al corte de inyección.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 3541
+
+¿Cuándo es mínimo el consumo específico en un motor?
+
+A Cuando gira a la potencia máxima.
+
+B Cuando gira con un par bajo y una baja potencia.
+
+C Cuando gira con un par bajo o intermedio a la máxima potencia.
+
+D Cuando gira al par máximo a una potencia intermedia.
+
+RESPUESTA: D
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 3543
+
+¿Cuándo gasta más combustible un vehículo?
+
+A Cuando el motor da un par bajo.
+
+B Cuando el motor da su máximo par.
+
+C Cuando el motor da una potencia intermedia.
+
+D Cuando el motor da su máxima potencia.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 3554
+
+¿Cuándo se produce el par motor mínimo?
+
+A A la velocidad máxima.
+
+B Al ralentí.
+
+C A la potencia máxima.
+
+D A la aceleración máxima.
+
+RESPUESTA: B
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 3580
+
+¿De cuál de los siguientes factores no depende la demanda de potencia en las ruedas?
+
+A De la tara del vehículo y de la carga transportada.
+
+B De la seguridad pasiva del vehículo.
+
+C De la velocidad del vehículo.
+
+D Del perfil de la vía por la que se circula.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 3603
+
+¿De qué hablamos al referirnos a la desmultiplicación de una caja de cambios?
+
+A Al número de velocidades.
+
+B A las revoluciones del motor en relación con el consumo.
+
+C A la relación entre los engranajes que conectan la velocidad de giro del motor y las ruedas.
+
+D Del total de piñones que componen cada marcha.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 3636
+
+¿En cuál de las siguientes unidades se puede medir el par motor?
+
+A En kilovatios (kW).
+
+B En caballos de vapor (CV).
+
+C En kilogramos por metro (kg/m).
+
+D En newtons (N).
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 3675
+
+¿En qué unidades se mide el par motor en el Sistema Internacional de Unidades?
+
+A En kilogramos (kg).
+
+B En caballos de vapor (CV).
+
+C En Newton - metro (Nm).
+
+D En Newtons (N).
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 3676
+
+¿En qué unidades se mide el par motor en el Sistema Internacional de Unidades?
+
+A En newtons (N).
+
+B En kilogramos (kg).
+
+C En kilogramos por metro (kg/m).
+
+D En newton-metro (Nm).
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 3677
+
+¿En qué unidades se mide la potencia?
+
+A Kilovatios (kW).
+
+B Newtons (N).
+
+C Kilogramos (kg).
+
+D Kilogramos por metro (kg/m).
+
+RESPUESTA: A
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 3680
+
+¿En qué zona del cuentarrevoluciones existe un equilibrio entre la cantidad de carburante que se inyecta y la cantidad de aire que hay en el cilindro, aprovechándose en mayor medida el carburante inyectado?
+
+A En la zona baja del cuentarrevoluciones.
+
+B En la zona intermedia del cuentarrevoluciones.
+
+C En la zona alta del cuentarrevoluciones.
+
+D En las zonas intermedia y alta del cuentarrevoluciones.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 3682
+
+¿Es adecuado conducir frecuentemente en la zona de revoluciones que dan la potencia máxima de un vehículo?
+
+A Sí, porque es la zona donde se produce un buen aprovechamiento del motor.
+
+B Sí, porque es la zona donde se produce un mejor aprovechamiento del combustible.
+
+C No, porque en esa zona los consumos son muy elevados.
+
+D No, porque entonces se sobrepasan los límites de velocidad.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 3683
+
+¿Es adecuado que un vehículo venga equipado con la mayor potencia posible para la carga que puede transportar?
+
+A Sí, porque así puede hacer el transporte más rápidamente.
+
+B Sí, porque de esta forma puede subir cualquier pendiente de la carretera.
+
+C No, porque los consumos son más elevados.
+
+D No, porque no tiene importancia que el vehículo se desplace lentamente.
+
+RESPUESTA: C
+
+NORMA: Manual de gestión del combustible en las flotas de transporte. IDAE.
+
+REFERENCIA DOCTRINAL: Manual de gestión del combustible en las flotas de transporte. IDAE.
+
+
+
+COD: 3686
+
+¿Es el consumo específico algo característico del motor y depende solo de su diseño o depende de la forma y estilo de conducción?
+
+A Es característico del motor y solo depende de su diseño.
+
+B Solo depende de la forma y estilo de conducción.
+
+C Depende tanto del diseño del motor como de la forma y estilo de conducción.
+
+D No depende de ninguno de los dos factores mencionados.
+
+RESPUESTA: A
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 3699
+
+¿Existe un mismo número de revoluciones en el motor y en las ruedas?
+
+A Sí, la transmisión se encarga de ello.
+
+B No, debido a las pérdidas por rozamiento de la transmisión.
+
+C No, porque las revoluciones de las ruedas dependen, además de las revoluciones del motor, de la relación de transmisión seleccionada.
+
+D No, porque entre las ruedas y el pavimento existe una resistencia a la rodadura.
+
+RESPUESTA: C
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 3709
+
+¿Para cuál de las siguientes aplicaciones no tiene utilidad conocer las curvas de par, potencia y consumo específico?
+
+A Para identificar la zona de utilización óptima del cuentarrevoluciones.
+
+B Para obtener los márgenes de velocidad de las cajas de cambio de velocidades.
+
+C Para mejorar la seguridad pasiva del vehículo.
+
+D Para obtener mayor rendimiento del motor.
+
+RESPUESTA: C
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 3712
+
+¿Para qué es necesario generar un par cuando el motor está al ralentí?
+
+A Para compensar la pérdida de calor por el tubo de escape.
+
+B Para compensar las pérdidas térmicas a través del sistema de refrigeración.
+
+C Para vencer la resistencia aerodinámica al movimiento del vehículo.
+
+D Para vencer los rozamientos internos del motor.
+
+RESPUESTA: D
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 3730
+
+Es conveniente que un conductor conozca las curvas características del motor de su vehículo…
+
+A para conocer el margen de revoluciones en que se producen los valores máximos de potencia y par.
+
+B para conocer los valores de la potencia y el par a los que tiene lugar la velocidad máxima.
+
+C para conocer a qué revoluciones del motor tiene lugar la velocidad máxima.
+
+D para conocer a qué velocidad tiene más aceleración el vehículo.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 4286
+
+¿Qué elemento permite aprovechar al máximo la potencia del motor?
+
+A La caja de velocidades.
+
+B El mecanismo cónico.
+
+C El mecanismo diferencial.
+
+D El embrague.
+
+RESPUESTA: A
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 4299
+
+¿Cómo varía el par motor con el número de revoluciones del motor?
+
+A El valor del par no varía con el número de revoluciones.
+
+B Siempre aumenta proporcionalmente al número de revoluciones del motor.
+
+C Inversamente proporcional al número de revoluciones.
+
+D Según crece el número de revoluciones, primero aumenta, alcanza su máximo y, después, disminuye.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 4304
+
+Si al coronar una pendiente el motor va agotándose, ¿qué debe hacer el conductor?
+
+A Levantar el pie del pedal del acelerador para que el motor no se ahogue.
+
+B Pisar el pedal del embrague para que el disco de embrague patine un poco y así poder coronar la pendiente.
+
+C Cambiar de velocidad a otra más corta o reducida.
+
+D Cambiar de velocidad a otra más larga o potente.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 4553
+
+Entre otras, ¿qué característica va a definir en el cuentarrevoluciones de un automóvil la zona económica del motor?
+
+A La carrera del pistón.
+
+B La potencia.
+
+C El tamaño del volante de inercia.
+
+D El material del que está fabricado el motor.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 4554
+
+Entre otras, ¿qué característica va a definir en el cuentarrevoluciones de un automóvil la zona económica del motor?
+
+A El par motor máximo.
+
+B El calibre del pistón.
+
+C La longitud del cigüeñal.
+
+D El diámetro del volante de inercia.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 4555
+
+Entre otras, ¿qué característica va a definir en el cuentarrevoluciones de un automóvil la zona económica del motor?
+
+A La relación de compresión.
+
+B El tamaño del embrague.
+
+C El consumo específico.
+
+D El tamaño del volante de inercia.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 4556
+
+¿Qué característica no influye a la hora de determinar en el cuentarrevoluciones de un automóvil la zona de menor consumo?
+
+A La potencia.
+
+B El par motor máximo.
+
+C El consumo específico.
+
+D El tamaño del cigüeñal.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 4557
+
+¿Qué característica no influye a la hora de determinar en el cuentarrevoluciones de un automóvil la zona de menor consumo?
+
+A La potencia.
+
+B El tipo de culata.
+
+C El consumo específico.
+
+D El par motor máximo.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 4558
+
+¿Qué característica no influye a la hora de determinar en el cuentarrevoluciones de un automóvil la zona de menor consumo?
+
+A El tamaño del embrague.
+
+B La potencia.
+
+C El par motor máximo.
+
+D El consumo específico.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 4559
+
+¿Qué característica no influye a la hora de determinar en el cuentarrevoluciones de un automóvil la zona de menor consumo?
+
+A El par motor máximo.
+
+B El consumo específico.
+
+C La potencia.
+
+D La longitud del vehículo.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 4560
+
+¿Qué característica no influye a la hora de determinar en el cuentarrevoluciones de un automóvil la zona de menor consumo?
+
+A El par motor máximo.
+
+B El consumo específico.
+
+C Las curvas de energía cinética.
+
+D La potencia.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 4561
+
+¿Qué característica no influye a la hora de determinar en el cuentarrevoluciones de un automóvil la zona de menor consumo?
+
+A La potencia.
+
+B La relación de compresión.
+
+C El par motor máximo.
+
+D El consumo específico.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 4562
+
+¿Qué característica no influye a la hora de determinar en el cuentarrevoluciones de un automóvil la zona de menor consumo?
+
+A La carrera del pistón.
+
+B La potencia.
+
+C El consumo específico.
+
+D El par motor máximo.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 4563
+
+¿Qué característica no influye a la hora de determinar en el cuentarrevoluciones de un automóvil la zona de menor consumo?
+
+A El consumo específico.
+
+B El par motor máximo.
+
+C La potencia.
+
+D El calibre del pistón.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 4601
+
+¿Qué actuación es inadecuada como medida de ahorro de carburante?
+
+A Circular a un régimen medio de revoluciones.
+
+B Utilizar la relación de marchas más alta que sea posible, dependiendo de las circunstancias que se den en cada momento.
+
+C Llevar la presión de inflado de los neumáticos que recomiende el fabricante.
+
+D Circular a un régimen alto de revoluciones.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 4604
+
+El número de revoluciones del motor, ¿influye en el consumo de carburante?
+
+A Sí, es menor cuanto mayor es el número de revoluciones.
+
+B Sí, es menor cuanto menor es el número de revoluciones.
+
+C No, el consumo depende de la cilindrada del motor, únicamente.
+
+D No, el consumo solo depende de la velocidad.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 4605
+
+El número de revoluciones del motor, ¿influye en el consumo de carburante?
+
+A Sí, es mayor cuanto mayor es el número de revoluciones.
+
+B Sí, es mayor cuanto menor es el número de revoluciones.
+
+C No, el consumo solo depende de la carga que lleve el vehículo.
+
+D No, el consumo solo depende del volumen del vehículo.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 4607
+
+Conducir en la zona de revoluciones de mayor par motor, ¿es conveniente como medida de ahorro de carburante?
+
+A Sí, porque en esa zona el consumo es menor.
+
+B No, porque en esa zona el consumo es mayor.
+
+C Esta circunstancia no influye en el consumo, solo influye en la potencia.
+
+D Esta circunstancia no influye en el consumo, solo influye en la aceleración.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 4634
+
+¿Qué característica no influye a la hora de determinar en el cuentarrevoluciones de un automóvil la zona de menor consumo?
+
+A El par motor máximo.
+
+B El consumo específico.
+
+C El octanaje del carburante.
+
+D La potencia.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 4635
+
+¿Qué característica no influye a la hora de determinar en el cuentarrevoluciones de un automóvil la zona de menor consumo?
+
+A La potencia.
+
+B El tipo de ralentizador que posea.
+
+C El consumo específico.
+
+D El par motor máximo.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 4636
+
+¿Qué característica no influye a la hora de determinar en el cuentarrevoluciones de un automóvil la zona de menor consumo?
+
+A El consumo específico.
+
+B La potencia.
+
+C El tipo de frenos que monte: disco o tambor.
+
+D El par motor máximo.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 4637
+
+¿Qué característica no influye a la hora de determinar en el cuentarrevoluciones de un automóvil la zona de menor consumo?
+
+A La distancia que exista entre el punto muerto superior y el punto muerto inferior del pistón.
+
+B El consumo específico.
+
+C La potencia.
+
+D El par motor máximo.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 4988
+
+La potencia que en cada momento se exija del motor de un automóvil, ¿influye en el consumo de carburante?
+
+A No, la potencia solo influirá en el deterioro mecánico.
+
+B No, la potencia solo influirá en la aceleración del automóvil.
+
+C Sí, a mayor potencia menor consumo.
+
+D Sí, a mayor potencia mayor consumo.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 5126
+
+El mayor o menor consumo de carburante de un vehículo pesado depende de varios factores, entre otros, :
+
+A de la relación de marchas seleccionada en la caja de velocidades y del estado en el que se encuentre el filtro del aire del sistema de alimentación.
+
+B de los ralentizadores que monte el vehículo y del mantenimiento del vehículo.
+
+C de las revoluciones por minuto del motor y de la mayor o menor refrigeración de los frenos.
+
+D del perfil de la carretera y de si posee o no suspensión neumática.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 5321
+
+En el cuentarrevoluciones de un vehículo pesado existe una zona marcada, generalmente, de color verde, ¿qué supone circular con un número de revoluciones por encima de esa zona?
+
+A Una menor cantidad de carburante inyectado.
+
+B Un mayor consumo.
+
+C Una reducción en la relación de compresión.
+
+D Un aumento de la potencia debido al aumento en la relación de compresión.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 5322
+
+En el cuentarrevoluciones de un vehículo pesado existe una zona marcada, generalmente, de color verde, ¿qué supone circular con un número de revoluciones por encima de esa zona?
+
+A Una menor presión en el circuito de engrase.
+
+B Una reducción en la velocidad de giro del árbol de levas.
+
+C Una menor velocidad de la bomba de refrigeración.
+
+D Un mayor consumo.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 5323
+
+En el cuentarrevoluciones de un vehículo pesado existe una zona marcada, generalmente, de color verde, ¿qué supone circular con un número de revoluciones por encima de esa zona?
+
+A Una menor cantidad de electricidad producida por el generador de corriente.
+
+B Un menor deterioro mecánico.
+
+C Un aumento del consumo de carburante.
+
+D Una disminución en el consumo de aceite.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 5331
+
+La caja de velocidades de un automóvil permite variar el número de revoluciones en función de la velocidad y, con ello, influir en el consumo de carburante. Por este motivo, y para no aumentar el consumo, el conductor debe:
+
+A apurar la primera velocidad hasta llegar al máximo de revoluciones.
+
+B apurar la primera velocidad hasta llegar a un número próximo al máximo de revoluciones.
+
+C utilizar la primera velocidad lo mínimo posible.
+
+D utilizar lo menos posible las relaciones de marchas largas ya que aumentan las revoluciones por minuto del motor.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 5335
+
+El número de revoluciones por minuto del motor, ¿influye en el consumo de carburante?
+
+A Sí, porque, a menor número de revoluciones por minuto, el consumo es menor.
+
+B Sí, pero únicamente cuando el motor gira por encima de las 2.500 revoluciones por minuto.
+
+C No, aunque es un factor que determina la potencia y el par motor.
+
+D No, el número de revoluciones es un dato que únicamente sirve para no pasar de vueltas el motor y griparlo.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 5353
+
+¿Qué actuación es correcta para reducir el consumo de carburante de un automóvil?
+
+A Pisar el freno inmediatamente después de dejar de acelerar.
+
+B Aumentar el número de revoluciones del motor utilizando para ello una relación de marchas adecuada.
+
+C Utilizar la relación de marchas más alta posible de forma que la aguja del cuentarrevoluciones se mantenga en la zona de máxima eficiencia del motor, generalmente una zona marcada de color verde.
+
+D Dar aceleraciones rápidas para alcanzar la velocidad adecuada en el menor tiempo posible.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 5356
+
+¿Qué actuación es inadecuada para reducir el consumo de carburante de un automóvil?
+
+A Dejar de acelerar con suficiente antelación dejando rodar el vehículo.
+
+B Aumentar el número de revoluciones del motor utilizando para ello una relación de marchas adecuada.
+
+C Utilizar la relación de marchas más alta posible de forma que la aguja del cuentarrevoluciones se mantenga en la zona de máxima eficiencia del motor, generalmente una zona marcada de color verde.
+
+D Evitar aceleraciones y frenazos bruscos.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 5359
+
+¿Qué características van a definir en el cuentarrevoluciones de un automóvil la zona económica del motor?
+
+A La potencia, el par motor máximo y el consumo específico.
+
+B La relación de compresión, la carrera del pistón y su calibre.
+
+C El material del que está fabricado el motor y el tipo de caja de velocidades.
+
+D La longitud del cigüeñal y el diámetro del volante de inercia.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 5576
+
+Entre otros factores, ¿de qué depende el consumo de carburante?
+
+A Del número de revoluciones por minuto del motor.
+
+B De la situación de las ruedas motrices.
+
+C Del tipo de freno que monte el vehículo.
+
+D Del porcentaje de anticongelante que posea el líquido del sistema de refrigeración.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 5744
+
+¿Qué debe hacer el conductor en una pendiente ascendente o rampa cuando el motor del vehículo no aumenta sus revoluciones, aunque pise más el pedal acelerador?
+
+A Pisar ligeramente el pedal de embrague para circular a medio embrague.
+
+B Cambiar el disco de embrague, ya que esto ocurre siempre que el forro del disco está desgastado y patina.
+
+C Poner una relación de marchas más larga.
+
+D Poner una relación de marchas más corta.
+
+RESPUESTA: D
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 5748
+
+Los motores diésel de inyección directa tienen un consumo específico:
+
+A mayor que los de inyección indirecta.
+
+B igual que los de inyección indirecta.
+
+C menor que los de inyección indirecta.
+
+D menor cuanto mayor sea el número de revoluciones.
+
+RESPUESTA: C
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 6182
+
+¿Cómo están relacionados el consumo y la potencia que se pide al motor?
+
+A A mayor potencia mayor consumo.
+
+B A menor potencia mayor consumo.
+
+C A mayor potencia menor consumo.
+
+D No existe relación entre consumo y potencia.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 6186
+
+La zona de máxima eficiencia del motor, también llamada zona económica:
+
+A está especificada en el cuentarrevoluciones, de color azul.
+
+B está especificada en el cuentarrevoluciones, de color rojo.
+
+C está especificada en el volante, de color gris.
+
+D está especificada en el cuentarrevoluciones, generalmente de color verde.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 6215
+
+¿Qué es el par máximo de un motor?
+
+A Es el mayor número de revoluciones a las que puede girar.
+
+B Es la potencia máxima de un motor.
+
+C Es la máxima velocidad que puede llegar a producir.
+
+D Es el máximo esfuerzo que transmite el pistón sobre el cigüeñal.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 6216
+
+En el cuentarrevoluciones, la zona de máxima eficiencia del motor está indicada en color:
+
+A rojo.
+
+B naranja.
+
+C amarillo.
+
+D verde.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 6484
+
+En el cuentarrevoluciones de un vehículo pesado es frecuente que exista una zona marcada de color verde, ¿qué indica?
+
+A La zona de mayor potencia del motor.
+
+B La zona de mayor consumo de carburante.
+
+C La zona de menor consumo de carburante.
+
+D La zona de menor par motor.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 6485
+
+Para reducir el consumo de carburante de un vehículo pesado, es conveniente que la aguja del cuentarrevoluciones se encuentre:
+
+A por debajo de la zona marcada de color verde en el cuentarrevoluciones.
+
+B por encima de la zona marcada de color verde en el cuentarrevoluciones.
+
+C en la zona marcada de color verde en el cuentarrevoluciones.
+
+D fuera de la zona marcada de color verde en el cuentarrevoluciones.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 6486
+
+En el cuentarrevoluciones de un vehículo pesado, la zona económica suele estar marcada de color verde. Cuando se circule en llano, es conveniente que la aguja del cuentarrevoluciones se encuentre…
+
+A en la zona izquierda de la zona económica.
+
+B en el centro de la zona económica.
+
+C en la derecha de la zona económica.
+
+D fuera de la zona económica.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 6487
+
+En el cuentarrevoluciones de un vehículo pesado, la zona económica suele estar marcada de color verde. Cuando se circule en una pendiente ascendente, es conveniente que la aguja del cuentarrevoluciones se encuentre…
+
+A en la zona izquierda de la zona económica.
+
+B en el centro de la zona económica.
+
+C en la derecha de la zona económica.
+
+D fuera de la zona económica.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 6501
+
+Una buena forma de ahorrar carburante al conducir un vehículo pesado es:
+
+A esperar con el motor arrancado sin circular hasta que alcance la temperatura adecuada de funcionamiento.
+
+B bajar las pendientes en punto muerto.
+
+C circular con una presión de inflado de los neumáticos inferior a la recomendada por el fabricante.
+
+D mantener la aguja del cuentarrevoluciones del motor en la zona marcada, generalmente, de color verde.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6524
+
+La utilización del cuentarrevoluciones de un vehículo pesado por parte de su conductor, ¿permite la reducción del consumo de carburante?
+
+A Sí, ya que, si se mantienen las revoluciones dentro de la zona marcada generalmente de verde, el consumo es menor.
+
+B Sí, ya que, si se mantienen las revoluciones fuera de la zona marcada generalmente de verde, el consumo es menor.
+
+C No, el cuentarrevoluciones solo sirve para no superar el número de revoluciones máximo previsto para el motor.
+
+D No, el cuentarrevoluciones solo sirve para reducir el deterioro mecánico del motor.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 6527
+
+En un motor de combustión, el par motor, ¿está relacionado con el consumo de carburante?
+
+A Sí, en la zona de mayor par motor el consumo es mayor.
+
+B Sí, en la zona de mayor par motor el consumo es menor.
+
+C No, el par motor solo está relacionado con la potencia suministrada.
+
+D No.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6528
+
+¿Qué dato tiene influencia en el consumo de carburante?
+
+A La presión del sistema neumático de frenos.
+
+B El nivel de carga de la batería.
+
+C El número de revoluciones del motor.
+
+D El tipo de neumático montado: con cámara o sin cámara.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6531
+
+El consumo de carburante de un motor se suele medir en:
+
+A litros por hora.
+
+B litros por cada 100 kilómetros recorridos.
+
+C kilogramos de carburante por cada kilómetro recorrido.
+
+D kilogramos de carburante por cada 100 kilómetros recorridos.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 6534
+
+En el cuentarrevoluciones de un vehículo pesado existe una zona marcada, generalmente, de color verde, ¿qué indica?
+
+A Es la zona de mayor consumo.
+
+B Es la zona de menor consumo.
+
+C Es la zona de mayor potencia.
+
+D Es la zona de menor potencia.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6535
+
+En el cuentarrevoluciones de un vehículo pesado existe una zona marcada, generalmente, de color verde, ¿qué indica?
+
+A Es la zona de menor potencia.
+
+B Es la zona de menor par motor.
+
+C Es la zona de menor fuerza.
+
+D Es la zona de menor consumo.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6536
+
+En el cuentarrevoluciones de un vehículo pesado existe una zona marcada, generalmente, de color verde, ¿qué indica?
+
+A Es la zona de menor par motor.
+
+B Es la zona de menor consumo.
+
+C Es la zona de mayor consumo.
+
+D Es la zona donde el motor se ahoga.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6537
+
+En el cuentarrevoluciones de un vehículo pesado existe una zona marcada, generalmente, de color verde, ¿qué indica?
+
+A Es la zona en la que el motor se cala.
+
+B Es la zona en la que el motor pierde compresión.
+
+C Es la zona en la que el motor gana compresión.
+
+D Es la zona de menor consumo.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6538
+
+En el cuentarrevoluciones de un vehículo pesado existe una zona marcada, generalmente, de color verde, ¿qué indica?
+
+A Es la zona de mayor número de revoluciones.
+
+B Es la zona del corte de inyección.
+
+C Es la zona de menor consumo.
+
+D Es la zona de mayor compresión.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6539
+
+En el cuentarrevoluciones de un vehículo pesado existe una zona marcada, generalmente, de color verde, ¿qué indica?
+
+A Es la zona de mayor relación de compresión.
+
+B Es la zona de menor relación de compresión.
+
+C Es la zona de mayor consumo.
+
+D Es la zona de menor consumo.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6540
+
+En el cuentarrevoluciones de un vehículo pesado existe una zona marcada, generalmente, de color verde, ¿qué indica?
+
+A Es la zona en la que la carrera del pistón es mayor.
+
+B Es la zona en la que la carrera del pistón es menor.
+
+C Es la zona de menor consumo.
+
+D Es la zona de menor par motor.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6541
+
+En el cuentarrevoluciones de un vehículo pesado existe una zona marcada, generalmente, de color verde, ¿qué indica?
+
+A Es la zona en la que la cantidad de aire que entra en el cilindro es menor.
+
+B Es la zona de utilización del turbocompresor.
+
+C Es la zona en la que el turbocompresor no funciona.
+
+D Es la zona de menor consumo.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6542
+
+En el cuentarrevoluciones de un vehículo pesado existe una zona marcada, generalmente, de color verde, ¿qué indica?
+
+A Es la zona de máximo aprovechamiento del turbocompresor.
+
+B Es la zona de menor consumo.
+
+C Es la zona en la que el tiempo de inyección se acorta.
+
+D Es la zona en la que la inyección de carburante es mayor.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6543
+
+En el cuentarrevoluciones de un vehículo pesado existe una zona marcada, generalmente, de color verde, ¿qué indica?
+
+A Es la zona en la que el corte de inyección coincide con el máximo aprovechamiento del motor.
+
+B Es la zona de mejor aprovechamiento del carburante.
+
+C Es la zona en la que la entrada del aire al interior del cilindro es menor, disminuyendo el consumo.
+
+D Es la zona de pérdida de potencia ya que el turbocompresor no actúa.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6544
+
+En el cuentarrevoluciones de un vehículo pesado existe una zona marcada, generalmente, de color verde, ¿qué supone circular con un número de revoluciones por encima de esa zona?
+
+A Una menor potencia.
+
+B Un mayor consumo.
+
+C Una mayor relación de compresión.
+
+D Una menor relación de compresión.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6545
+
+En el cuentarrevoluciones de un vehículo pesado existe una zona marcada, generalmente, de color verde, ¿qué supone circular con un número de revoluciones por encima de esa zona?
+
+A Un mayor consumo.
+
+B Una carrera del pistón menor.
+
+C Una carrera del pistón mayor.
+
+D Un menor consumo.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6594
+
+Si el motor de un vehículo tiene un ralentí demasiado alto, ¿influye en el consumo de carburante?
+
+A Sí, porque al girar el motor más deprisa consume más.
+
+B Sí, porque consume menos carburante.
+
+C Sí, pero tal circunstancia solo aumenta el consumo a altas revoluciones.
+
+D No, no influye.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 6647
+
+Si se conduce un vehículo pesado y con el motor funcionando a la temperatura adecuada, se debe saber que el consumo de carburante depende, entre otros factores:
+
+A de las revoluciones por minuto del motor.
+
+B de la posición de conductor.
+
+C del octanaje del gasóleo.
+
+D de la variación de la relación de compresión, según la relación de marchas seleccionada.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 6658
+
+Entre otros factores, ¿de qué depende el consumo de carburante?
+
+A De la longitud del pistón.
+
+B De la longitud del árbol de levas.
+
+C De la longitud del cigüeñal.
+
+D Del número de revoluciones del motor.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 6733
+
+El número de revoluciones por minuto del motor, ¿influye en el consumo de carburante?
+
+A Sí, porque cuanto más deprisa gire el motor mayor será su consumo.
+
+B No, porque las revoluciones del motor solo influyen en la potencia suministrada.
+
+C No, porque las revoluciones del motor solo influyen en el par motor.
+
+D Sí, pero solo cuando el motor gire por encima de las 3.000 revoluciones por minuto.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 6761
+
+El conductor de un vehículo pesado, ¿tiene la posibilidad de reducir el consumo de carburante de su vehículo?
+
+A Sí, por ejemplo, reduciendo la presión de inflado de las ruedas traseras.
+
+B Sí, por ejemplo, reduciendo el número de revoluciones por minuto del motor.
+
+C Solo cuando se trata de motores de gasolina.
+
+D No, porque el consumo es invariable en función de la velocidad a la que se circule.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 6765
+
+Reducir el número de revoluciones por minuto del motor de un vehículo pesado permite:
+
+A prolongar los intervalos previstos para pasar la inspección técnica periódica.
+
+B aumentar los intervalos aconsejados por el fabricante del vehículo en cuanto a las revisiones de mantenimiento.
+
+C reducir el consumo de carburante.
+
+D disminuir los intervalos aconsejados por el fabricante del vehículo en cuanto a las revisiones de mantenimiento.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 6799
+
+¿En qué se transforma la energía química del carburante en el motor?
+
+A En energía potencial.
+
+B En energía hidráulica.
+
+C En energía mecánica.
+
+D En energía electromagnética.
+
+RESPUESTA: C
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 6894
+
+¿Cuál es la función de la caja de velocidades?
+
+A Acoplar o no el motor al resto de la transmisión.
+
+B Transmitir el movimiento del motor de arranque al cigüeñal.
+
+C Modificar la relación de transmisión entre el motor y las ruedas.
+
+D Proporcionar, al circular por curvas, diferentes números de revoluciones de la rueda motriz de un extremo del eje y la del otro extremo.
+
+RESPUESTA: C
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 6896
+
+¿Cómo se denomina al producto de la fuerza de expansión de los gases quemados que se transforma en giro en el cigüeñal?
+
+A Potencia del motor.
+
+B Par motor.
+
+C Consumo específico de un motor.
+
+D Par máximo del motor.
+
+RESPUESTA: B
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 6897
+
+¿Por qué no se produce el par máximo al pisar el pedal del acelerador a fondo?
+
+A Porque no hay tiempo para que pueda entrar aire suficiente para quemar todo el combustible.
+
+B Porque, al aumentar el número de revoluciones, la fuerza de expansión del combustible es menor.
+
+C Porque, al aumentar el número de revoluciones, no hay tiempo para que entre combustible suficiente en el cilindro.
+
+D Porque, cuando el número de revoluciones es máximo, el motor no funciona bien.
+
+RESPUESTA: A
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 6898
+
+¿Cuándo se obtiene el par motor máximo?
+
+A A bajas revoluciones, cuando está metida la marcha más corta.
+
+B A altas revoluciones, cuando el vehículo se desplaza a mayor velocidad.
+
+C Al ralentí.
+
+D Cuando se inyecta la máxima cantidad de carburante que se puede quemar con el aire que hay dentro del cilindro.
+
+RESPUESTA: D
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 6954
+
+¿Cuándo se alcanza el equilibrio entre la cantidad de aire que hay en un cilindro, la cantidad de carburante que se inyecta y el tiempo necesario para quemarla?
+
+A En la zona alta del cuentarrevoluciones, pues en esta zona tiene lugar la potencia máxima.
+
+B En la zona baja del cuentarrevoluciones, pues al descender el régimen de giro el motor consume menos.
+
+C En la zona intermedia del cuentarrevoluciones, en las cercanías del par máximo.
+
+D El consumo de un motor es algo intrínseco a él y no depende del número de revoluciones a las que gire este.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 6955
+
+La cantidad de carburante que gasta un motor en relación a la potencia desarrollada en un tiempo determinado se llama:
+
+A consumo parcial.
+
+B consumo total.
+
+C consumo extra.
+
+D consumo específico.
+
+RESPUESTA: D
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 6956
+
+¿Qué es la potencia de un motor?
+
+A La cantidad de trabajo que puede desarrollar un motor en un determinado tiempo.
+
+B La velocidad máxima de trabajo de un motor en un determinado tiempo.
+
+C La cantidad de aceleración que puede desarrollar un par motor.
+
+D La cantidad de energía que se transmite a las ruedas.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 6957
+
+¿Son iguales las revoluciones del motor y de las ruedas?
+
+A Sí.
+
+B No.
+
+C Solo cuando el par motor alcanza la máxima fuerza.
+
+D Solo cuando las revoluciones son muy bajas.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 7720
+
+La potencia de los motores se mide en:
+
+A amperios.
+
+B julios.
+
+C kilovatios.
+
+D kilómetros por hora.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 7750
+
+Cuando un motor funciona al máximo de revoluciones en comparación con el mismo motor funcionando a un régimen medio de revoluciones:
+
+A el par motor es mayor.
+
+B el par motor es menor.
+
+C el par motor no varía.
+
+D el consumo no varía.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 7755
+
+¿Cuál es el efecto de seleccionar una marcha más larga para la misma velocidad?
+
+A Que el motor funciona a menos revoluciones, pero consume más.
+
+B Que el motor funciona a menos revoluciones y consume menos.
+
+C Que el motor funciona a más revoluciones y consume menos.
+
+D Que el motor funciona a más revoluciones y consume más.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 7759
+
+¿De qué factores depende el número de revoluciones con que giran las ruedas?
+
+A De la relación de compresión.
+
+B Del tipo de cámara de combustión.
+
+C De lo apretado que esté el pedal del acelerador y de la relación de transmisión seleccionada.
+
+D De la aerodinámica del vehículo.
+
+RESPUESTA: C
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 7760
+
+¿De qué depende el número de revoluciones del motor?
+
+A De lo apretado que esté el pedal del acelerador.
+
+B Del tipo de cámara de combustión.
+
+C De la longitud del cigüeñal.
+
+D Del tamaño del dámper.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 7761
+
+El conductor de un vehículo, ¿cómo puede proceder para que el motor le entregue la potencia necesaria?
+
+A Ajustando la posición del pedal del acelerador, solamente.
+
+B Seleccionando la marcha apropiada de la caja de velocidades, solamente.
+
+C Ajustando la posición del pedal del acelerador y seleccionando la marcha apropiada.
+
+D Ajustando la posición del pedal del acelerador, seleccionando la marcha apropiada y regulando el consumo de combustible.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 7765
+
+¿Por qué el par en rueda es siempre mayor que el par motor?
+
+A Porque el par en rueda debe vencer la resistencia a la rodadura del pavimento.
+
+B Porque la caja de velocidades y el grupo cónico se encargan de multiplicarlo.
+
+C No es cierto, el par en rueda es menor que el par motor debido a que el par en rueda es igual al par motor menos las pérdidas por rozamiento en la transmisión.
+
+D No es cierta la afirmación del enunciado porque el conductor normalmente no puede aprovechar el 100 % del par motor.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 7767
+
+La relación de marchas más alta en una caja de velocidades:
+
+A permite conseguir mayor velocidad.
+
+B permite conseguir mayor potencia.
+
+C permite conseguir menor par en rueda.
+
+D permite conseguir menor potencia.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 7773
+
+¿Cuándo se alcanza la potencia máxima de un motor?
+
+A Poco antes de alcanzar el número máximo de revoluciones.
+
+B Con el mínimo número de revoluciones del motor.
+
+C Cuando se alcanza la mitad de revoluciones posibles.
+
+D La potencia no tiene relación con las revoluciones que desarrolla el motor.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 7795
+
+¿Cuál de los siguientes factores no influye en la potencia de un motor?
+
+A La cilindrada del motor.
+
+B La relación de compresión.
+
+C La aerodinámica.
+
+D El número de revoluciones.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 7829
+
+¿Cuándo se dice que un motor es "elástico"?
+
+A Cuando un motor no conserva una potencia similar durante una amplia gama de revoluciones.
+
+B Cuando un motor tiene un par que aumenta linealmente en todo momento al aumentar el número de revoluciones.
+
+C Cuando un motor tiene diferentes valores máximos de potencia a diferentes revoluciones.
+
+D Cuando un motor conserva una potencia similar durante una amplia gama de revoluciones.
+
+RESPUESTA: D
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 7830
+
+La potencia de un motor…
+
+A aumenta al disminuir las revoluciones.
+
+B es mayor a un régimen medio de revoluciones.
+
+C es máxima a un régimen próximo al máximo de revoluciones.
+
+D al ralentí es cero.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 7834
+
+¿En qué régimen de revoluciones del motor salen menos residuos por el tubo de escape?
+
+A Cuando el motor funciona al máximo de revoluciones.
+
+B A un régimen medio de revoluciones.
+
+C Cuando el motor funciona a un número de revoluciones próximo al máximo.
+
+D A regímenes bajos y altos de revoluciones.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 8387
+
+La potencia de un motor…
+
+A aumenta al cambiar a una relación de marchas más larga.
+
+B disminuye al cambiar a una relación de marchas más corta.
+
+C no depende de las revoluciones del motor.
+
+D aumenta al aumentar las revoluciones por minuto del motor.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 9063
+
+¿En qué unidad se mide la potencia en el Sistema Internacional de Unidades?
+
+A Caballos de vapor (CV).
+
+B Vatios (W).
+
+C Newtons (N).
+
+D Newton - metro (Nm).
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 65093
+
+¿Cuál es el objetivo principal del motor de un vehículo?
+
+A Controlar el movimiento de las ruedas.
+
+B Reducir el consumo de carburante.
+
+C Transformar energía química en energía mecánica.
+
+D Ninguna respuesta es correcta.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65094
+
+¿Cuáles son las características que mejor describen las prestaciones de un motor?
+
+A Consumo y r.p.m. 
+
+B Potencia máxima y par motor máximo.
+
+C Par motor máximo y Par de rueda máximo.
+
+D Potencia máxima y trabajo máximo.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65095
+
+¿Dónde se mide el par motor?
+
+A En las ruedas motrices.
+
+B En los pistones.
+
+C En la salida de gases.
+
+D En el volante de inercia del embrague.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65096
+
+¿Qué prestación del motor se mide en el final del cigüeñal?
+
+A El par motor.
+
+B El trabajo máximo.
+
+C La potencia máxima.
+
+D El consumo específico.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65097
+
+¿Qué prestación del motor se mide en el volante primario del embrague?
+
+A El consumo específico.
+
+B El par motor.
+
+C El trabajo máximo.
+
+D La potencia máxima.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65098
+
+¿En qué condiciones se da el par motor máximo?
+
+A Plena carga del acelerador y régimen de revoluciones intermedio.
+
+B Media carga del acelerador y régimen máximo de revoluciones.
+
+C Media carga del acelerador y régimen intermedio de revoluciones.
+
+D Plena carga del acelerador y régimen máximo de revoluciones.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65099
+
+La potencia de un motor relaciona…
+
+A el trabajo del motor con el giro de las ruedas.
+
+B el trabajo del motor con el consumo.
+
+C el trabajo del motor con el tiempo.
+
+D el consumo con el giro de las ruedas.
+
+RESPUESTA: C
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 65100
+
+La potencia máxima del motor da lugar…
+
+A al consumo específico máximo.
+
+B al par motor máximo.
+
+C al giro máximo del motor.
+
+D a la mayor potencia de rueda.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65101
+
+¿Qué dato suelen dar los fabricantes sobre el consumo específico?
+
+A Litros por 100 km.
+
+B Litros por 1.000 km.
+
+C Litros a 100 km/h.
+
+D Autonomía con depósito lleno.
+
+RESPUESTA: A
+
+NORMA: Mecánica de automóviles. Arias Paz
+
+REFERENCIA DOCTRINAL: Mecánica de automóviles. Arias Paz
+
+
+
+COD: 65102
+
+¿Qué muestra la curva de par a plena carga?
+
+A El par máximo de rueda cuando se transporte la MMA.
+
+B El par máximo proporcionado por el motor a cada régimen de giro cuando el acelerador está pisado a fondo.
+
+C El par máximo del motor cuando la potencia es máxima.
+
+D El consumo a par máximo con MMA transportada.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65103
+
+¿Qué muestra la curva de par a carga parcial?
+
+A El par máximo del motor en diferentes rangos de potencia entre el 25 y el 75 % .
+
+B El par máximo proporcionado por el motor a cada régimen de giro en diferentes posiciones del acelerador 25 %, 50 % o 75 %.
+
+C El consumo medio a par máximo con diferentes masas transportadas.
+
+D El par máximo de rueda cuando se transporten cargas diferentes con masas inferiores a la MMA.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65104
+
+La curva de par a plena carga se obtiene…
+
+A transportando la MMA autorizada.
+
+B manteniendo la potencia máxima durante un período mínimo de 15 minutos.
+
+C circulando a velocidad superior a 100 km/h durante una hora al menos.
+
+D pisando el acelerador a fondo.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65105
+
+La curva de par a carga parcial se obtiene…
+
+A pisando el acelerador al 25 %.
+
+B pisando el acelerador al 50 %.
+
+C pisando el acelerador al 75 %.
+
+D Todas las respuestas son correctas.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65106
+
+¿Qué muestra la curva de potencia a plena carga?
+
+A La potencia de rueda necesaria para el transporte de la MMA del vehículo.
+
+B La potencia que genera el par máximo con el vehículo a plena carga.
+
+C La potencia que entrega el motor a cada régimen de giro cuando el acelerador se pisa fondo.
+
+D El consumo a potencia máxima con MMA transportada.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65107
+
+¿Qué muestra la curva de potencia a carga parcial?
+
+A La potencia máxima del motor en diferentes rangos de par entre el 25 y el 75 %.
+
+B La potencia proporcionada por el motor a cada régimen de giro en diferentes posiciones del acelerador 25 %, 50 % o 75 %.
+
+C El consumo medio a potencia máxima con diferentes masas transportadas.
+
+D El par máximo de rueda cuando se transporten diferentes cargas con masas inferiores a la MMA.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65108
+
+La curva de potencia a plena carga es…
+
+A la que muestra la potencia que entrega el motor con el acelerador pisado a fondo.
+
+B la que muestra la potencia necesaria para transportar la MMA a diferentes regímenes de giro.
+
+C la que indica el consumo necesario para mantenerla con el vehículo plenamente cargado.
+
+D Ninguna de las anteriores es correcta.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65109
+
+La curva de potencia a carga parcial es…
+
+A la que muestra la potencia que entrega el motor pisando el acelerador al 25 %.
+
+B la que muestra la potencia que entrega el motor pisando el acelerador al 50 %.
+
+C la que muestra la potencia que entrega el motor pisando el acelerador al 75 %.
+
+D Todas las respuestas son correctas.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65110
+
+¿Qué son las curvas de equiconsumo?
+
+A Las que representan el consumo medio de un par motor.
+
+B Las que representan consumo específico constante.
+
+C Las que representan el consumo medio de una potencia determinada.
+
+D Las que representan el consumo medio de un par rueda.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65111
+
+¿Qué representan las curvas de equiconsumo?
+
+A Consumo especifico constante.
+
+B Consumo medio de un par motor.
+
+C Consumo medio a los 100 km/h.
+
+D Consumo medio en cada rango de revoluciones del motor.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65112
+
+¿Qué es la zona de polo de mínimo consumo?
+
+A Zona de consumo del par motor.
+
+B Zona de consumo de la potencia mínima.
+
+C Zona de menor consumo específico.
+
+D Consumo del proceso de arranque.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65113
+
+¿Dónde se encuentra la zona de consumos mínimos específicos?
+
+A En la zona más baja del par motor máximo.
+
+B En la zona media de la potencia máxima.
+
+C En la zona media del par motor máximo.
+
+D En la zona alta del par motor máximo.
+
+RESPUESTA: A
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65114
+
+¿Qué información dan las curvas de equiconsumo?
+
+A Zonas de consumos medios por revoluciones del motor.
+
+B Zonas de consumos mínimos por potencias entregadas.
+
+C Zonas de consumos medios por par motor.
+
+D Zonas de consumos mínimos por trayecto.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65115
+
+¿Dónde suelen dibujarse las curvas de equiconsumo?
+
+A En el diagrama de consumo medio.
+
+B Sobre las líneas de consumo medio.
+
+C Sobre las curvas de par motor.
+
+D Ninguna de las anteriores es correcta.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65116
+
+¿Cómo está apretado el acelerador en la zona de consumos específicos mínimos?
+
+A Al 100 %.
+
+B Al 75 %. 
+
+C Al 50 %.
+
+D Al 25 %.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65117
+
+El régimen de consumo mínimo…
+
+A baja cuando el acelerador está más apretado.
+
+B sube cuando el acelerador está menos apretado.
+
+C baja cuando el acelerador está menos apretado.
+
+D no está afectado por el uso del acelerador.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65118
+
+¿A qué da lugar la potencia máxima del motor?
+
+A Al máximo par motor.
+
+B Al máximo de revoluciones del motor.
+
+C A la mayor potencia en rueda.
+
+D A un llenado medio del cilindro.
+
+RESPUESTA: C
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65119
+
+¿Dónde pueden encontrarse los valores del par máximo de un vehículo?
+
+A En las tablas que publica el IDAE.
+
+B En las tablas que publica el Ministerio de Industria.
+
+C En las tablas del Ministerio de Transportes.
+
+D En la documentación del vehículo.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65120
+
+¿Dónde pueden encontrarse los valores de la potencia máxima de un vehículo?
+
+A En las tablas que publica el Ministerio de Industria.
+
+B En la documentación del vehículo.
+
+C En las tablas del Ministerio de Transportes.
+
+D En las tablas que publica el IDAE.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65121
+
+¿Quién facilita los datos de los valores máximos de la potencia de un vehículo?
+
+A El conductor con su experiencia.
+
+B El taller que calibra el tacógrafo.
+
+C El vendedor del vehículo. 
+
+D El fabricante del vehículo.
+
+RESPUESTA: D
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+
+COD: 65122
+
+¿Quién facilita los datos de los valores máximos del par máximo de un vehículo?
+
+A El vendedor del vehículo. 
+
+B El fabricante del vehículo.
+
+C El conductor con su experiencia.
+
+D El taller que calibra el tacógrafo.
+
+RESPUESTA: B
+
+NORMA: Manual de conducción eficiente. IDAE
+
+REFERENCIA DOCTRINAL: Manual de conducción eficiente. IDAE
+
+
+

@@ -1,0 +1,3160 @@
+COD: 47
+
+¿Cómo debe ser la base del asiento del conductor?
+
+A Acorde con el peso de los brazos.
+
+B No tendrá en cuenta la anchura de las caderas.
+
+C Tendrá la anchura suficiente para acomodar los hombros.
+
+D Conforme con la longitud de las piernas.
+
+RESPUESTA: D
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 135
+
+¿Cómo se llama el conjunto de conocimientos y técnicas que buscan la mejor adaptación posible del hombre a las actividades que desarrolla?
+
+A Ernomía.
+
+B Ergomía.
+
+C Ergonomía.
+
+D Etgonomía.
+
+RESPUESTA: C
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 185
+
+¿Con qué se pueden mecanizar los procesos de manipulación de cargas?
+
+A Paletización de bultos.
+
+B Carretillas elevadoras.
+
+C Cintas de transporte.
+
+D Todas las respuestas anteriores son correctas.
+
+RESPUESTA: D
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 199
+
+¿Cuál de estas afirmaciones, referida a la posición que debe adoptar el conductor, es falsa?
+
+A Los brazos no han de estar tensos.
+
+B Las manos no deben agarrar el volante con fuerza.
+
+C Los brazos no han de estar ligeramente flexionados.
+
+D No conviene cruzar las manos al girar el volante.
+
+RESPUESTA: C
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 204
+
+¿Cuál de estas afirmaciones es incorrecta?
+
+A Al efectuar las revisiones periódicas del vehículo, conviene supervisar el sistema de climatización.
+
+B El diseño del habitáculo de conducción debe ser tal que, en caso de accidente, se maximicen los daños del conductor al impactar con el mismo.
+
+C No interesa dejar objetos sueltos en el habitáculo de conducción.
+
+D Es necesario asegurar la renovación del aire en el habitáculo de conducción.
+
+RESPUESTA: B
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 205
+
+¿Cuál de estas afirmaciones es incorrecta?
+
+A Una postura de trabajo inadecuada puede acabar produciendo daños físicos.
+
+B Se debe facilitar la alternancia entre tareas de trabajo en posición sentado y tareas de trabajo en posición de pie.
+
+C La mejor postura de trabajo es aquella que permite la mayor eficacia con la máxima presencia de fatiga.
+
+D Si se obliga la adopción de una sola postura de trabajo, es preferible la posición sentada.
+
+RESPUESTA: C
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 206
+
+¿Cuál de estas afirmaciones es incorrecta?
+
+A El asiento de trabajo debe tener una altura que permita apoyar los pies completamente en el suelo.
+
+B La espalda se ha de apoyar firmemente contra el respaldo del asiento de trabajo.
+
+C Se evitará tener que levantar excesivamente los brazos o girar los hombros en el lugar de trabajo.
+
+D Conviene prolongar la misma postura en el lugar de trabajo.
+
+RESPUESTA: D
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 210
+
+¿Cuál de estas afirmaciones no es correcta?
+
+A Debe existir espacio de trabajo suficiente para los movimientos del cuerpo.
+
+B Los instrumentos de mando estarán en una zona que permita un difícil acceso.
+
+C Los mangos y empuñaduras se adaptarán a la anatomía de la mano.
+
+D La mesa sobre la que se trabaja se tiene que diseñar teniendo en cuenta las medidas del cuerpo humano.
+
+RESPUESTA: B
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 271
+
+¿Qué debe tener la cabina de conducción de un vehículo?
+
+A Un buen sistema de calefacción, pero no de aire acondicionado.
+
+B Una visibilidad parcial de la carretera.
+
+C Reducción al máximo posible de los ruidos procedentes del propio vehículo y del tráfico en general.
+
+D Todas las respuestas anteriores son correctas.
+
+RESPUESTA: C
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 293
+
+¿Qué es aconsejable en el puesto de conducción?
+
+A Que la mayoría de los elementos sean ajustables para poder alcanzar una posición correcta.
+
+B Que todos los elementos sean rígidos y sin posibilidad de regulación.
+
+C Que solo sea regulable el asiento de forma que se pueda alcanzar correctamente el volante.
+
+D Que solo se pueda regular el volante para adecuarlo a la altura del conductor.
+
+RESPUESTA: A
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 359
+
+¿Qué obligación no impone la normativa de prevención de riesgos laborales?
+
+A Que el trabajador respete los métodos de trabajo estipulados.
+
+B Que el trabajador utilice los equipos de protección que se determinen.
+
+C Que el trabajador utilice las medidas de salud.
+
+D Que el trabajador utilice las medidas de seguridad que se determinen.
+
+RESPUESTA: C
+
+NORMA: Ley 31/1995, Art. 29
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 373
+
+¿Qué problema produce el trabajo sedentario?
+
+A Aumenta la circulación sanguínea de las piernas.
+
+B Aumenta la carga de esfuerzo sobre los músculos de los hombros.
+
+C Disminuye la carga de esfuerzo sobre los músculos del cuello.
+
+D Disminuye la carga de esfuerzo sobre los músculos de la espalda.
+
+RESPUESTA: B
+
+NORMA: Prevención de riesgos laborales en el sector del transporte por carretera. Fundación para la Prevención de Riesgos Laborales; Prevención de riesgos laborales en el sector del transporte por carretera. UGT; Prevención de riesgos laborales para el sector del transporte por carretera. Labour Asociados
+
+REFERENCIA DOCTRINAL: Prevención de riesgos laborales en el sector del transporte por carretera. Fundación para la Prevención de Riesgos Laborales; Prevención de riesgos laborales en el sector del transporte por carretera. UGT; Prevención de riesgos laborales para el sector del transporte por carretera. Labour Asociados
+
+
+
+COD: 379
+
+¿Qué consecuencias provoca en el conductor un exceso de señales en el puesto de conducción?
+
+A Alivia la atención del conductor.
+
+B Incrementa la fatiga.
+
+C Contribuye a la distracción de la carretera.
+
+D Las respuestas B y C son correctas.
+
+RESPUESTA: D
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 398
+
+¿Qué se debe evitar colocar en el espacio de conducción?
+
+A Adornos colgados del espejo retrovisor.
+
+B Pegatinas en los cristales.
+
+C Las respuestas A y B son correctas.
+
+D Ninguna de las respuestas anteriores es correcta.
+
+RESPUESTA: C
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 409
+
+¿Qué actuación es más recomendable en relación con la conducción?
+
+A Mantener una misma postura de conducción fija durante mucho tiempo.
+
+B No hacer paradas.
+
+C Hacer paradas, saliendo del vehículo cada dos horas.
+
+D Se debe seguir conduciendo aunque se empiece a sentir malestar.
+
+RESPUESTA: C
+
+NORMA: Consejos y normas de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Consejos y normas de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 414
+
+¿Qué significa literalmente el término "ergonomía"?
+
+A Norma del trabajo.
+
+B Sugerencias de trabajo.
+
+C Propuestas de trabajo.
+
+D Todas las respuestas anteriores son correctas.
+
+RESPUESTA: A
+
+NORMA: Ergonomía general. Marisol Góngora
+
+REFERENCIA DOCTRINAL: Ergonomía general. Marisol Góngora
+
+
+
+COD: 479
+
+A fin de determinar el nivel de control que corresponde aplicar a cada equipo de protección individual, ¿cómo se clasifican?
+
+A En cinco categorías.
+
+B En cuatro categorías.
+
+C En tres categorías.
+
+D En dos categorías.
+
+RESPUESTA: C
+
+NORMA: Reglamento Comunitario (UE) 2016/425, Anexo I
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 499
+
+Al trabajar sentado, ¿cómo debe ser la posición?
+
+A Sentado en el borde del asiento para alcanzar todos los elementos necesarios.
+
+B Sentado apoyando contra el respaldo la zona lumbar y apoyando los pies en el suelo completamente.
+
+C Sentado en el borde con los pies ligeramente inclinados hacia delante.
+
+D Sentado apoyando contra el respaldo la zona lumbar y apoyando únicamente las puntas de los pies.
+
+RESPUESTA: B
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 578
+
+La aplicación de los conocimientos ergonómicos al ámbito del trabajo es fundamentalmente para…
+
+A la creación de riesgos físicos.
+
+B la curación de problemas de salud.
+
+C diseñar las instalaciones pensando en la productividad.
+
+D la eliminación de riesgos físicos.
+
+RESPUESTA: D
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 607
+
+La Ergonomía busca incrementar en el ámbito del trabajo:
+
+A el bienestar del empresario.
+
+B el rendimiento del empresario.
+
+C el bienestar del trabajador.
+
+D Todas las respuestas anteriores son incorrectas.
+
+RESPUESTA: C
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 608
+
+La Ergonomía proporciona recomendaciones respecto de los diferentes aspectos del trabajo. ¿Cuál es una de esas recomendaciones?
+
+A Posturas.
+
+B Espacio y medios de transporte.
+
+C Movimientos y esfuerzos.
+
+D Las respuestas A y C son correctas.
+
+RESPUESTA: D
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 644
+
+La postura correcta para manipular una carga debe incluir:
+
+A mantener las rodillas rígidas.
+
+B tener el bulto tan cerca del cuerpo como sea posible.
+
+C mantener rígidas las piernas.
+
+D flexionar la espalda.
+
+RESPUESTA: B
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 697
+
+Las normas vigentes en la UE obligan a los empresarios a evitar dentro de lo posible:
+
+A la manipulación mecánica de carga.
+
+B la manipulación manual de carga.
+
+C la mecanización de procesos de trabajo.
+
+D Todas las respuestas anteriores son incorrectas.
+
+RESPUESTA: B
+
+NORMA: RD 487/1997, Art. 3
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 739
+
+Los equipos de protección individual (EPI)…
+
+A son elementos de aplicación indirecta sobre el cuerpo del trabajador.
+
+B tienen la finalidad de disminuir o impedir las lesiones.
+
+C normalmente se clasifican por las partes que componen los equipos.
+
+D tienen por finalidad impedir el bajo rendimiento en el trabajo.
+
+RESPUESTA: B
+
+NORMA: RD 773/1997, Art. 2
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 740
+
+Los equipos de protección individual del trabajador deberán comercializarse siempre marcados y acompañados de:
+
+A certificado ISO 2350.
+
+B instrucciones de uso.
+
+C una maleta para poder guardarlos.
+
+D Todas las respuestas anteriores son incorrectas.
+
+RESPUESTA: B
+
+NORMA: Reglamento Comunitario (UE) 2016/425, art. 8; Reglamento Comunitario (UE) 2016/425, Anexo II
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 741
+
+Los esfuerzos musculares en el trabajo…
+
+A no tienen que seguir un ritmo natural.
+
+B no importa que no se realicen a partir de puntos de apoyo apropiados.
+
+C estarán adaptados a las capacidades psíquicas del trabajador.
+
+D se realizarán con los grupos de músculos apropiados.
+
+RESPUESTA: D
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 779
+
+Aparte de la altura del trabajador y el espacio de movimiento, ¿es necesario tener en cuenta aspectos como la temperatura y la humedad, la buena iluminación, colores y ruido a la hora de crear un buen espacio de trabajo?
+
+A Sí.
+
+B No.
+
+C Solo la iluminación y el ruido.
+
+D Solo la temperatura y el ruido.
+
+RESPUESTA: A
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 790
+
+Como medida de prevención de riesgos para el conductor, es importante que el respaldo de su asiento en el vehículo:
+
+A sea muy mullido.
+
+B cubra completamente la espalda.
+
+C sea de material transpirable.
+
+D Ninguna de las respuestas anteriores es correcta.
+
+RESPUESTA: B
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 795
+
+Considerando el volante como un reloj, ¿cuál de las siguientes es la posición más adecuada de las manos?
+
+A Diez y diez.
+
+B Tres y cuarto.
+
+C Tres menos cuarto.
+
+D Nueve y media.
+
+RESPUESTA: A
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 796
+
+Considerando el volante como un reloj, ¿cuál de las siguientes es la posición más adecuada de las manos según los expertos?
+
+A La llamada "de las diez y diez".
+
+B La llamada "de las diez menos diez".
+
+C La llamada "de las diez y media".
+
+D La llamada "de las doce y diez".
+
+RESPUESTA: A
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 812
+
+Cuando los equipos de protección individual superen los controles estipulados, se deberá estampar sobre el producto…
+
+A el marcado CE que, en el caso de los equipos de categorías II y III, irá seguido del número de identificación del organismo notificado que haya participado en el procedimiento de evaluación de la conformidad.
+
+B el marcado UE que, en el caso de los equipos de categorías II y III, irá seguido del número de identificación del organismo notificado que haya participado en el procedimiento de evaluación de la conformidad.
+
+C el marcado CE que, en el caso de los equipos de categoría III, irá seguido del número de identificación del organismo notificado que haya participado en el procedimiento de evaluación de la conformidad.
+
+D el marcado UE que, en el caso de los equipos de categoría III, irá seguido del número de identificación del organismo notificado que haya participado en el procedimiento de evaluación de la conformidad.
+
+RESPUESTA: C
+
+NORMA: Reglamento Comunitario (UE) 2016/425, art. 17
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 819
+
+Cuando se habla de "ergonomía", se está hablando de:
+
+A un sistema de contabilidad.
+
+B prevención de riesgos laborales.
+
+C un sistema de estiba de la carga.
+
+D transporte combinado.
+
+RESPUESTA: B
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 863
+
+Durante la conducción, ¿cuál debe ser la posición de los brazos?
+
+A Tensa, de manera que alcancemos el volante con los brazos completamente estirados.
+
+B Relajada, debiendo alcanzar el volante de manera que los brazos estén completamente doblados.
+
+C Ligeramente flexionados y sin agarrar el volante con mucha fuerza.
+
+D Tensos y agarrando con fuerza el volante.
+
+RESPUESTA: C
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 877
+
+El asiento de la cabina se colocará a la altura necesaria para que las caderas y las rodillas formen un ángulo de:
+
+A 45 grados.
+
+B 60 grados.
+
+C 75 grados.
+
+D 90 grados.
+
+RESPUESTA: D
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 916
+
+El espacio y los medios de trabajo deben ser concebidos teniendo en cuenta:
+
+A la altura a la que se realiza el trabajo.
+
+B el asiento en el que se realiza el trabajo.
+
+C las medidas del cuerpo humano.
+
+D Todas las respuestas anteriores son correctas.
+
+RESPUESTA: D
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 934
+
+El Instituto Nacional de Seguridad e Higiene en el Trabajo aconseja que los pesos que se levanten en posición de pie no sean superiores a:
+
+A 35 kg, que se reducirá a 10 en caso de mujeres y trabajadores jóvenes.
+
+B 30 kg, que se reducirá a 20 en caso de mujeres y trabajadores jóvenes.
+
+C 15 kg, que se reducirá a 25 en caso de mujeres y trabajadores jóvenes.
+
+D 25 kg, que se reducirá a 15 en caso de mujeres y trabajadores jóvenes.
+
+RESPUESTA: D
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 935
+
+El Instituto Nacional de Seguridad e Higiene en el Trabajo aconseja que los pesos que se levanten en posición sentado no sean superiores a:
+
+A 10 kg.
+
+B 15 kg.
+
+C 5 kg.
+
+D 20 kg.
+
+RESPUESTA: C
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 936
+
+Según el Instituto Nacional de Seguridad e Higiene en el Trabajo, para el levantamiento de pesos manualmente en posición de pie y en condiciones ideales de trabajo, la cifra máxima aconsejada para las mujeres es de:
+
+A 5 kilos.
+
+B 15 kilos.
+
+C 25 kilos.
+
+D 40 kilos.
+
+RESPUESTA: B
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 937
+
+El Instituto Nacional de Seguridad e Higiene en el Trabajo recomienda que, para el levantamiento de pesos manualmente en posición sentado, no se superen:
+
+A 5 kilos.
+
+B 15 kilos.
+
+C 25 kilos.
+
+D 50 kilos.
+
+RESPUESTA: A
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 947
+
+El respaldo del asiento de la cabina de conducción es conveniente que cuente con:
+
+A rugosidades que permitan una buena transpiración.
+
+B reposapiés.
+
+C reposacabezas.
+
+D reposabrazos.
+
+RESPUESTA: C
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 949
+
+El respaldo del asiento del conductor, para que sea adecuado, debe:
+
+A cubrir hasta la mitad de la espalda.
+
+B cubrir completamente la espalda, con posibilidad de ajustarse a la zona lumbar.
+
+C ser fijo de forma que se mueva lo menos posible.
+
+D ser rígido.
+
+RESPUESTA: B
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 1011
+
+En el puesto de conducción, es importante tener en cuenta:
+
+A la reducción al máximo de los ruidos en el vehículo.
+
+B conseguir una temperatura ideal dentro del vehículo.
+
+C conseguir una visibilidad plena de la carretera, de los espejos retrovisores y de los instrumentos indicadores.
+
+D Todas las respuestas anteriores son correctas.
+
+RESPUESTA: D
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 1012
+
+En el puesto de conducción, la temperatura es un factor a tener en cuenta:
+
+A Principalmente en horario nocturno.
+
+B Principalmente en horario diurno.
+
+C En todo momento, es necesario mantener una temperatura ideal.
+
+D Todas las respuestas anteriores son correctas.
+
+RESPUESTA: C
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 1103
+
+Los trabajadores, en relación con los equipos de protección individual, siguiendo las instrucciones del empresario, ¿qué deberán hacer en particular?
+
+A Utilizarlos y cuidarlos.
+
+B Colocarlos después de su utilización en el lugar indicado para ello.
+
+C Informar a su superior de los posibles defectos detectados en ellos.
+
+D Todas las respuestas anteriores son correctas.
+
+RESPUESTA: D
+
+NORMA: RD 773/1997, Art. 10
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 1178
+
+Respecto al confort ambiental del espacio de conducción, es necesario:
+
+A que permita escuchar solo los ruidos del vehículo.
+
+B que permita escuchar solo los ruidos del tráfico en general.
+
+C que reduzca al máximo posible los ruidos del vehículo y tráfico.
+
+D el correcto funcionamiento del equipo musical.
+
+RESPUESTA: C
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 1183
+
+Respecto de los riesgos en el trabajo, el empresario está obligado a:
+
+A determinar qué puestos deben usar protecciones.
+
+B indicar el equipo de protección necesario.
+
+C cuidar el mantenimiento de los equipos individuales de protección.
+
+D Todas las respuestas son correctas.
+
+RESPUESTA: D
+
+NORMA: RD 773/1997, Art. 3
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 1193
+
+Se diseñarán las tareas en el trabajo de manera que:
+
+A excluyan el mayor número posible de movimientos reflejos.
+
+B incluyan el menor número posible de movimientos automáticos.
+
+C todas las herramientas y materiales que se precisen estén al alcance del trabajador.
+
+D las herramientas y materiales que se precisen no tengan un sitio permanente de colocación.
+
+RESPUESTA: C
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1208
+
+Según la Ergonomía, en el lugar de trabajo debe cuidarse:
+
+A la temperatura.
+
+B la iluminación.
+
+C la renovación del aire.
+
+D Todas las respuestas anteriores son correctas.
+
+RESPUESTA: D
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1273
+
+Señale la respuesta correcta respecto a los equipos de protección individual.
+
+A Se pueden clasificar en función del riesgo que contrarrestan.
+
+B Se aplican para disminuir las lesiones del trabajador.
+
+C Se pueden clasificar en función de la parte del cuerpo que protegen.
+
+D Todas las respuestas anteriores son correctas.
+
+RESPUESTA: D
+
+NORMA: RD 773/1997, art. 2; RD 773/1997, Anexo I; RD 773/1997, Anexo II
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 1359
+
+Son equipos de protección individual de la cabeza:
+
+A los manguitos y mangos.
+
+B las rodilleras.
+
+C los cascos de protección contra choques e impactos.
+
+D los chalecos termógenos.
+
+RESPUESTA: C
+
+NORMA: RD 773/1997, Anexo I
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 1360
+
+Son equipos de protección individual de las vías respiratorias:
+
+A los equipos aislantes de aire libre.
+
+B los equipos de submarinismo.
+
+C los equipos respiratorios con máscara amovible para soldadura.
+
+D Todas las respuestas anteriores son correctas.
+
+RESPUESTA: D
+
+NORMA: RD 773/1997, Anexo I
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 1361
+
+Son equipos de protección individual de los oídos:
+
+A las pantallas faciales.
+
+B los equipos respiratorios.
+
+C los equipos filtrantes.
+
+D los protectores auditivos tipo "tapones".
+
+RESPUESTA: D
+
+NORMA: RD 773/1997, Anexo II
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 1362
+
+Son equipos de protección individual de los ojos y de la cara:
+
+A las gafas de montura integral.
+
+B los equipos filtrantes.
+
+C los pasamontañas.
+
+D los cascos de compresión estática.
+
+RESPUESTA: A
+
+NORMA: RD 773/1997, Anexo II
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 1363
+
+Son equipos de protección individual de manos y brazos:
+
+A los equipos de submarinismo.
+
+B los equipos filtrantes.
+
+C los guantes contra las agresiones de origen térmico.
+
+D las cremas anti vibración.
+
+RESPUESTA: C
+
+NORMA: RD 773/1997, Anexo II
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 1402
+
+Un conductor de un vehículo pesado cuyo asiento se encuentre en malas condiciones es posible que sufra:
+
+A problemas de columna.
+
+B problemas de circulación.
+
+C artrosis.
+
+D lesiones cerebrales.
+
+RESPUESTA: A
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 1460
+
+Señale la opción que no es acorde con el mantenimiento de unas buenas condiciones en cuanto al espacio y medios de trabajo.
+
+A Es recomendable que siempre haya ruido, el silencio absoluto no es bueno.
+
+B Existirá espacio suficiente para los movimientos del cuerpo.
+
+C Los instrumentos de mando estarán situados en una zona que permita su fácil alcance.
+
+D Los mangos y empuñaduras se adaptarán a la anatomía de la mano.
+
+RESPUESTA: A
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1462
+
+Señale la opción que no es acorde con el mantenimiento de unas buenas condiciones de trabajo.
+
+A Se cuidará la humedad del local de trabajo.
+
+B Se cuidará la iluminación del local de trabajo.
+
+C No se debe descansar antes de haber transcurrido 3 horas de trabajo para aumentar la eficacia.
+
+D Se cuidará el nivel de ruido del local de trabajo.
+
+RESPUESTA: C
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1464
+
+Una postura inadecuada mantenida durante un período de tiempo largo:
+
+A puede provocar daños psíquicos.
+
+B puede provocar daños físicos.
+
+C no incide en el estado físico del conductor.
+
+D ayuda a conseguir una conducción menos cansada.
+
+RESPUESTA: B
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1629
+
+¿La necesidad de permanecer largo tiempo sentado e inmovilizado se considera factor de riesgo en la actividad del transporte?
+
+A Sí.
+
+B Solo en un 3,5 % de los casos.
+
+C Solo en un 15,4 % de los casos.
+
+D No.
+
+RESPUESTA: A
+
+NORMA: Prevención de riesgos laborales en el sector del transporte por carretera. Fundación para la Prevención de Riesgos Laborales; Prevención de riesgos laborales en el sector del transporte por carretera. UGT; Prevención de riesgos laborales para el sector del transporte por carretera. Labour Asociados
+
+REFERENCIA DOCTRINAL: Prevención de riesgos laborales en el sector del transporte por carretera. Fundación para la Prevención de Riesgos Laborales; Prevención de riesgos laborales en el sector del transporte por carretera. UGT; Prevención de riesgos laborales para el sector del transporte por carretera. Labour Asociados
+
+
+
+COD: 1706
+
+¿Cuál es el significado literal del término "ergonomía"?
+
+A Norma general.
+
+B Norma del trabajo.
+
+C Norma de utilización.
+
+D Norma de uso.
+
+RESPUESTA: B
+
+NORMA: Ergonomía general. Marisol Góngora
+
+REFERENCIA DOCTRINAL: Ergonomía general. Marisol Góngora
+
+
+
+COD: 1707
+
+¿Cómo se denomina el conjunto de conocimientos y técnicas que buscan la mejor adaptación posible del hombre a las actividades que desarrolla?
+
+A Ergomalotría.
+
+B Ergometría.
+
+C Ergonomía.
+
+D Estoncología.
+
+RESPUESTA: C
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1708
+
+¿Cuál de las siguientes respuestas no constituye un objetivo de la Ergonomía?
+
+A Ajustar las exigencias del trabajo a las posibilidades del hombre.
+
+B Diseñar las máquinas, equipos e instalaciones pensando en la mayor seguridad.
+
+C Configurar los puestos de trabajo de modo que permitan una postura no perjudicial para la salud del trabajador.
+
+D Modificar las herramientas de trabajo tratando que cada vez se trabaje menos y así disminuir las enfermedades.
+
+RESPUESTA: D
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1709
+
+De las siguientes respuestas, ¿cuál no es un objetivo de la Ergonomía?
+
+A Adaptar el entorno de trabajo (iluminación, ventilación, ruido, etc.) a las necesidades humanas.
+
+B Configurar los puestos de trabajo de modo que permitan una postura no perjudicial para la salud del trabajador.
+
+C Tratar que la remuneración se ajuste a las cualidades de cada trabajador.
+
+D Diseñar las máquinas, equipos e instalaciones pensando en la mayor eficacia.
+
+RESPUESTA: C
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1710
+
+De las siguientes respuestas, señale la que no esté relacionada con la Ergonomía.
+
+A Espacio y medios de trabajo.
+
+B Posturas.
+
+C Movimientos.
+
+D Ganancias monetarias.
+
+RESPUESTA: D
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1711
+
+La aplicación de los conocimientos ergonómicos al ámbito del trabajo es fundamental para:
+
+A la eliminación de riesgos físicos.
+
+B mejorar las ganancias económicas.
+
+C utilizar las herramientas con maestría.
+
+D incrementar los beneficios económicos de la empresa.
+
+RESPUESTA: A
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1712
+
+La aplicación de los conocimientos ergonómicos al ámbito del trabajo es fundamental para:
+
+A utilizar las herramientas con soltura.
+
+B mejorar la organización empresarial.
+
+C protegernos de los accidentes con menos gasto económico.
+
+D la prevención de problemas de salud.
+
+RESPUESTA: D
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1713
+
+La aplicación de los conocimientos ergonómicos al ámbito del trabajo es fundamental para:
+
+A incrementar los beneficios empresariales.
+
+B utilizar las herramientas con maestría.
+
+C incrementar el bienestar del trabajador.
+
+D los problemas de Ergomalotría.
+
+RESPUESTA: C
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1714
+
+La aplicación de los conocimientos ergonómicos al ámbito del trabajo es fundamental para:
+
+A los problemas de Ergomalotría, exclusivamente.
+
+B el estudio del mercado laboral.
+
+C mejorar las ganancias económicas.
+
+D incrementar el rendimiento del trabajador.
+
+RESPUESTA: D
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1715
+
+En el caso de conductores profesionales, ¿a qué parte del cuerpo suele afectar más un asiento deteriorado en el puesto de conducción?
+
+A Al estómago.
+
+B A la columna vertebral.
+
+C Al hígado.
+
+D Al riñón.
+
+RESPUESTA: B
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 1716
+
+Señale la afirmación incorrecta con relación al puesto de conducción.
+
+A El respaldo debe contar con reposacabezas.
+
+B El asiento debe permitir su regulación a voluntad del usuario.
+
+C El volante debe permitir su regulación a voluntad del usuario.
+
+D El asiento debe estar lo más separado posible, aunque haya que estirarse.
+
+RESPUESTA: D
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 1717
+
+¿Qué temperatura es la más adecuada para mantener en un puesto de trabajo?
+
+A La temperatura del puesto de trabajo debe ser la idónea.
+
+B Al trabajar es mejor pasar calor que utilizar el aire acondicionado.
+
+C La temperatura del puesto de trabajo debe ser lo más fresca posible.
+
+D La temperatura del puesto de trabajo debe ser lo más alta posible, dentro de unos límites.
+
+RESPUESTA: A
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1718
+
+¿Qué problemas de salud suele dar el trabajo sedentario?
+
+A Disminuye la circulación sanguínea de las piernas.
+
+B Quemaduras.
+
+C Paradas cardíacas.
+
+D Hematomas.
+
+RESPUESTA: A
+
+NORMA: Prevención de riesgos laborales en el sector del transporte por carretera. Fundación para la Prevención de Riesgos Laborales; Prevención de riesgos laborales en el sector del transporte por carretera. UGT; Prevención de riesgos laborales para el sector del transporte por carretera. Labour Asociados
+
+REFERENCIA DOCTRINAL: Prevención de riesgos laborales en el sector del transporte por carretera. Fundación para la Prevención de Riesgos Laborales; Prevención de riesgos laborales en el sector del transporte por carretera. UGT; Prevención de riesgos laborales para el sector del transporte por carretera. Labour Asociados
+
+
+
+COD: 1719
+
+¿Qué problemas de salud más frecuentes produce el trabajo sedentario?
+
+A Lesiones en la piel y lesiones oculares.
+
+B Aumenta la carga de esfuerzo sobre los músculos de la espalda.
+
+C Desgarros musculares.
+
+D Fuertes hematomas.
+
+RESPUESTA: B
+
+NORMA: Prevención de riesgos laborales en el sector del transporte por carretera. Fundación para la Prevención de Riesgos Laborales; Prevención de riesgos laborales en el sector del transporte por carretera. UGT; Prevención de riesgos laborales para el sector del transporte por carretera. Labour Asociados
+
+REFERENCIA DOCTRINAL: Prevención de riesgos laborales en el sector del transporte por carretera. Fundación para la Prevención de Riesgos Laborales; Prevención de riesgos laborales en el sector del transporte por carretera. UGT; Prevención de riesgos laborales para el sector del transporte por carretera. Labour Asociados
+
+
+
+COD: 1720
+
+Para evitar los problemas de salud que produce el trabajo sedentario, es recomendado cambiar de postura al menos cada:
+
+A 45 minutos.
+
+B 90 minutos.
+
+C 2 horas.
+
+D 3 horas.
+
+RESPUESTA: A
+
+NORMA: Prevención de riesgos laborales en el sector del transporte por carretera. Fundación para la Prevención de Riesgos Laborales; Prevención de riesgos laborales en el sector del transporte por carretera. UGT; Prevención de riesgos laborales para el sector del transporte por carretera. Labour Asociados
+
+REFERENCIA DOCTRINAL: Prevención de riesgos laborales en el sector del transporte por carretera. Fundación para la Prevención de Riesgos Laborales; Prevención de riesgos laborales en el sector del transporte por carretera. UGT; Prevención de riesgos laborales para el sector del transporte por carretera. Labour Asociados
+
+
+
+COD: 1721
+
+La posición más adecuada de las manos durante la conducción, según diferentes expertos, es la llamada de:
+
+A las once y diez.
+
+B las doce y diez.
+
+C las diez y diez.
+
+D las diez y veinte.
+
+RESPUESTA: C
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 1722
+
+Durante la conducción, ¿cuál es la postura idónea de los brazos?
+
+A Han de estar tensos.
+
+B Han de estar ligeramente flexionados.
+
+C Han de estar en ángulo recto.
+
+D Deben agarrar al volante con suavidad.
+
+RESPUESTA: B
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 1724
+
+¿Cuál de las siguientes conductas no es recomendable para trabajar de pie?
+
+A La columna se conservará recta.
+
+B Si hay que inclinarse, se flexionarán las rodillas.
+
+C Cambiar de postura tan frecuentemente como se pueda.
+
+D Utilizar zapatos de tacón alto.
+
+RESPUESTA: D
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1725
+
+¿Cuál de las siguientes conductas no es recomendable para el trabajo de pie?
+
+A Alternar en lo posible estar de pie con sentarse.
+
+B Los suelos de materiales capaces de amortiguar parte del peso son preferibles a los rígidos.
+
+C Utilizar zapatos de tacón completamente plano.
+
+D Hay que conservar la columna recta.
+
+RESPUESTA: C
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1726
+
+¿Cuál de las siguientes conductas no es correcta para trabajar de pie?
+
+A Si hay que inclinarse, se flexionarán las rodillas.
+
+B Es conveniente trabajar mejor sobre asfalto que sobre madera pues es más rígido.
+
+C Alternar en lo posible estar de pie con sentarse.
+
+D Es bueno cambiar de postura tan frecuentemente como se pueda.
+
+RESPUESTA: B
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1727
+
+Lo más recomendable para trabajar de pie es utilizar zapatos:
+
+A con la suela plana.
+
+B con tacón de 2 a 4 cm.
+
+C con tacón de 10 cm.
+
+D con tacón de 15 cm.
+
+RESPUESTA: B
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1729
+
+El tipo de esfuerzo requerido para el manejo de la carga del vehículo influye en el nivel de riesgo. Así, es más segura la manipulación que se realice con:
+
+A esfuerzos suaves.
+
+B esfuerzos intensos.
+
+C esfuerzos realizados sin tiempo de recuperación suficiente.
+
+D inclinaciones del cuerpo o torciéndolo.
+
+RESPUESTA: A
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 1730
+
+El tipo de esfuerzo requerido para el manejo de la carga del vehículo influye en el nivel de riesgo. Así, es más segura la manipulación que exija:
+
+A inclinar el cuerpo.
+
+B esfuerzos escalonados.
+
+C mantener el cuerpo en posiciones inestables durante la operación.
+
+D esfuerzos prolongados.
+
+RESPUESTA: B
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 1731
+
+El tipo de esfuerzo requerido para el manejo de la carga del vehículo influye en el nivel de riesgo. Así, es más segura la manipulación que se realice…
+
+A con esfuerzos muy duraderos.
+
+B teniendo que cambiar el punto de agarre de la carga.
+
+C con esfuerzos cortos.
+
+D con esfuerzos demasiado frecuentes.
+
+RESPUESTA: C
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 1732
+
+El tipo de esfuerzo requerido para el manejo de la carga del vehículo influye en el nivel de riesgo. Así, es más segura la manipulación que exija:
+
+A tener que cambiar el punto de agarre de la carga.
+
+B esfuerzos demasiado frecuentes.
+
+C esfuerzos manteniendo un ritmo de trabajo elevado.
+
+D no realizar esfuerzos.
+
+RESPUESTA: D
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 1733
+
+¿Cómo debe ser el medio en el que se realiza la actividad laboral?
+
+A Un espacio de trabajo reducido.
+
+B Suelo resbaladizo.
+
+C Suelo irregular.
+
+D Un espacio de trabajo amplio.
+
+RESPUESTA: D
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1734
+
+¿Cómo debe ser el medio en el que se realiza la actividad laboral?
+
+A Con una iluminación insuficiente.
+
+B Con una temperatura inadecuada.
+
+C Con ausencia de ruidos.
+
+D Con vibraciones.
+
+RESPUESTA: C
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 1735
+
+Para el levantamiento de pesos en posición sentado, se recomienda que estos no superen los:
+
+A 2 kilogramos.
+
+B 5 kilogramos.
+
+C 10 kilogramos.
+
+D 15 kilogramos.
+
+RESPUESTA: B
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 1736
+
+Para el levantamiento de pesos en posición de pie y en condiciones ideales de trabajo, la cifra máxima aconsejada para los hombres es de:
+
+A 5 kilogramos.
+
+B 15 kilogramos.
+
+C 25 kilogramos.
+
+D 30 kilogramos.
+
+RESPUESTA: C
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 1737
+
+Para el levantamiento de pesos en posición de pie y en condiciones ideales de trabajo, la cifra máxima aconsejada para las mujeres es de:
+
+A 2 kilogramos.
+
+B 10 kilogramos.
+
+C 15 kilogramos.
+
+D 20 kilogramos.
+
+RESPUESTA: C
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 3363
+
+¿Cuál es el espacio de trabajo específico de los conductores?
+
+A El vehículo.
+
+B La carretera.
+
+C La cabina de conducción.
+
+D El garaje.
+
+RESPUESTA: C
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 3383
+
+¿Cuál es el trastorno más común que puede aparecer si no está bien diseñado el asiento del conductor?
+
+A Dolor de cabeza.
+
+B Lumbalgias.
+
+C Tendinitis.
+
+D Luxación.
+
+RESPUESTA: B
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 3389
+
+¿Cuál es la finalidad de la Ergonomía en el ámbito del trabajo?
+
+A Solo incrementar el bienestar del trabajador.
+
+B Incrementar el bienestar del empresario.
+
+C Incrementar el bienestar del trabajador y el rendimiento del mismo.
+
+D Únicamente aumentar el rendimiento del trabajador.
+
+RESPUESTA: C
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 3405
+
+¿Cuál es la manipulación de cargas menos peligrosa?
+
+A La que exige esfuerzos intensos y prolongados.
+
+B La que exige no tener que cambiar el punto de agarre de la carga.
+
+C La que exige esfuerzos realizados sin tiempo de recuperación suficiente.
+
+D La que exige torcer el cuerpo durante la operación.
+
+RESPUESTA: B
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 3421
+
+¿Cuál es la posición correcta del asiento del conductor?
+
+A La que solo permite alcanzar el volante sin separar la espalda del respaldo.
+
+B La que permite ver el final del capó para controlar el vehículo.
+
+C La que permite alcanzar todos los mandos del vehículo sin separar la espalda del respaldo.
+
+D Todas las respuestas anteriores son incorrectas.
+
+RESPUESTA: C
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 3423
+
+¿Cuál es la postura correcta a la hora de levantar cargas desde el suelo?
+
+A Rodillas estiradas y espalda derecha.
+
+B Rodillas flexionadas y espalda derecha.
+
+C Rodillas flexionadas y espalda inclinada.
+
+D Rodillas estiradas y espalda inclinada.
+
+RESPUESTA: B
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 3464
+
+¿Cuáles son equipos de protección individual de la piel?
+
+A Equipos de buceo.
+
+B Equipos filtrantes.
+
+C Cremas y lociones barrera.
+
+D Todas las respuestas anteriores son correctas.
+
+RESPUESTA: C
+
+NORMA: RD 773/1997, Anexo II
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 3465
+
+¿Cuáles son equipos de protección individual de la totalidad del cuerpo?
+
+A Equipos de protección contra las caídas en altura.
+
+B Ropa de protección contra las agresiones químicas y mecánicas.
+
+C Arneses.
+
+D Todas las respuestas anteriores son correctas.
+
+RESPUESTA: D
+
+NORMA: RD 773/1997, Anexo II
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 3467
+
+¿Cuáles son equipos de protección individual de pies y piernas?
+
+A Equipos filtrantes.
+
+B Dediles.
+
+C Equipos aislantes.
+
+D Todas las respuestas anteriores son incorrectas.
+
+RESPUESTA: D
+
+NORMA: RD 773/1997, Anexo II
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 3468
+
+¿Cuáles son equipos de protección individual de pies y piernas?
+
+A Guantes contra las agresiones químicas.
+
+B Gafas de moltura universal.
+
+C Calzado y cubrecalzado de protección contra el frío.
+
+D Fajas y cinturones antivibraciones.
+
+RESPUESTA: C
+
+NORMA: RD 773/1997, Anexo I
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 3472
+
+¿Cuáles son los objetivos de la Ergonomía en el ámbito laboral?
+
+A Diseñar las máquinas pensando en la mayor seguridad y eficacia.
+
+B Configurar los puestos de trabajo de modo que permitan una postura no perjudicial.
+
+C Adaptar el entorno de trabajo a las necesidades humanas.
+
+D Todas las respuestas anteriores son correctas.
+
+RESPUESTA: D
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 3482
+
+¿Cuál es una característica de la carga que puede aliviar los riesgos asociados a su manipulación?
+
+A Cargas pesadas.
+
+B Cargas muy voluminosas.
+
+C Cargas que no pierden fácilmente el equilibrio.
+
+D Cargas difíciles de sujetar.
+
+RESPUESTA: C
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 3493
+
+¿Cuál es una postura incorrecta al manipular cargas en el trabajo?
+
+A El bulto tan lejos del cuerpo como se pueda.
+
+B Las rodillas flexionadas.
+
+C La espalda recta.
+
+D Se levanta el peso solo hasta la altura del pecho.
+
+RESPUESTA: A
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 3494
+
+¿Cuál es la ciencia fundamental por su aportación a la Ergonomía?
+
+A Anatomía.
+
+B Fisiología humana.
+
+C Psicología.
+
+D Todas las respuestas anteriores son correctas.
+
+RESPUESTA: D
+
+NORMA: Ergonomía. Organización Internacional del Trabajo; Ergonomía general. Marisol Góngora
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo; Ergonomía general. Marisol Góngora
+
+
+
+COD: 3496
+
+¿Qué cuidado hemos de tener al trabajar de pie?
+
+A La columna se conservará inclinada.
+
+B No es bueno cambiar la postura de la espalda.
+
+C Se recomienda el uso de plantillas en el calzado.
+
+D Si hay que inclinarse, se flexionarán las rodillas.
+
+RESPUESTA: D
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 3499
+
+¿Qué factor puede disminuir las posibilidades de lesión al manejar cargas en el trabajo?
+
+A Espacio de trabajo reducido.
+
+B Suelo resbaladizo.
+
+C Existencia de vibraciones.
+
+D Iluminación adecuada.
+
+RESPUESTA: D
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 3501
+
+¿Qué objetivo concreto persigue la Ergonomía en el ámbito laboral?
+
+A Ajustar las exigencias del trabajo a las posibilidades del hombre.
+
+B Diseñar las máquinas pensando en el mayor rendimiento.
+
+C Adaptar el entorno del descanso.
+
+D Configurar los puestos de trabajo de modo que permitan una postura perjudicial para la salud del trabajador.
+
+RESPUESTA: A
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 3502
+
+¿Con qué ciencia trabaja la Ergonomía?
+
+A Anatomía.
+
+B Psicología.
+
+C Fisiología.
+
+D Todas las respuestas anteriores son correctas.
+
+RESPUESTA: D
+
+NORMA: Ergonomía. Organización Internacional del Trabajo; Ergonomía general. Marisol Góngora
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo; Ergonomía general. Marisol Góngora
+
+
+
+COD: 3533
+
+¿Cuándo debe hacerse la regulación del asiento de la cabina?
+
+A Antes de iniciar el recorrido.
+
+B Una vez en marcha.
+
+C Al finalizar el recorrido.
+
+D En cualquier momento.
+
+RESPUESTA: A
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 3613
+
+¿Dónde debe colocarse el reposacabezas del respaldo del asiento del conductor?
+
+A A la altura de las orejas.
+
+B A la altura del cuello.
+
+C A la altura que quiera el conductor.
+
+D El respaldo no debe de contar con reposacabezas.
+
+RESPUESTA: A
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 3755
+
+¿Qué circunstancias no favorecen la aparición de molestias en la espalda de los conductores?
+
+A Diseño defectuoso del asiento.
+
+B El buen funcionamiento del sistema de suspensión del vehículo.
+
+C El mantenimiento continuado de posturas incorrectas.
+
+D Todas las respuestas anteriores son correctas.
+
+RESPUESTA: B
+
+NORMA: Prevención de riesgos laborales en el sector del transporte por carretera. Fundación para la Prevención de Riesgos Laborales; Prevención de riesgos laborales en el sector del transporte por carretera. UGT; Prevención de riesgos laborales para el sector del transporte por carretera. Labour Asociados
+
+REFERENCIA DOCTRINAL: Prevención de riesgos laborales en el sector del transporte por carretera. Fundación para la Prevención de Riesgos Laborales; Prevención de riesgos laborales en el sector del transporte por carretera. UGT; Prevención de riesgos laborales para el sector del transporte por carretera. Labour Asociados
+
+
+
+COD: 3827
+
+¿Qué se entiende por manipulación de cargas?
+
+A Cualquier operación de transporte o sujeción de las mismas.
+
+B Abrir el contenido de una carga.
+
+C Llenar un depósito de gasolina.
+
+D Ninguna de las respuestas anteriores es correcta.
+
+RESPUESTA: A
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 3828
+
+¿Qué característica de la carga puede agravar los riesgos asociados a su manipulación?
+
+A Cargas de menos de 3 kg.
+
+B Cargas difíciles de sujetar.
+
+C Cargas con el centro de gravedad centrado.
+
+D Cargas que no deben ser manejadas con separación del cuerpo o con la espalda inclinada.
+
+RESPUESTA: B
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 3829
+
+¿Qué tipo de esfuerzo influye más negativamente en la manipulación de cargas?
+
+A Esfuerzos realizados con tiempo de recuperación.
+
+B No tener que cambiar el punto de agarre de la carga.
+
+C Esfuerzos poco frecuentes.
+
+D Inclinar el cuerpo en posición inestable durante un largo tiempo.
+
+RESPUESTA: D
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 3830
+
+¿Qué tipo de equipo de protección individual constituyen las suelas amovibles?
+
+A Protectores de los ojos y de la cara.
+
+B Protectores de las vías respiratorias.
+
+C Protectores de pies y piernas.
+
+D Protectores del tronco.
+
+RESPUESTA: C
+
+NORMA: RD 773/1997, Anexo I
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 5062
+
+¿Qué tipo de equipo de protección individual son las pantallas para soldadura?
+
+A Protectores de los ojos y de la cara.
+
+B Protectores de las vías respiratorias.
+
+C Protectores de pies y piernas.
+
+D Protectores del tronco.
+
+RESPUESTA: A
+
+NORMA: RD 773/1997, Anexo I
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 5063
+
+Para proteger de posibles problemas respiratorios, ¿qué tipo de protección individual se puede utilizar?
+
+A Protectores de pies y piernas.
+
+B Protectores de los ojos y de la cara.
+
+C Protectores de las vías respiratorias.
+
+D Protectores del tronco.
+
+RESPUESTA: C
+
+NORMA: RD 773/1997, Anexo I
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 5064
+
+¿Qué tipo de equipo de protección individual son los chalecos termógenos?
+
+A Protectores del tronco.
+
+B Protectores de pies y piernas.
+
+C Protectores de los ojos y de la cara.
+
+D Protectores de las vías respiratorias.
+
+RESPUESTA: A
+
+NORMA: RD 773/1997, Anexo I
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 5065
+
+¿Qué tipo de equipo de protección individual son los manguitos y mangas?
+
+A Protectores de pies y piernas.
+
+B Protectores de los ojos y de la cara.
+
+C Protectores de las vías respiratorias.
+
+D Protectores de manos y brazos.
+
+RESPUESTA: D
+
+NORMA: RD 773/1997, Anexo I
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 5286
+
+¿Qué objetivos tiene la Ergonomía en el ámbito del transporte?
+
+A Incrementar el bienestar del trabajador.
+
+B Reducir el número de accidentes.
+
+C Reducir el número de vehículos en la carretera.
+
+D Ninguna de las respuestas anteriores es correcta.
+
+RESPUESTA: A
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 5287
+
+¿Hacia dónde se transmitirán todos los impactos que recibe el vehículo en caso de que el asiento se encuentre mal diseñado?
+
+A La cabeza.
+
+B La columna.
+
+C Las manos.
+
+D Los pies.
+
+RESPUESTA: B
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 5288
+
+¿Qué inclinación es deseable que tenga el respaldo del asiento del conductor?
+
+A En torno a 80º.
+
+B En torno a 60º.
+
+C En torno a 2º.
+
+D En torno a 20º.
+
+RESPUESTA: D
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 5289
+
+¿Dónde se deberá colocar la parte central del reposacabezas?
+
+A A la altura de la coronilla.
+
+B A la altura del cuello.
+
+C A la altura de las orejas.
+
+D A la altura de la boca.
+
+RESPUESTA: C
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 5290
+
+¿Cuántos elementos ajustables debe tener el asiento y el volante?
+
+A Ninguno, porque nos puede hacer perder la concentración.
+
+B Uno.
+
+C Dos el volante y ninguno el asiento.
+
+D Cuantos más elementos mejor ya que aseguran una mayor probabilidad de alcanzar una postura correcta.
+
+RESPUESTA: D
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 5291
+
+¿A qué altura se debe colocar el asiento para alcanzar el volante, los pedales y los controles del vehículo?
+
+A La necesaria para que las caderas y las rodillas formen un ángulo de 90 grados.
+
+B La necesaria para que las caderas y las piernas formen un ángulo de 90 grados.
+
+C La necesaria para que las caderas y las piernas formen un ángulo de 120 grados.
+
+D La necesaria para que las caderas y las rodillas formen un ángulo de 120 grados.
+
+RESPUESTA: A
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 5292
+
+¿Dónde se deben ubicar los diferentes mandos del vehículo?
+
+A En la parte derecha del salpicadero.
+
+B En la parte izquierda del salpicadero.
+
+C En la parte central del salpicadero.
+
+D En cualquier sitio, siempre que sea accesible para el conductor.
+
+RESPUESTA: D
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 5293
+
+¿Qué medidas es necesario establecer para tener una visibilidad plena de la carretera?
+
+A Colocar un adorno colgado del espejo retrovisor.
+
+B Evitar la colocación de objetos que impidan una correcta visibilidad.
+
+C Pegatinas en los cristales.
+
+D Ninguna de las respuestas anteriores es correcta.
+
+RESPUESTA: B
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 5294
+
+¿Qué altura debe tener un asiento para los trabajadores que trabajen sentados?
+
+A La necesaria para que el trabajador no toque el suelo con los pies.
+
+B La necesaria para que el trabajador pueda apoyar los pies completamente en el suelo.
+
+C La necesaria para que los pies del trabajador queden colgados.
+
+D Ninguna de las respuestas anteriores es correcta.
+
+RESPUESTA: B
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 5295
+
+En caso de trabajar sentado, ¿cada cuánto tiempo se recomienda levantarse de la silla y andar?
+
+A Cada 2 horas.
+
+B Cada hora.
+
+C Cada 45 minutos.
+
+D Cada 10 minutos.
+
+RESPUESTA: C
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 5296
+
+¿Cuál es la posición más adecuada de las manos en el volante si lo consideramos un reloj?
+
+A Las diez y diez.
+
+B Las diez menos diez.
+
+C Las doce y cuarto.
+
+D Las tres y cuarto.
+
+RESPUESTA: A
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 5297
+
+¿Es recomendable llevar el brazo apoyado sobre la ventanilla durante un largo tiempo?
+
+A Sí, ya que favorece la ventilación del habitáculo.
+
+B Sí, ya que se relaja la musculatura.
+
+C No, ya que se reciben de lleno las vibraciones del vehículo.
+
+D Sí, ya que favorece la concentración.
+
+RESPUESTA: C
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 5298
+
+¿Qué zapatos son adecuados para trabajar de pie?
+
+A De tacón alto.
+
+B Los completamente planos.
+
+C Con tacón de 2 a 4 cm.
+
+D Los de plataforma.
+
+RESPUESTA: C
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 5299
+
+¿Qué tipo de suelo es capaz de absorber y amortiguar parte del peso del cuerpo?
+
+A Cemento.
+
+B Moqueta.
+
+C Asfalto.
+
+D Ninguna de las respuestas anteriores es correcta.
+
+RESPUESTA: B
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 5300
+
+¿Qué tipo de suelo no es capaz de absorber y amortiguar parte del peso del cuerpo?
+
+A Moqueta.
+
+B Cemento.
+
+C Madera.
+
+D Caucho.
+
+RESPUESTA: B
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 5301
+
+¿Por qué no es recomendable saltar desde la cabina del vehículo al suelo para bajar?
+
+A Perjudica la columna.
+
+B Perjudica las articulaciones de la rodilla.
+
+C Perjudica las articulaciones de los tobillos.
+
+D Todas las respuestas anteriores son correctas.
+
+RESPUESTA: D
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 6194
+
+Si el levantamiento de cargas en posición de pie y en condiciones ideales de trabajo lo realiza una mujer o un trabajador mayor, la cifra máxima aconsejada según el Instituto Nacional de Seguridad e Higiene en el trabajo es de:
+
+A 15 kg.
+
+B 25 kg.
+
+C 20 kg.
+
+D Depende del estado físico.
+
+RESPUESTA: A
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 6195
+
+En la manipulación de una carga se produce una fuerza de compresión que perjudica a:
+
+A los brazos.
+
+B la columna vertebral.
+
+C los discos intervertebrales.
+
+D la médula espinal.
+
+RESPUESTA: C
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 6196
+
+Después de haber permanecido mucho tiempo conduciendo, no conviene saltar desde la cabina al suelo para bajar ya que puede ser causa de:
+
+A esguinces cervicales.
+
+B contracturas musculares.
+
+C mareos.
+
+D distensiones musculares.
+
+RESPUESTA: D
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 6197
+
+Una postura correcta al manipular cargas es:
+
+A espalda recta, rodillas flexionadas y el bulto tan próximo al cuerpo como se pueda.
+
+B espalda flexionada, rodillas flexionadas y el bulto tan próximo al cuerpo como se pueda.
+
+C espalda recta, rodillas flexionadas y el bulto lo más separado del cuerpo que se pueda.
+
+D La postura da igual mientras el bulto no supere los 20 kg.
+
+RESPUESTA: A
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 6368
+
+El conjunto de conocimientos y técnicas que tiene como objetivo la mejor adaptación de la persona a la actividad que desarrolla se denomina:
+
+A Fisiología.
+
+B Autonomía.
+
+C Ergonomía.
+
+D Laboriosidad.
+
+RESPUESTA: C
+
+NORMA: Ergonomía general. Marisol Góngora
+
+REFERENCIA DOCTRINAL: Ergonomía general. Marisol Góngora
+
+
+
+COD: 6369
+
+Si, trabajando de pie, debemos inclinarnos, ¿cuál será la mejor postura para prevenir riesgos físicos?
+
+A Conservando las rodillas rígidas y flexionando la columna vertebral.
+
+B Conservando la columna vertebral recta y flexionando las rodillas.
+
+C Flexionando la columna vertebral y las rodillas.
+
+D Curvando la columna vertebral y manteniendo rígida la cadera.
+
+RESPUESTA: B
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 6370
+
+El espacio y los medios de trabajo deben estar diseñados teniendo en cuenta:
+
+A el coste más económico.
+
+B las medidas del cuerpo humano.
+
+C la imagen corporativa de la empresa.
+
+D el gusto estético del personal que los utilice.
+
+RESPUESTA: B
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 6371
+
+Determinar qué puestos de trabajo en una empresa requieren equipos de protección individual es una obligación:
+
+A de los representantes de los trabajadores.
+
+B de las autoridades laborales.
+
+C de las autoridades sanitarias.
+
+D del empresario.
+
+RESPUESTA: D
+
+NORMA: RD 773/1997, Art. 3.a
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 6372
+
+¿A qué están destinados los equipos de protección individual de la categoría III?
+
+A A proteger contra riesgos mínimos.
+
+B A proteger contra riesgos de grado medio o elevado, pero sin consecuencias mortales o irreversibles.
+
+C A proteger contra riesgos de consecuencias mortales o irreversibles.
+
+D No existen equipos de protección individual de la categoría III.
+
+RESPUESTA: C
+
+NORMA: Reglamento Comunitario (UE) 2016/425, Anexo I
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 6373
+
+Los equipos de protección de la categoría I están destinados a proteger:
+
+A contra riesgos de grado medio.
+
+B contra riesgos mínimos.
+
+C contra riesgos mortales.
+
+D contra todo tipo de riesgos.
+
+RESPUESTA: B
+
+NORMA: Reglamento Comunitario (UE) 2016/425, Anexo I
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 6397
+
+¿En qué categoría se incluyen los equipos destinados a proteger contra riesgos de grado medio?
+
+A Categoría I.
+
+B Categoría II.
+
+C Categoría III.
+
+D Categoría especial.
+
+RESPUESTA: B
+
+NORMA: Reglamento Comunitario (UE) 2016/425, Anexo I
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 6398
+
+¿Qué busca la Ergonomía en el ámbito del trabajo?
+
+A Evitar riesgos laborales.
+
+B Concienciar al trabajador en la prevención.
+
+C Incrementar tanto el bienestar del trabajador como su rendimiento.
+
+D Facilitar el acceso al mundo laboral.
+
+RESPUESTA: C
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 6399
+
+¿Cómo debe ser la base del asiento del conductor?
+
+A Cómoda y flexible.
+
+B Acorde con la longitud de las piernas.
+
+C Con la base muy dura.
+
+D Fabricada con materiales que eviten la transpiración.
+
+RESPUESTA: B
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 6400
+
+¿Cómo tienen que estar los brazos durante la conducción?
+
+A Tensos.
+
+B Muy flexionados.
+
+C Rectos.
+
+D Ligeramente flexionados.
+
+RESPUESTA: D
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 6401
+
+¿Qué se consigue al diseñar tareas que incluyan el mayor número posible de movimientos reflejos y automáticos?
+
+A Que la mente se fatigue menos.
+
+B Mantener los músculos alerta.
+
+C Prevenir posibles lesiones cervicales.
+
+D Todas las respuestas son correctas.
+
+RESPUESTA: A
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 6402
+
+El trabajo debe estar concebido de manera que se evite:
+
+A cualquier descanso innecesario.
+
+B cualquier esfuerzo innecesario o excesivo.
+
+C estar de pie.
+
+D estar sentado.
+
+RESPUESTA: B
+
+NORMA: Ergonomía. Organización Internacional del Trabajo
+
+REFERENCIA DOCTRINAL: Ergonomía. Organización Internacional del Trabajo
+
+
+
+COD: 6403
+
+Para el levantamiento de pesos en posición sentado, se recomienda que los objetos no superen los:
+
+A 5 kg.
+
+B 3 kg.
+
+C 7 kg.
+
+D 9 kg.
+
+RESPUESTA: A
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 6404
+
+Para el levantamiento en posición de pie y en condiciones ideales de trabajo, la cifra máxima aconsejada, según el Instituto Nacional de Seguridad e Higiene, en el trabajo es:
+
+A Depende del estado físico.
+
+B 5 kg.
+
+C 25 kg.
+
+D 40 kg.
+
+RESPUESTA: C
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 7274
+
+Es conveniente que el respaldo del asiento del conductor:
+
+A cubra solo parcialmente la espalda.
+
+B tenga una inclinación en torno a 60 grados.
+
+C tenga posibilidad de ajuste en el apoyo lumbar.
+
+D no tenga ninguna inclinación.
+
+RESPUESTA: C
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 7355
+
+¿Qué dolencia puede aparecer si el conductor mantiene largo tiempo apoyado el brazo sobre la ventanilla?
+
+A Artrosis del codo.
+
+B Lesiones de muñeca.
+
+C Alteraciones de la columna vertebral.
+
+D Todas las respuestas anteriores son correctas.
+
+RESPUESTA: D
+
+NORMA: Prevención de riesgos laborales en el sector del transporte por carretera. Fundación para la Prevención de Riesgos Laborales; Prevención de riesgos laborales en el sector del transporte por carretera. UGT; Prevención de riesgos laborales para el sector del transporte por carretera. Labour Asociados
+
+REFERENCIA DOCTRINAL: Prevención de riesgos laborales en el sector del transporte por carretera. Fundación para la Prevención de Riesgos Laborales; Prevención de riesgos laborales en el sector del transporte por carretera. UGT; Prevención de riesgos laborales para el sector del transporte por carretera. Labour Asociados
+
+
+
+COD: 7356
+
+¿Qué comportamiento es aconsejable para los conductores?
+
+A El uso del vehículo para trabajar con el ordenador.
+
+B El uso del vehículo como lugar de descanso.
+
+C El uso del vehículo para rellenar papeles.
+
+D La realización de ejercicio físico fuera del trabajo de forma regular.
+
+RESPUESTA: D
+
+NORMA: Prevención de riesgos laborales en el sector del transporte por carretera. Fundación para la Prevención de Riesgos Laborales; Prevención de riesgos laborales en el sector del transporte por carretera. UGT; Prevención de riesgos laborales para el sector del transporte por carretera. Labour Asociados
+
+REFERENCIA DOCTRINAL: Prevención de riesgos laborales en el sector del transporte por carretera. Fundación para la Prevención de Riesgos Laborales; Prevención de riesgos laborales en el sector del transporte por carretera. UGT; Prevención de riesgos laborales para el sector del transporte por carretera. Labour Asociados
+
+
+
+COD: 7359
+
+El Instituto Nacional de Seguridad e Higiene en el Trabajo aconseja que el total de peso transportado manualmente en cada jornada no supere:
+
+A 5.000 kg si la distancia a la que se transporta es inferior a 10 metros.
+
+B 10.000 kg si la distancia a la que se transporta es inferior a 10 metros.
+
+C 5.000 kg si la distancia a la que se transporta es inferior a 5 metros.
+
+D 10.000 kg si la distancia a la que se transporta es inferior a 5 metros.
+
+RESPUESTA: B
+
+NORMA: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+REFERENCIA DOCTRINAL: Guía técnica para la evaluación y prevención de riesgos relativos a la manipulación manual de cargas. Instituto Nacional de Seguridad e Higiene en el Trabajo
+
+
+
+COD: 7388
+
+¿Qué condiciones debe reunir la cabina de conducción de un vehículo?
+
+A Contar con un buen sistema de climatización.
+
+B Permitir una visibilidad amplia de la carretera.
+
+C Reducir al máximo posible los ruidos procedentes del propio vehículo y del tráfico en general.
+
+D Todas las respuestas anteriores son correctas.
+
+RESPUESTA: D
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos; Transporte, seguridad y salud. CC.OO; Prevención de riesgos laborales para Logística. Fundación para la Prevención de Riesgos Laborales.
+
+
+
+COD: 66972
+
+¿Es una buena opción que el volante tenga elementos regulables?
+
+A Sí, pero un número mínimo para evitar la aparición de bloqueos en la dirección.
+
+B Sí, el mayor número posible ayuda a la mejora ergonómica del puesto de trabajo del conductor.
+
+C No ya que se puede favorecer la aparición de desajustes en el sistema de dirección.
+
+D Depende de si se trata de un vehículo de transporte de mercancías o de viajeros.
+
+RESPUESTA: B
+
+NORMA: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos
+
+REFERENCIA DOCTRINAL: Análisis ergonómico, organizacional y psicosocial del puesto de conductor. SGS Tecnos
+
+
+

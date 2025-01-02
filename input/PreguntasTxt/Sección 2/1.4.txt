@@ -1,0 +1,6620 @@
+COD: 10
+
+¿A qué se debe la resistencia a la aceleración?
+
+A A la máxima velocidad del camión.
+
+B A la inercia de la masa del camión.
+
+C Al estado de la superficie de la calzada.
+
+D A la fuerza aerodinámica.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 14
+
+¿Cómo se define la deceleración de un camión?
+
+A Aceleración continua.
+
+B Aceleración negativa.
+
+C Aceleración discontinua.
+
+D Aceleración positiva.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 61
+
+¿Cómo se calcula el volumen útil de la caja de un camión?
+
+A Multiplicando el peso por la altura de la carga.
+
+B Multiplicando la longitud, la anchura y la altura interiores de la caja.
+
+C Sumando la longitud, la anchura y la altura de la caja.
+
+D Sumando el peso y la altura de la carga.
+
+RESPUESTA: B
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
+COD: 62
+
+El cálculo del volumen útil de la caja de un camión es el resultado de:
+
+A multiplicar el peso por la altura de la carga.
+
+B multiplicar la longitud, la anchura y la altura interiores de la caja.
+
+C sumar la longitud, la anchura y la altura de la caja.
+
+D multiplicar el peso por el resultado de la suma de la anchura y de la altura de la carga.
+
+RESPUESTA: B
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
+COD: 70
+
+¿Cómo se define el sobreviraje?
+
+A Es la trayectoria real de un camión más abierta de la que debería realizar durante una trayectoria curva.
+
+B Es la trayectoria real de un camión más cerrada de la que debería realizar durante una trayectoria curva.
+
+C Es el vuelco del camión debido a una incorrecta maniobra de frenado durante una trayectoria curva.
+
+D Es el vuelco del camión debido a una incorrecta maniobra de frenado durante una trayectoria recta.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 71
+
+¿Cómo se define el subviraje?
+
+A Es la trayectoria real de un camión más abierta de la que debería realizar durante una trayectoria curva.
+
+B Es la trayectoria real de un camión más cerrada de la que debería realizar durante una trayectoria curva.
+
+C Es el vuelco del camión debido a una incorrecta maniobra de frenado.
+
+D Es la trayectoria de un camión cuando cambia de carril.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 84
+
+¿Cómo se denomina el arte o pericia de colocar la carga en un vehículo para su transporte?
+
+A Remisión.
+
+B Estiba.
+
+C Carga.
+
+D Consolidación.
+
+RESPUESTA: B
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 91
+
+¿Cómo se denomina el movimiento giratorio de la carrocería de un camión sobre su eje longitudinal?
+
+A Cabeceo.
+
+B Balanceo.
+
+C Sobreviraje.
+
+D Subviraje.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 92
+
+¿Cómo se denomina el movimiento giratorio de la carrocería de un camión sobre un eje transversal a la marcha?
+
+A Balanceo.
+
+B Cabeceo.
+
+C Subviraje.
+
+D Sobreviraje.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 105
+
+¿Cómo se denomina la fuerza que opone resistencia al movimiento por contacto entre los neumáticos de un camión y la calzada?
+
+A Rozamiento.
+
+B Resistencia dinámica.
+
+C Frenada.
+
+D Deceleración.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 114
+
+¿Cómo se denomina la variación de la trayectoria registrada a causa de la deformación del flanco del neumático de un camión?
+
+A Deslizamiento.
+
+B Deriva del neumático.
+
+C Fuerza de frenado.
+
+D Histéresis.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 163
+
+Respecto de los neumáticos de un camión, ¿cómo se puede describir el fenómeno de la histéresis?
+
+A El mecanismo de seguridad por el que se aumenta la presión de los neumáticos.
+
+B El mecanismo físico por el que el neumático supera  su límite de presión.
+
+C El mecanismo físico por el que el neumático desarrolla su adherencia.
+
+D El mecanismo físico por el que el movimiento del vehículo se interrumpe.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 279
+
+Entre las fuerzas que se oponen al movimiento de un camión, ¿qué dos efectos produce la resistencia del aire o fuerza aerodinámica?
+
+A La resistencia al avance y las turbulencias.
+
+B Los impactos frontales y laterales.
+
+C La resistencia al avance y los impactos frontales.
+
+D Las turbulencias y los impactos laterales.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 360
+
+¿Qué pares tratan de girar a un camión en torno a su eje geométrico vertical?
+
+A Los pares de las ruedas.
+
+B Los pares de viraje.
+
+C Los pares de inercia.
+
+D Los pares de frenado.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 448
+
+¿Qué utilidad tiene la madera en la estiba de una mercancía?
+
+A Aumentar el peso de la carga.
+
+B Elevar la posición de la carga.
+
+C Separar los materiales pesados de los ligeros.
+
+D Rellenar huecos entre materiales y fabricar apoyos o cuñas.
+
+RESPUESTA: D
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 500
+
+A mayor altura del centro de gravedad, la estabilidad del camión:
+
+A disminuye.
+
+B aumenta.
+
+C aumenta, siempre que la parte más ligera de la carga permanezca en la base de la caja.
+
+D no sufre alteraciones.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 529
+
+En una distribución correcta de la carga en la caja de un camión:
+
+A las partes más ligeras estarán encima de las más pesadas.
+
+B las partes más pesadas estarán detrás de las más ligeras.
+
+C las partes más ligeras estarán debajo de las más pesadas.
+
+D las partes más pesadas y más ligeras se irán intercalando entre sí.
+
+RESPUESTA: A
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
+COD: 576
+
+La aceleración de un camión puede ser:
+
+A positiva si se aumenta la velocidad o negativa si se disminuye.
+
+B positiva solamente.
+
+C positiva, pero solo el vehículo alcanza la máxima velocidad.
+
+D negativa solamente.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 591
+
+La carga útil que puede transportar un camión es el resultado de:
+
+A restar la tara de la MMA.
+
+B restar el peso en vacío a la tara.
+
+C restar la MMA de la tara.
+
+D sumar la MMA a la tara.
+
+RESPUESTA: A
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
+COD: 612
+
+La forma en que la inclinación del terreno afecta al movimiento del vehículo depende del grado de la pendiente y…
+
+A de la masa total del camión.
+
+B de la velocidad del camión.
+
+C del estado de la calzada.
+
+D del estado de los frenos del camión.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 629
+
+La mejor utilización de la caja de cambios de un camión es la que permite circular con la aguja del cuentarrevoluciones en la zona:
+
+A de par máximo del motor.
+
+B de par mínimo del motor.
+
+C de par máximo o mínimo, dependiendo del número de marchas.
+
+D de par de viraje.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 656
+
+La resistencia del aire o resistencia aerodinámica afectará siempre al camión en sentido:
+
+A tangencial a la velocidad.
+
+B opuesto al movimiento.
+
+C favorable al movimiento.
+
+D opuesto o favorable al movimiento, según la dirección del viento.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 682
+
+Las fuerzas de adherencia que intervienen en un camión en marcha resultan:
+
+A de la fuerza centrífuga y la fuerza motriz.
+
+B del frenado y de la fuerza de guiado.
+
+C de los pares de viraje y los pares de rueda.
+
+D de la fricción y de la atracción.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 749
+
+¿Qué intentan conservar los pares de las ruedas y los pares de inercia que intervienen en un camión?
+
+A la aerodinámica del vehículo.
+
+B el sentido del giro que llevan.
+
+C la adherencia de las ruedas.
+
+D el eje geométrico vertical del vehículo.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 757
+
+A medida que aumenta la velocidad, el camión tiene que desplazar:
+
+A la misma cantidad de aire.
+
+B mayor inercia centrífuga.
+
+C menor inercia dinámica.
+
+D más cantidad de aire.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 799
+
+Cuando el conductor de un camión acelera en una pendiente ascendente, ¿qué ocurrirá con la mercancía?
+
+A Tenderá a desplazarse hacia el lateral del vehículo que soporte más peso.
+
+B Tenderá a desplazarse en el mismo sentido de la marcha del vehículo.
+
+C Tenderá a desplazarse en sentido opuesto a la marcha del vehículo.
+
+D No tenderá a desplazarse hacia ninguna parte.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 800
+
+Cuando el conductor de un camión frene en una pendiente descendente, ¿qué ocurrirá con la mercancía?
+
+A Tenderá a desplazarse en sentido opuesto a la marcha del vehículo.
+
+B Tenderá a desplazarse en el mismo sentido de la marcha del vehículo.
+
+C Tenderá a desplazarse hacia el lateral del vehículo que soporte más peso.
+
+D No tenderá a desplazarse hacia ninguna parte.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 811
+
+Cuando la trayectoria es más cerrada que la que debería realizar, el camión…
+
+A derrapa.
+
+B se balancea.
+
+C subvira.
+
+D sobrevira.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 827
+
+Cuando una curva permite que el camión circule apoyado durante un gran recorrido, los apoyos son:
+
+A fuertes.
+
+B débiles.
+
+C largos.
+
+D cortos.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 864
+
+Cada vez que se realiza un cambio de marcha durante la subida de una pendiente, el camión…
+
+A pierde potencia y reduce velocidad.
+
+B gana potencia y aumenta velocidad.
+
+C pierde potencia y aumenta velocidad.
+
+D gana potencia y reduce velocidad.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 909
+
+El denominado ángulo de deriva está relacionado con:
+
+A el deslizamiento del camión cuando se produce un derrape.
+
+B la adherencia del neumático sobre el pavimento.
+
+C la capacidad de un camión para conservar su estabilidad.
+
+D la trayectoria del camión en una curva.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 910
+
+El deslizamiento producido cuando la velocidad de giro de la rueda no coincide con la velocidad lineal del camión puede darse:
+
+A tanto por aceleración como por frenada.
+
+B principalmente en rectas.
+
+C solo por frenada.
+
+D solo por aceleración.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 958
+
+El subviraje es un fenómeno físico que se produce en una curva cuando:
+
+A la trayectoria real del camión coincide en menos de un 30% con la que se debería realizar.
+
+B la trayectoria real del camión es más cerrada que la que se debería realizar.
+
+C la trayectoria real del camión coincide en menos de un 50% con la que se debería realizar.
+
+D la trayectoria real del camión es más abierta que la que se debería realizar.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 976
+
+En camiones de caja abierta, ¿dónde debe situarse la carga para reducir la resistencia del aire?
+
+A En la parte trasera de la caja.
+
+B En la parte delantera de la caja.
+
+C Lo más centrada posible en la caja.
+
+D Lo más elevada posible.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 1054
+
+En la estiba de un vehículo, ¿para qué sirve un torno?
+
+A Para rotar la mercancía sobre su eje.
+
+B Para comprimir una carga a granel.
+
+C Para subir o bajar la mercancía.
+
+D Para generar tensión sobre cinchas y cables.
+
+RESPUESTA: D
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 1064
+
+Durante la conducción de un camión, ¿qué es la aceleración?
+
+A Es la relación entre la máxima velocidad y la máxima potencia del camión.
+
+B Es la máxima potencia del camión transmitida a las ruedas.
+
+C Es la velocidad del camión en relación con el par en ruedas.
+
+D Es la modificación de la velocidad del camión.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 1166
+
+¿Qué debe hacer el conductor de un camión para reducir la resistencia a la pendiente?
+
+A Interrumpir la fuerza de tracción.
+
+B Utilizar el compresor con más frecuencia.
+
+C Reducir el número de cambios de marcha.
+
+D Aumentar el número de cambios de marcha.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 1173
+
+Se denomina "aceleración" a la magnitud física que mide la variación:
+
+A de la velocidad de un camión respecto de la distancia recorrida.
+
+B de la velocidad de un camión respecto del tiempo.
+
+C del tiempo en relación con la distancia recorrida por un camión.
+
+D de la distancia recorrida respecto de la velocidad de un camión.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 1174
+
+Por cada cambio de marcha realizado por el conductor de un camión en una pendiente ascendente se pierde un determinado porcentaje de…
+
+A aceleración.
+
+B peso.
+
+C velocidad.
+
+D fuerza.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 1300
+
+Si, durante una subida, se interrumpe la fuerza de tracción del camión, la velocidad disminuye de forma:
+
+A proporcional al grado de la pendiente.
+
+B tangencial al grado de la pendiente.
+
+C similar al grado de la pendiente.
+
+D inversamente proporcional al grado de la pendiente.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 1330
+
+Si se aumenta la altura de la carga, el centro de gravedad del camión:
+
+A se desplaza hacia arriba.
+
+B se mantiene en el mismo punto.
+
+C se desplaza hacia atrás.
+
+D se desplaza hacia abajo.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 1728
+
+¿Cómo debe estar dispuesta la carga transportada en un vehículo?
+
+A Debe ser permitir la transferencia de masas para mantener el equilibrio de fuerzas durante la conducción.
+
+B Debe colocarse la más pesada sobre el eje de tracción para aprovechar la potencia del vehículo.
+
+C Debe colocarse la parte más voluminosa sobre el eje trasero para facilitar la visibilidad al conductor.
+
+D No debe comprometer la estabilidad.
+
+RESPUESTA: D
+
+NORMA: RD 1428/2003, Art. 14.1.b
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 2069
+
+¿Qué es la guiñada?
+
+A Es una trayectoria real del camión más cerrada de la que debería realizar.
+
+B Es el movimiento giratorio alrededor del eje vertical del camión.
+
+C Es el movimiento giratorio de la carrocería sobre su eje longitudinal.
+
+D Es una trayectoria real del camión más abierta de la que debería realizar.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2073
+
+Todo cuerpo está expuesto a diferentes fuerzas y pares de fuerzas. ¿Qué sucede cuando la suma de las fuerzas y los pares de fuerzas aplicadas a un camión es igual a cero?
+
+A Que la trayectoria del vehículo es recta.
+
+B Que el vehículo se encuentra en reposo.
+
+C Que puede haber aceleración o desaceleración dependiendo de la pendiente de la vía.
+
+D Que la trayectoria del vehículo es estable.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2074
+
+Todo cuerpo está expuesto a diferentes fuerzas y pares de fuerzas. ¿Qué sucede cuando la suma de las fuerzas y los pares de fuerzas aplicadas a un camión es distinta de cero?
+
+A Que el vehículo se mueve.
+
+B Que el vehículo se encuentra en reposo
+
+C Que la trayectoria del vehículo no es recta.
+
+D Que la trayectoria del vehículo es inestable.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2075
+
+Entre las fuerzas que intervienen en el movimiento de un camión, ¿cómo se denomina a la fuerza de la atracción terrestre?
+
+A Fuerza centrípeta.
+
+B Fuerza de presión vertical.
+
+C Fuerza de gravedad.
+
+D Fuerza de guiado interno.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2076
+
+¿Qué son los pares de viraje?
+
+A Unas fuerzas que tratan de girar el camión en torno al eje geométrico vertical.
+
+B Unas fuerzas que intervienen en el camión y producen principalmente su desaceleración.
+
+C Unas fuerzas que intervienen en el camión y producen principalmente su aceleración.
+
+D Unas fuerzas que tratan de girar el camión en torno al eje geométrico horizontal.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2077
+
+¿Qué son los pares de las ruedas y pares de inercia?
+
+A Unas fuerzas que intervienen sobre el eje vertical del camión.
+
+B Unas fuerzas que intervienen en el camión intentando conservar el sentido de giro que llevan las ruedas.
+
+C Unas fuerzas que intervienen sobre el eje horizontal del camión.
+
+D Unas fuerzas principalmente de aceleración que intervienen en el camión.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2078
+
+¿Qué función realizan los pares de viraje?
+
+A Tratan de empujar al camión hacia un lateral.
+
+B Tratan de empujar al camión hacia atrás.
+
+C Tratan de girar al camión en torno al eje geométrico vertical.
+
+D Tratan de girar al camión en torno al eje geométrico horizontal.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2079
+
+¿Cómo actúa la fuerza de frenado en un camión?
+
+A Actúa paralela a la fuerza motriz.
+
+B Actúa perpendicular a la fuerza motriz.
+
+C Actúa en contra de la fuerza motriz.
+
+D Actúa a favor de la fuerza motriz.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2438
+
+¿Cómo se denomina la acción que sucede al frenar cuando parte del peso que soporta el eje trasero de un camión pasa hacia delante?
+
+A Desplazamiento de masas.
+
+B Cabeceo.
+
+C Guiñada.
+
+D Balanceo.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2440
+
+¿Qué es el apoyo?
+
+A Es un término que sirve para explicar una fase por la que pasa el camión al tomar una curva.
+
+B Se produce cuando la velocidad angular o de giro de la rueda coincide con la velocidad lineal del vehículo
+
+C Es el movimiento giratorio de la carrocería sobre su eje longitudinal.
+
+D Es el movimiento giratorio de la carrocería sobre un eje transversal a la marcha.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2442
+
+En un camión, ¿qué es el balanceo?
+
+A Es el movimiento del vehículo que se produce cuando la velocidad angular o de giro de las ruedas no coinciden.
+
+B Es el movimiento giratorio de la carrocería sobre su eje longitudinal.
+
+C Es el movimiento giratorio de la carrocería sobre un eje transversal a la marcha.
+
+D Es un movimiento de giro sobre el eje vertical.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2443
+
+En un camión, ¿qué es el cabeceo?
+
+A Es el movimiento vertical de la carga.
+
+B Es el movimiento giratorio de la carrocería sobre su eje longitudinal.
+
+C Es el movimiento giratorio de la carrocería sobre un eje transversal a la marcha.
+
+D Es el movimiento de giro sobre el eje vertical.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2449
+
+La fuerza que se opone al avance de un camión a través del aire se denomina:
+
+A resistencia por rozamiento.
+
+B resistencia aerodinámica.
+
+C fuerza de molaridad.
+
+D fuerza centrípeta.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2450
+
+La resistencia que se produce al acelerar o frenar el camión debido a la inercia de su masa se denomina:
+
+A resistencia masadinámica.
+
+B balanceo.
+
+C resistencia a la aceleración.
+
+D resistencia por rozamiento.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2451
+
+En un camión en movimiento, ¿qué es el sobreviraje?
+
+A Es el movimiento giratorio de la carrocería sobre un eje transversal a la marcha.
+
+B Es una trayectoria real del vehículo más abierta de la que debería realizar.
+
+C Es el movimiento de giro sobre el eje vertical.
+
+D Es una trayectoria real del vehículo más cerrada de la que debería realizar.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2452
+
+En un camión en movimiento, ¿qué es el subviraje?
+
+A Es una trayectoria real del vehículo más abierta de la que debería realizar.
+
+B Es el movimiento giratorio de la carrocería sobre un eje transversal a la marcha.
+
+C Es el movimiento de giro sobre el eje vertical.
+
+D Es una trayectoria real del vehículo más cerrada de la que debería realizar.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2453
+
+¿Cómo se denomina el término que sirve para explicar una fase por la que pasa el camión al tomar una curva?
+
+A Fuerza termotecnia lateral.
+
+B Apoyo.
+
+C Guiñada.
+
+D Balanceo.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2455
+
+La deriva del neumático de un camión depende de:
+
+A la fuerza termotecnia lateral.
+
+B la fuerza de solubilidad térmica.
+
+C la velocidad.
+
+D la fuerza termodinámica.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2456
+
+La deriva del neumático de un camión depende de:
+
+A la fuerza termodinámica.
+
+B la fuerza segmentarial cónica.
+
+C la fuerza motriz.
+
+D la carga del vehículo.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2457
+
+La deriva del neumático de un camión depende de:
+
+A la presión de inflado del neumático.
+
+B la fuerza de la atracción terrestre.
+
+C la fuerza de gravedad.
+
+D la fuerza submotriz.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2458
+
+La deriva del neumático de un camión depende:
+
+A de la distancia de aceleración.
+
+B del perfil del neumático.
+
+C de la fuerza de molaridad.
+
+D del coeficiente aerodinámico.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2459
+
+¿Qué se produce cuando la velocidad angular o de giro de la rueda no coincide con la velocidad lineal del camión?
+
+A El deslizamiento.
+
+B La deriva.
+
+C El balanceo.
+
+D La guiñada.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2460
+
+El deslizamiento de las ruedas motrices de un camión puede darse:
+
+A por el cambio a una relación de marchas inferiores.
+
+B por entrada de impurezas gaseosas.
+
+C por una reducción paulatina de la velocidad.
+
+D por una fuerte aceleración o por un frenada excesiva.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2461
+
+Una de las formas de medir el deslizamiento de las ruedas motrices de un camión es:
+
+A la curva de deslizamiento aparente.
+
+B el índice térmico de desplazamiento.
+
+C el coeficiente de deslizamiento aparente.
+
+D el coeficiente aerodinámico.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2462
+
+¿Qué función, entre otras, tiene el sistema de suspensión de un camión?
+
+A Proporcionar cierto confort.
+
+B Que las imperfecciones del terreno se transmitan al habitáculo.
+
+C Evitar el balanceo de la carrocería.
+
+D Evitar el cabeceo.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2463
+
+¿Qué función, entre otras, tiene la suspensión de un camión?
+
+A Moderar la velocidad del vehículo.
+
+B Proporcionar cierto confort.
+
+C Aumentar la aceleración del vehículo.
+
+D Regular la presión de inflado.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2464
+
+El sistema de suspensión de un camión:
+
+A regula la presión de inflado.
+
+B evita que la rueda sufra un cierto deslizamiento.
+
+C evita que todas las imperfecciones del terreno se transmitan dentro del habitáculo.
+
+D controla el movimiento del vehículo en caso de aquaplaning.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2465
+
+¿Qué función, entre otras, tiene la suspensión de un camión?
+
+A Permitir el empleo de compuestos más blandos que proporcionen una menor adherencia.
+
+B Controlar la generación de calor asociada a la deformación.
+
+C Moderar la velocidad del vehículo.
+
+D Evitar que todas las imperfecciones del terreno se transmitan dentro del habitáculo.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2562
+
+La elección de la relación correcta de la caja de cambios de un camión durante la marcha depende:
+
+A del perfil de la carretera.
+
+B del tipo de neumáticos.
+
+C de la experiencia del conductor.
+
+D del rozamiento mecánico.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2563
+
+¿Qué factor interviene en la elección de la relación de marchas de la caja de cambios de un camión?
+
+A La adecuada relación de engranajes del diferencial.
+
+B El perfil de la ruta.
+
+C La inadecuada utilización del pedal del acelerador.
+
+D La entrada de impurezas gaseosas.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2565
+
+Respecto de los neumáticos de un camión, ¿es lo mismo la deriva que la pérdida de adherencia?
+
+A Sí, pero solo en superficies secas.
+
+B Sí, pero solo en pendientes.
+
+C No.
+
+D Sí, porque la falta de adherencia puede provocar un derrape.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2566
+
+¿De qué depende la deriva del neumático de un camión?
+
+A De la anchura del vehículo.
+
+B De la velocidad de transferencia del cambio.
+
+C De la carga electrostática.
+
+D De la anchura de la llanta.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2567
+
+¿De qué depende la deriva del neumático de un camión?
+
+A De la fuerza termotecnia lateral.
+
+B De la anchura de la llanta.
+
+C De la fuerza de molaridad.
+
+D De la fuerza angular.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2568
+
+Cuando los neumáticos de un camión no son capaces de evacuar toda el agua que se encuentran y pierden contacto con el suelo, se habla de:
+
+A fuerza de deriva.
+
+B fuerza transversal dinámica.
+
+C aquaplaning.
+
+D balanceo.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2569
+
+¿Cómo se denomina el movimiento giratorio de la carrocería del camión sobre su eje longitudinal?
+
+A Cabeceo.
+
+B Derrape.
+
+C Guiñada.
+
+D Balanceo.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2570
+
+¿Cómo se denomina el movimiento giratorio de la carrocería del camión sobre el eje transversal a la marcha?
+
+A Cabeceo.
+
+B Derrape lateral.
+
+C Desplazamiento de masas.
+
+D Guiñada.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2571
+
+¿Cómo se denomina el movimiento de giro de la carrocería de un camión sobre su eje vertical?
+
+A Desplazamiento de masas.
+
+B Guiñada.
+
+C Deriva.
+
+D Sobreviraje.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2572
+
+Si, al trazar una curva, la trayectoria del camión es de menor radio que la que se pretende describir, ¿cómo se denomina a este efecto?
+
+A Histéresis.
+
+B Deslizamiento.
+
+C Sobreviraje.
+
+D Subviraje.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2573
+
+Si, al trazar una curva, la trayectoria del camión es de mayor radio que la que se pretende describir, ¿cómo se denomina a este efecto?
+
+A Sobreviraje.
+
+B Deslizamiento lateral.
+
+C Guiñada.
+
+D Subviraje.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2574
+
+¿Cuándo se habla de un cambio de apoyo?
+
+A Cuando el apoyo pasa sucesivamente de las ruedas de un lado a las del otro.
+
+B Cuando el apoyo pasa sucesivamente de las ruedas delanteras a las traseras y viceversa.
+
+C Cuando durante la trazada de una curva se produce un balanceo superior al 10%.
+
+D Cuando el intervalo entre girar la dirección y el apoyo es grande.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2586
+
+¿Cómo se denomina la masa que puede transportar un camión, resultante de restar su tara de la Masa Máxima Autorizada?
+
+A Carga útil.
+
+B Masa de cálculo de resistencia.
+
+C Masa radial.
+
+D Masa neta de transporte.
+
+RESPUESTA: A
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
+COD: 2590
+
+¿Qué es el llamado círculo de Kamm?
+
+A Es un círculo con el que calcular las velocidades del camión, según el cambio de marchas.
+
+B Es una tabla con acciones preventivas en caso de derrape.
+
+C Es una representación simplificada de lo que ocurre en una rueda.
+
+D Es una tabla de consumos en función del peso.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2591
+
+¿Cómo se denomina a la representación simplificada de lo que ocurre en una rueda de un camión en movimiento?
+
+A Tabla de histéresis.
+
+B Curvas de Oligorueda.
+
+C Círculo de Kamm.
+
+D Diagrama hiático.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2592
+
+¿Qué fuerzas se representan en los ejes del llamado círculo de Kamm?
+
+A Fuerzas de atracción terrestre y rozamiento.
+
+B Fuerzas de gravedad y resistencia aerodinámica.
+
+C Fuerzas longitudinales, con aceleraciones y deceleraciones.
+
+D Fuerzas dinámicas, de resistencia y estáticas.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2593
+
+¿Qué fuerzas se representan en los ejes del llamado círculo de Kamm?
+
+A Fuerzas de resistencia del aire.
+
+B Fuerzas de termotecnia lateral.
+
+C Fuerzas centrífugas o fuerzas laterales.
+
+D Fuerzas termodinámicas.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2594
+
+Cuando la resultante de las fuerzas representadas en el círculo de Kamm está dentro del círculo:
+
+A las ruedas del camión no tienen alta capacidad de carga.
+
+B las ruedas del camión convierten el movimiento de avance en giro.
+
+C el camión puede ser dirigido sin problemas.
+
+D el camión incurre en una situación ya no dominable.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2595
+
+Cuando la resultante de las fuerzas representadas en el círculo de Kamm está fuera del círculo:
+
+A las ruedas del camión no tienen alta capacidad de carga.
+
+B las ruedas del camión convierten el movimiento de avance en giro.
+
+C esa rueda pierde adherencia.
+
+D el camión se halla en condiciones estables.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2596
+
+Cuando la resultante de las fuerzas representadas en el círculo de Kamm está fuera del círculo:
+
+A las ruedas convierten el movimiento de avance en giro.
+
+B las ruedas tienen muy poca masa.
+
+C la dirección del camión se hace incontrolable.
+
+D el camión se halla en condiciones estables.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2597
+
+¿Cuál de las siguientes fuerzas tienen que encontrarse dentro del círculo de Kamm para que el camión pueda ser dirigido sin problemas?
+
+A La fuerza de solubilidad térmica.
+
+B La fuerza atemporal.
+
+C La fuerza de frenado.
+
+D La fuerza termotecnia lateral.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2598
+
+¿Qué fuerza tiene que estar dentro del círculo de Kamm para que el camión pueda ser dirigido sin problemas?
+
+A La fuerza de la atracción terrestre.
+
+B La fuerza de guiado lateral.
+
+C La fuerza atemporal.
+
+D La fuerza de solubilidad térmica.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2599
+
+¿Qué fuerza tiene que estar dentro del círculo de Kamm para que el camión pueda ser dirigido sin problemas?
+
+A La fuerza de frenado.
+
+B La fuerza termodinámica.
+
+C La fuerza de la gravedad.
+
+D La fuerza motriz.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2600
+
+¿Qué se puede observar en el círculo de Kamm?
+
+A Que, si disminuyen las fuerzas de frenado y las de guiado lateral, el camión pierde estabilidad.
+
+B Que, si aumenta la fuerza de frenado, la fuerza de guiado lateral disminuye y el camión pierde estabilidad.
+
+C Que, si aumentan las fuerza de frenado y las de guiado lateral, el camión pierde estabilidad.
+
+D Que, si aumenta la fuerza de frenado y la fuerza de guiado lateral disminuye, el camión gana estabilidad.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2601
+
+Si observamos en el círculo de Kamm que aumenta la fuerza de frenado:
+
+A el camión gana estabilidad.
+
+B el camión ni gana ni pierde estabilidad.
+
+C el camión pierde estabilidad, puesto que disminuye la fuerza de guiado lateral.
+
+D el camión gana estabilidad, puesto que disminuye la fuerza de guiado lateral.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2602
+
+Según el círculo de Kamm, si aumenta la fuerza de frenado en curva,:
+
+A la fuerza de guiado lateral aumenta.
+
+B la fuerza de guiado lateral ni aumenta ni disminuye.
+
+C la fuerza de guiado lateral disminuye.
+
+D el camión nunca pierde estabilidad.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2603
+
+Si observamos en el círculo de Kamm que disminuye la fuerza de frenado:
+
+A el camión pierde estabilidad.
+
+B el camión ni gana ni pierde estabilidad.
+
+C el camión gana estabilidad.
+
+D la fuerza de guiado lateral ni aumenta ni disminuye.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2604
+
+Según el círculo de Kamm, si disminuye la fuerza de frenado en curva:
+
+A el camión ni gana ni pierde estabilidad.
+
+B la fuerza de guiado lateral aumenta.
+
+C la fuerza de guiado lateral disminuye.
+
+D la fuerza de guiado lateral ni aumenta ni disminuye.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2605
+
+¿Qué se puede observar en el círculo de Kamm?
+
+A Que, si la fuerza total equivale a la fuerza de frenado, la rueda se desbloquea y es posible controlar la dirección del camión.
+
+B Que, si la fuerza total equivale a la fuerza de frenado, la rueda se bloquea y no es posible controlar la dirección del camión debido a la falta de fuerza de guiado lateral.
+
+C Que, si la fuerza total es mucho mayor que la fuerza de frenado, la rueda circula libremente sin bloqueos.
+
+D Que, si la fuerza total equivale a la fuerza de frenado, la rueda se bloquea y la dirección del camión se controla perfectamente.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2606
+
+Si observamos en el círculo de Kamm que la fuerza total equivale a la fuerza de frenado:
+
+A el camión frena perfectamente.
+
+B la rueda del camión se bloquea.
+
+C la rueda del camión no se bloquea.
+
+D se tiene fuerza de guiado lateral suficiente.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2608
+
+Según el círculo de Kamm, si la fuerza total equivale a la fuerza de frenado:
+
+A el camión frena perfectamente.
+
+B la rueda no se bloquea.
+
+C no es posible controlar la dirección del camión puesto que falta fuerza de guiado lateral y la rueda se bloquea.
+
+D es posible controlar la dirección del camión debido a que la rueda se bloquea.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2628
+
+¿Cómo se denomina la fuerza que opone resistencia al movimiento de una superficie sobre otra?
+
+A Fuerza termodinámica.
+
+B Fuerza motriz.
+
+C Fuerza de gravedad.
+
+D Rozamiento.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2629
+
+La resistencia del aire actúa siempre:
+
+A en el mismo sentido que la trayectoria del camión.
+
+B en sentido perpendicular a la fuerza motriz.
+
+C en sentido oblicuo a su trayectoria.
+
+D en sentido opuesto al movimiento del camión.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2633
+
+¿Cuándo se habla de apoyos largos?
+
+A Cuando la curva no permite que el camión circule con la caja muy vacía.
+
+B Cuando la curva permite que el camión circule apoyado durante un gran recorrido.
+
+C Cuando la inclinación que alcanza el camión es la mínima posible.
+
+D Cuando el apoyo pasa sucesivamente de las ruedas de un lado a las del otro.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2634
+
+¿Cuándo se habla de apoyos fuertes?
+
+A Cuando el intervalo entre girar la dirección y el apoyo es pequeño.
+
+B Cuando la inclinación que alcanza el camión es la mínima posible.
+
+C Cuando la inclinación que alcanza el camión es la máxima posible o cercana a la máxima.
+
+D Cuando la curva permite que el camión circule apoyado durante un gran recorrido.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2635
+
+¿Cuándo se dice que un camión tarda en apoyarse?
+
+A Cuando la inclinación que alcanza es la mínima posible.
+
+B Cuando el intervalo entre girar la dirección y el apoyo es pequeño.
+
+C Cuando el apoyo se va cambiando con la altura.
+
+D Cuando el intervalo entre girar la dirección y el apoyo es grande.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2636
+
+Cuando el apoyo de un camión pasa sucesivamente de las ruedas de un lado a las del otro, se habla de:
+
+A un cambio de apoyo.
+
+B apoyos simétricos.
+
+C apoyos altos.
+
+D apoyos largos.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2637
+
+Cuando la curva permite que el camión circule apoyado durante un gran recorrido, se habla de:
+
+A apoyos largos.
+
+B apoyos cortos.
+
+C apoyos débiles.
+
+D apoyos fuertes.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2638
+
+Cuando la inclinación que alcanza el camión es la máxima posible o cercana a la máxima, se habla de:
+
+A apoyos fuertes.
+
+B apoyos altos.
+
+C apoyos débiles.
+
+D un cambio de apoyo.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2639
+
+¿Cuándo se produce el balanceo?
+
+A Cuando hay aceleraciones fuertes.
+
+B Cuando llueve mucho.
+
+C Cuando el camión experimenta una fuerza lateral.
+
+D Cuando el apoyo se va cambiando con la altura.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2640
+
+El balanceo es tanto mayor cuanto:
+
+A menor es la distancia entre el centro de gravedad del camión y el eje de balanceo.
+
+B mayor es la lluvia.
+
+C mayor es la distancia entre el centro de gravedad del camión y el eje de balanceo.
+
+D menor sea la fuerza lateral experimentada por el camión.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2641
+
+¿Cuándo se produce el cabeceo?
+
+A Cuando el camión experimenta una fuerza lateral.
+
+B Cuando hay mucha nieve.
+
+C Cuando hay una aceleración o una frenada.
+
+D Cuando se produce el aquaplaning.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2642
+
+El cabeceo es tanto mayor cuanto:
+
+A menor sea la frenada.
+
+B más bajo esté el centro de gravedad del camión.
+
+C más alto esté el centro de gravedad del camión.
+
+D menor sea la aceleración.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2643
+
+Si la guiñada es excesiva para la velocidad del camión en una curva...
+
+A el vehículo permanece estable.
+
+B el vehículo subvira.
+
+C el vehículo sobrevira.
+
+D el vehículo reduce la velocidad.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2644
+
+¿Qué es la resistencia por rozamiento?
+
+A Es la fuerza que opone resistencia al movimiento de una superficie sobre la otra.
+
+B Es la fuerza que se opone al movimiento de un camión a través del aire.
+
+C Es la magnitud física que mide la tasa de variación de la velocidad respecto del tiempo.
+
+D Es la cantidad de masa que percibe para el correcto trabajo de adherencia, dirección y frenado.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2645
+
+¿Qué es la resistencia aerodinámica?
+
+A Es la resistencia que se produce al subir un camión de un nivel a otro.
+
+B Es la fuerza que se opone al movimiento de un camión a través del aire.
+
+C Es la resistencia que se produce al acelerar o frenar el camión debido a la inercia de su masa.
+
+D Es la cantidad de masa que percibe para el correcto trabajo de adherencia, dirección y frenado.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2646
+
+¿Qué es la resistencia a la aceleración?
+
+A Es la resistencia que se produce al subir un camión de un nivel a otro.
+
+B Es la fuerza que opone resistencia a la caída libre sobre una superficie líquida.
+
+C Es la resistencia que se produce al acelerar o frenar el camión debido a la inercia de su masa.
+
+D Es la forma en que la inclinación del terreno en forma de pendiente afecta al movimiento.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2647
+
+¿Qué es la resistencia a la pendiente?
+
+A Es la fuerza que opone resistencia al movimiento de una superficie sobre la otra.
+
+B Es la fuerza que opone resistencia a la caída libre sobre una superficie líquida.
+
+C Es la magnitud física que mide la tasa de variación de la velocidad respecto del tiempo.
+
+D La forma en que la inclinación del terreno, en forma de pendiente, afecta al movimiento del camión.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2648
+
+¿Cuándo se produce la resistencia a la aceleración durante la circulación de un camión?
+
+A Solo se considera resistencia la aceleración negativa.
+
+B Cuando se efectúa un giro.
+
+C Cuando se produce una aceleración o una deceleración.
+
+D Cuando se transporta una masa excesiva.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2649
+
+La fuerza que opone resistencia al movimiento entre la superficie del neumático de un camión y la calzada se denomina:
+
+A resistencia por rozamiento.
+
+B desplazamiento de masas.
+
+C fuerza de molaridad.
+
+D resistencia a la pendiente.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2653
+
+La forma en que la inclinación del terreno en forma de pendiente afecta al movimiento de un camión se denomina:
+
+A fuerza termotecnia lateral.
+
+B balanceo.
+
+C resistencia a la aceleración.
+
+D resistencia a la pendiente.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2654
+
+¿Cómo se denomina la resistencia al movimiento de un camión que proviene del aire?
+
+A Desplazamiento de masas.
+
+B Resistencia aerodinámica.
+
+C Fuerza de molaridad.
+
+D Fuerza atemporal.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2655
+
+¿De qué factores depende el grado de rozamiento en un camión?
+
+A De la velocidad.
+
+B Del desplazamiento de masas lineales.
+
+C De la fuerza de molaridad.
+
+D De la fuerza atemporal.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2656
+
+¿De qué factores depende el grado de rozamiento en un camión?
+
+A De la fuerza termotecnia lateral.
+
+B Del peso del vehículo.
+
+C De la fuerza atemporal.
+
+D Del balanceo del motor.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2657
+
+El grado de rozamiento en un camión depende:
+
+A de la fuerza termotecnia lateral.
+
+B del centro de gravedad.
+
+C del tipo de neumáticos.
+
+D del balanceo del motor.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2658
+
+¿De qué factores depende el grado de rozamiento en un camión?
+
+A De la fuerza termotecnia lateral.
+
+B Del centro de gravedad.
+
+C Del porcentaje de nitrógeno.
+
+D Del estado y superficie de la calzada.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2659
+
+¿De qué factores depende el grado de rozamiento en un camión?
+
+A De las condiciones climatológicas.
+
+B Del centro de gravedad.
+
+C Del porcentaje de nitrógeno.
+
+D Del grado de dilución.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2660
+
+El grado de rozamiento en un camión depende:
+
+A del desplazamiento de masas transversales.
+
+B del estado de los frenos.
+
+C del porcentaje de nitrógeno.
+
+D del grado de dilución.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2661
+
+¿De qué factores depende el grado de rozamiento en un camión?
+
+A De la dilución.
+
+B De la concentración.
+
+C Del perfil de los neumáticos.
+
+D Del centro de gravedad.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2662
+
+¿De qué factores depende el grado de rozamiento en un camión?
+
+A Del calentamiento.
+
+B Del enfriado.
+
+C Del desplazamiento de masas transversales.
+
+D De la presión de los neumáticos.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2663
+
+¿Cómo se denomina uno de los efectos que provoca la resistencia del aire y que hace que el camión tenga que realizar un esfuerzo para avanzar?
+
+A Desplazamiento de masas transversales.
+
+B Turbulencias.
+
+C Balanceo del motor.
+
+D Desplazamiento del centro de gravedad.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2664
+
+Cuanto mayor sea la velocidad del camión…
+
+A mayor será el rozamiento y mayor será la fuerza necesaria para mantenerlo en movimiento.
+
+B menor será el rozamiento y mayor será la fuerza necesaria para mantenerlo en movimiento.
+
+C menor será el rozamiento y menor será la fuerza necesaria para mantenerlo en movimiento.
+
+D mayor será el rozamiento y menor será la fuerza necesaria para mantenerlo en movimiento.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2665
+
+Cuanto mayor sea el peso del camión…
+
+A menor será el rozamiento y menor será la fuerza necesaria para mantenerlo en movimiento.
+
+B mayor será el rozamiento y menor será la fuerza necesaria para mantenerlo en movimiento.
+
+C mayor será el rozamiento y mayor será la fuerza necesaria para mantenerlo en movimiento.
+
+D menor será el rozamiento y mayor será la fuerza necesaria para mantenerlo en movimiento.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2666
+
+¿Qué sucede a medida que aumenta la velocidad del camión?
+
+A Que el vehículo tiene que desplazar menos cantidad de aire en el mismo tiempo.
+
+B Que las turbulencias se suprimen.
+
+C Que se reduce la potencia.
+
+D Que el vehículo tiene que desplazar más cantidad de aire en el mismo tiempo y se tiene que rellenar más rápido el vacío creado.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2667
+
+A medida que aumenta la velocidad:
+
+A el camión tiene que desplazar menos cantidad de aire en el mismo tiempo.
+
+B las turbulencias son menores.
+
+C la succión del aire es menos potente.
+
+D las turbulencias son mayores.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2668
+
+¿Qué sucede a medida que aumenta la velocidad de un camión?
+
+A Que se requiere un incremento de potencia.
+
+B Que las turbulencias son menores.
+
+C Que la succión del aire es menos potente.
+
+D Que se requiere una disminución de la potencia.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2669
+
+A medida que aumenta la velocidad:
+
+A se requiere una disminución de la potencia.
+
+B el camión tiene que desplazar menos cantidad de aire en el mismo tiempo.
+
+C las turbulencias son menores.
+
+D el camión tiene que desplazar más cantidad de aire en el mismo tiempo.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2670
+
+En los camiones, la caja de cambios o caja de velocidades es el elemento encargado de:
+
+A conectar el motor con el sistema de transmisión.
+
+B convertir la velocidad lineal en velocidad de giro.
+
+C convertir la energía cinética en energía potencial.
+
+D reducir el rozamiento termodinámico.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2671
+
+¿En qué puede convertir la velocidad de giro del cigüeñal el conductor de un camión mediante la caja de cambios, a través de las diferentes relaciones de engranajes?
+
+A En aceleración del embrague.
+
+B En distintas velocidades de giro en las ruedas.
+
+C En energía potencial.
+
+D En calor termodinámico.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2672
+
+¿Cómo se denomina a la caja de cambios?
+
+A Caja de velocidades.
+
+B Caja primaria.
+
+C Caja secundaria.
+
+D Caja de embrague.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2675
+
+El incremento del número de marchas en un camión:
+
+A facilita el cambio con una disminución del par.
+
+B empeora el cambio pues es más complicado.
+
+C facilita el cambio con un incremento del par.
+
+D empeora el cambio pues se adquiere menos potencia.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2676
+
+¿Cuántas relaciones de marchas suelen tener los camiones con más potencia y tonelaje más elevado?
+
+A Más marchas que los vehículos de menor tonelaje.
+
+B Menos marchas que los vehículos de menor tonelaje.
+
+C Menos marchas que los vehículos de menor potencia.
+
+D Más marchas que los vehículos de menor tonelaje, pero menos marchas que los vehículos de menor potencia.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2677
+
+¿De qué depende fundamentalmente la utilización de la caja de cambios?
+
+A De la velocidad del camión, solamente.
+
+B Del tipo de neumáticos.
+
+C De la velocidad del camión y de las prestaciones del motor.
+
+D De las prestaciones del motor, solamente.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2678
+
+Cuando la utilización de la caja de cambios del camión permite circular con la aguja de las revoluciones en la zona de par máximo del motor:
+
+A se incrementa la aceleración.
+
+B se disminuye la velocidad.
+
+C se aprovecha al máximo el empuje del motor.
+
+D se obtiene el máximo consumo.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2679
+
+¿Qué sucede si se circula con la aguja de las revoluciones en la zona de par máximo del motor?
+
+A Se aprovecha al mínimo el empuje del motor.
+
+B Se obtiene el menor consumo.
+
+C Se tarda más tiempo.
+
+D Se circula peor en época de lluvia.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2680
+
+Cada vez que se realiza un cambio durante la subida de una pendiente, existe un instante en el que el camión pierde potencia. ¿En qué se traducen estas pérdidas de potencia?
+
+A En una disminución de la temperatura.
+
+B En una reducción de velocidad.
+
+C En un aumento de velocidad.
+
+D Esta acción no tiene ningún tipo de consecuencia.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2681
+
+Cada vez que se realiza un cambio durante la subida de una pendiente, existe un instante en el que el camión pierde potencia. ¿De qué dependen estas pérdidas de potencia?
+
+A De la experiencia del conductor.
+
+B De la inclinación de la pendiente y de la masa del vehículo.
+
+C Del aumento del flujo de refrigeración.
+
+D De la disminución de la temperatura.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2682
+
+¿Qué implica el hecho de circular con un camión con más carga en una pendiente ascendente?
+
+A Más esfuerzo para moverlo, lo que significa que tendrán que realizarse menos cambios.
+
+B Más esfuerzo para moverlo, lo que significa que tendrán que realizarse más cambios.
+
+C Menos esfuerzo para moverlo, lo que significa que tendrán que realizarse más cambios.
+
+D Menos esfuerzo para moverlo, lo que significa que tendrán que realizarse menos cambios.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2683
+
+¿Qué implica el hecho de circular con un camión con más carga en una pendiente ascendente?
+
+A Más esfuerzo para moverlo, lo que significa que se realizará una subida más rápida.
+
+B Más esfuerzo para moverlo, lo que significa que se realizará una subida más lenta.
+
+C Menos esfuerzo para moverlo, lo que significa que se realizará una subida más rápida.
+
+D Menos esfuerzo para moverlo, lo que significa que se realizará una subida más lenta.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2684
+
+¿Qué implica el exceso de carga circulando con un camión en una pendiente ascendente?
+
+A Que tendrán que realizarse más cambios y se realizará una subida más rápida.
+
+B Que tendrán que realizarse más cambios y se realizará una subida más lenta.
+
+C Que tendrán que realizarse menos cambios y se realizará una subida más rápida.
+
+D Que tendrán que realizarse menos cambios y se realizará una subida más lenta.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2685
+
+Cuantos menos cambios de marcha realice el conductor de un camión durante una subida:
+
+A más veces se perderá velocidad, más veces se tendrá que recuperar y, por tanto, se llegará más tarde a la cumbre.
+
+B más veces se perderá velocidad, más veces se tendrá que recuperar y, por tanto, se llegará antes a la cumbre.
+
+C menos veces se perderá velocidad, menos veces se tendrá que recuperar y, por tanto, se llegará más tarde a la cumbre.
+
+D menos veces se perderá velocidad, menos veces se tendrá que recuperar y, por tanto, se llegará antes a la cumbre.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2686
+
+Cuantos menos cambios de marcha realice el conductor de un camión durante una subida:
+
+A más veces se perderá velocidad, más veces se tendrá que recuperar y se aumentará el consumo.
+
+B más veces se perderá velocidad, más veces se tendrá que recuperar y se reducirá el consumo.
+
+C menos veces se perderá velocidad, menos veces se tendrá que recuperar y se aumentará el consumo.
+
+D menos veces se perderá velocidad, menos veces se tendrá que recuperar y se reducirá el consumo.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2687
+
+Cuantos menos cambios de marcha realice el conductor de un camión durante una subida:
+
+A llegará más tarde a la cumbre habiendo consumido más.
+
+B llegará más tarde a la cumbre habiendo consumido menos.
+
+C llegará antes a la cumbre habiendo consumido más.
+
+D llegará antes a la cumbre habiendo consumido menos.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 2688
+
+¿Qué es la carga útil de un camión?
+
+A Es la masa que puede transportar el vehículo, resultante de restar la tara del mismo de su Masa Máxima Autorizada.
+
+B Es la masa que se alcanza con aceleración máxima.
+
+C Es la masa que se alcanza con aceleración mínima.
+
+D Es la masa que se alcanza con velocidad máxima.
+
+RESPUESTA: A
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
+COD: 2689
+
+La carga útil de un camión es…
+
+A la masa que se alcanza con aceleración máxima.
+
+B la masa que puede transportar el vehículo, resultante de restar la tara del mismo de su Masa Máxima Autorizada.
+
+C la masa máxima para la utilización del vehículo con carga en circulación por las vías públicas.
+
+D la masa máxima por eje basada en su construcción y especificada por el fabricante.
+
+RESPUESTA: B
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
+COD: 2690
+
+La carga que puede transportar un camión, resultante de restar la tara de su Masa Máxima Autorizada, se denomina:
+
+A carga máxima autorizada.
+
+B carga máxima técnicamente admisible.
+
+C carga útil.
+
+D carga máxima residual.
+
+RESPUESTA: C
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
+COD: 2728
+
+¿En qué momento se produce el deslizamiento de un neumático?
+
+A Cuando llueve mucho.
+
+B Cuando la velocidad angular o de giro de la rueda no coincide con la velocidad lineal del camión.
+
+C Cuando la velocidad angular o de giro de la rueda coincide con la velocidad lineal del camión.
+
+D Cuando está nevando.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2729
+
+En un camión, el deslizamiento de un neumático puede darse:
+
+A por aceleración únicamente.
+
+B por frenada únicamente.
+
+C por aceleración o por frenada.
+
+D en cualquier circunstancia.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2731
+
+A igualdad de fuerza lateral, un camión alto:
+
+A se inclina menos que uno normal porque su centro de gravedad está más lejos del eje de balanceo.
+
+B se inclina menos que uno normal porque su centro de gravedad está más cerca del eje de balanceo.
+
+C se inclina más que uno normal porque su centro de gravedad está más cerca del eje de balanceo.
+
+D se inclina más que uno normal porque su centro de gravedad está más lejos del eje de balanceo.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2732
+
+¿En qué consiste el balanceo de un camión?
+
+A En el movimiento giratorio de la carrocería sobre su eje longitudinal.
+
+B En el movimiento de giro sobre el eje vertical.
+
+C En el movimiento giratorio de la carrocería sobre un eje transversal a la marcha.
+
+D En el movimiento del vehículo producido al subirse en él.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2733
+
+¿En qué consiste el cabeceo del camión?
+
+A En el movimiento giratorio de la carrocería sobre su eje longitudinal.
+
+B En el movimiento de giro sobre el eje vertical.
+
+C En el movimiento giratorio de la carrocería sobre un eje transversal a la marcha.
+
+D En el movimiento del vehículo producido al subirse en él.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2734
+
+¿Cómo se denomina el sistema que aumenta o disminuye la guiñada para que el camión se mantenga en la trayectoria que marcan las ruedas?
+
+A Control de estabilidad.
+
+B La anchura del neumático.
+
+C Sistema de suspensión.
+
+D El dibujo del neumático.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2735
+
+Si la trayectoria curva es de menor radio que la curva que se pretende describir, el camión se encuentra en:
+
+A guiñada.
+
+B sobreviraje.
+
+C cabeceo.
+
+D subviraje.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2737
+
+¿Qué se entiende por trayectoria real del camión más abierta de la que debería realizar?
+
+A Cabeceo.
+
+B Guiñada.
+
+C Sobreviraje.
+
+D Subviraje.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2738
+
+¿Cómo se nota el subviraje en un camión?
+
+A El volante ofrece menos resistencia de lo normal.
+
+B El volante ofrece más resistencia de lo normal.
+
+C El volante no se puede mover.
+
+D El volante se parte.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2793
+
+¿Qué es el volumen útil de un camión?
+
+A El espacio concebido y adaptado para el transporte de mercancía.
+
+B La parte utilizable del volumen.
+
+C El resultado de multiplicar las dimensiones de longitud, anchura y altura exteriores de la caja del vehículo.
+
+D El espacio concebido y adaptado para alojar las herramientas imprescindibles.
+
+RESPUESTA: A
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
+COD: 2794
+
+El cálculo del volumen útil es el resultado de multiplicar:
+
+A las dimensiones de longitud y altura de la caja del vehículo.
+
+B las dimensiones de longitud, anchura y altura interiores de la caja del vehículo.
+
+C las dimensiones de longitud, anchura y altura exteriores de la caja del vehículo.
+
+D las dimensiones de longitud y anchura de la caja del vehículo.
+
+RESPUESTA: B
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
+COD: 2795
+
+La distribución incorrecta de la carga:
+
+A afecta positivamente a la estabilidad del vehículo.
+
+B afecta a la maniobrabilidad de los operarios de descarga.
+
+C reduce considerablemente el riesgo de accidente.
+
+D afecta negativamente a la estabilidad del vehículo.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2796
+
+¿A qué afecta la incorrecta distribución de la carga?
+
+A A la estabilidad del vehículo.
+
+B Al peso específico de la carga.
+
+C Al centro de gravedad de la carga.
+
+D A la fuerza termotecnia lateral.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2797
+
+¿A qué afecta la distribución incorrecta de la carga?
+
+A A la fuerza termotecnia lateral.
+
+B A la maniobrabilidad del vehículo.
+
+C A la velocidad máxima conseguida.
+
+D Al porcentaje de nitrógeno.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2798
+
+Una incorrecta distribución de la carga:
+
+A afecta a la aportación de nitrógeno.
+
+B afecta a la aceleración máxima conseguida.
+
+C provoca un aumento en el riesgo de accidente.
+
+D afecta al peso específico de la carga.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2799
+
+¿Qué es la distribución de la carga en el vehículo?
+
+A La parte del peso total que cada eje soporta.
+
+B El peso específico de la carga.
+
+C La fuerza termotecnia lateral.
+
+D Es lo mismo que calcular el centro de gravedad de la carga.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2800
+
+La diferencia entre las cargas sobre la rueda derecha e izquierda de un mismo eje no debería sobrepasar:
+
+A el 50 % de la carga total sobre el eje.
+
+B el 3 % de la carga total sobre el eje.
+
+C el 15 % de la carga total sobre el eje.
+
+D No debe existir ninguna diferencia.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2801
+
+Para garantizar la buena tracción del vehículo:
+
+A al menos un 50 % del peso del vehículo debería descansar sobre los ejes con dirección.
+
+B al menos un 40 % del peso del vehículo debería descansar sobre los ejes con dirección.
+
+C la carga no debe estar distribuida por igual.
+
+D al menos un 20 % del peso del vehículo debería descansar sobre los ejes con dirección.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2802
+
+¿Qué supone un incremento de la altura del centro de gravedad del vehículo?
+
+A Un incremento de la estabilidad del vehículo.
+
+B Menores probabilidades de que se produzca un vuelco.
+
+C Una reducción del riesgo en las curvas.
+
+D Un incremento de la inestabilidad del vehículo con mayores probabilidades de que se produzca un vuelco.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2803
+
+Un incremento de la altura del centro de gravedad del vehículo, ¿qué supone?
+
+A Un incremento de la estabilidad del vehículo.
+
+B Menores probabilidades de que se produzca un vuelco.
+
+C Incrementa el riesgo en las curvas.
+
+D Disminuye el riesgo en las curvas.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2804
+
+Un incremento de la altura del centro de gravedad del vehículo supone:
+
+A una disminución del riesgo en las curvas.
+
+B unas mayores probabilidades de que se produzca un vuelco.
+
+C una disminución del riesgo ante la posibilidad de realizar una maniobra brusca para esquivar un peligro.
+
+D una mayor velocidad de crucero.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2805
+
+¿Qué supone un incremento de la altura del centro de gravedad del vehículo?
+
+A Un incremento de la inestabilidad del vehículo.
+
+B Mayor velocidad de crucero.
+
+C Mejor aceleración.
+
+D Un incremento de la estabilidad del vehículo.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2806
+
+¿Qué supone un incremento de la altura del centro de gravedad del vehículo?
+
+A Mejor aceleración.
+
+B Un incremento de la estabilidad del vehículo.
+
+C Disminuye el riesgo en las curvas.
+
+D Incrementa el riesgo ante la posibilidad de realizar una maniobra brusca para esquivar un peligro.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2807
+
+¿Qué sucede cuando se coloca el mayor peso en la parte superior de la carga?
+
+A Un incremento de la estabilidad del vehículo.
+
+B El centro de gravedad se eleva.
+
+C Menores probabilidades de que se produzca un vuelco.
+
+D Disminuye el riesgo en las curvas.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2808
+
+¿Se deben colocar las partes más pesadas de la carga debajo de las partes más ligeras?
+
+A No.
+
+B No, porque se incrementa el riesgo en las curvas.
+
+C Sí, porque se consigue mayor velocidad de crucero.
+
+D Sí, porque hay menores probabilidades de que se produzca un vuelco.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2809
+
+Para incrementar la seguridad…
+
+A se debe intentar que la altura de la carga en el vehículo sea lo más alta posible.
+
+B se deben colocar las partes más ligeras de la carga debajo de las partes más pesadas.
+
+C se debe distribuir la carga de manera que quede lo más agrupada posible en una misma zona.
+
+D se deben colocar las partes más pesadas de la carga debajo de las partes más ligeras.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2810
+
+¿Qué se debe hacer para incrementar la seguridad?
+
+A Intentar que la altura de la carga en el vehículo sea lo más alta posible.
+
+B Colocar las partes más ligeras de la carga debajo de las partes más pesadas.
+
+C Distribuir la carga de manera que quede lo más alta posible.
+
+D Intentar que la altura de la carga en el vehículo sea lo más baja posible.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2811
+
+¿Qué factor puede afectar a la estabilidad del vehículo?
+
+A La capacidad del suelo para soportar la carga.
+
+B La fuerza de molaridad.
+
+C La fuerza atemporal.
+
+D La masa de cálculo de resistencia.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2812
+
+Un factor que puede afectar a la estabilidad del vehículo es:
+
+A la fuerza termotecnia lateral.
+
+B la posición del centro de gravedad.
+
+C la masa radial.
+
+D la masa neta que se puede levantar.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2813
+
+¿Qué factor puede afectar a la estabilidad del vehículo?
+
+A La masa radial.
+
+B La masa neta que se puede levantar.
+
+C La resistencia al balanceo del chasis.
+
+D La resistencia a la aceleración.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2814
+
+Un factor que puede afectar a la estabilidad del vehículo es:
+
+A la masa neta que se puede levantar.
+
+B la masa de velocidad máxima.
+
+C la fuerza termotecnia lateral.
+
+D la rigidez torsional de la carrocería.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2817
+
+En un camión, el desgaste prematuro de los neumáticos es una característica típica:
+
+A de la sobrecarga en el eje delantero, no así del eje trasero.
+
+B de la sobrecarga en los ejes delantero y trasero.
+
+C de la sobrecarga en el eje trasero, no así del eje delantero.
+
+D El desgaste prematuro de los neumáticos no produce sobrecarga sobre ningún eje.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2818
+
+El sobrecalentamiento de los neumáticos de un camión es una característica típica…
+
+A de la correcta presión de inflado.
+
+B del accionamiento correcto de los frenos.
+
+C de la sobrecarga en los ejes delantero y trasero.
+
+D provocada por el desgaste prematuro de los neumáticos.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2819
+
+El incorrecto comportamiento del camión durante el frenado es una característica típica:
+
+A de la correcta estiba de la carga.
+
+B de la correcta presión de inflado.
+
+C del comportamiento correcto del sistema de suspensión.
+
+D de la sobrecarga en los ejes delantero y trasero.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2820
+
+¿Qué fenómeno es típico de una sobrecarga en el eje delantero de un camión?
+
+A El sobrecalentamiento de los frenos.
+
+B El esfuerzo excesivo para la suspensión trasera.
+
+C La suavidad de la dirección del vehículo.
+
+D La falta de apoyo en el eje delantero.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2821
+
+¿Qué fenómeno es típico de una sobrecarga del eje delantero del camión?
+
+A La falta de apoyo en el eje delantero.
+
+B El esfuerzo excesivo para la suspensión trasera y la repercusión de golpes en el chasis.
+
+C El desgaste prematuro de los neumáticos.
+
+D La suavidad de la dirección del vehículo.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2822
+
+¿Qué fenómeno es típico de una sobrecarga en el eje trasero del camión?
+
+A El sobrecalentamiento de los frenos.
+
+B El esfuerzo excesivo para la suspensión delantera.
+
+C La dureza en la dirección del vehículo.
+
+D La falta de apoyo en el eje delantero y el desgaste prematuro de los neumáticos debido al deslizamiento.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2823
+
+¿Qué fenómeno es típico de una sobrecarga del eje trasero del camión?
+
+A El sobrecalentamiento de los frenos.
+
+B El esfuerzo excesivo para la suspensión trasera y la repercusión de golpes en el chasis.
+
+C La dureza en la dirección del vehículo.
+
+D El esfuerzo excesivo para la suspensión delantera.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2824
+
+¿Qué es la estiba?
+
+A Es el arte de colocar la carga para ser transportada de la mejor manera.
+
+B Es la actividad que regula la aceleración del vehículo.
+
+C Es la forma de ahorrar combustible.
+
+D Es la manera de conducir.
+
+RESPUESTA: A
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 2825
+
+¿Cómo se denomina el arte de colocar la carga para ser transportada de la mejor manera?
+
+A Balanceo.
+
+B Estiba.
+
+C Cabeceo.
+
+D Guiñada.
+
+RESPUESTA: B
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 2826
+
+Una buena estiba requiere que la carga sea colocada:
+
+A para ser transportada con un máximo de seguridad para el vehículo.
+
+B de forma transversal a la caja del vehículo.
+
+C de forma longitudinal a la caja del vehículo.
+
+D con espacios de, al menos, un centímetro entre los bultos.
+
+RESPUESTA: A
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 2827
+
+Una buena estiba requiere que la carga sea colocada:
+
+A de forma longitudinal a la caja del vehículo.
+
+B con espacios de, al menos, cuatro centímetros entre los bultos.
+
+C con espacios de, al menos, un centímetro entre los bultos.
+
+D para ser transportada con un máximo de seguridad para el personal del vehículo.
+
+RESPUESTA: D
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 2828
+
+Una buena estiba requiere que la carga sea colocada:
+
+A con espacios de, al menos, cuatro centímetros entre los bultos.
+
+B ocupando el mínimo espacio posible.
+
+C con espacios de, al menos, un centímetro entre los bultos.
+
+D de la forma que predomine la rentabilidad económica.
+
+RESPUESTA: B
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 2829
+
+Una buena estiba requiere que la carga sea colocada:
+
+A de forma transversal a la caja del vehículo.
+
+B de la forma que asegure una mayor rentabilidad económica.
+
+C de forma que nunca se superpongan más de 5 bultos.
+
+D de modo que se eviten desperfectos en la misma.
+
+RESPUESTA: D
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 2830
+
+Una buena estiba requiere que la carga sea colocada:
+
+A reduciendo al mínimo el tiempo de carga y descarga.
+
+B de forma que nunca se superpongan más de 5 bultos.
+
+C de forma transversal a la caja del vehículo.
+
+D de forma longitudinal a la caja del vehículo.
+
+RESPUESTA: A
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 2831
+
+Si la suma de fuerzas y pares a la que puede estar sometido un camión fuese igual a cero, ¿qué repercusión tendría sobre su movimiento?
+
+A Que se movería en la dirección definida por la fuerza resultante de la suma.
+
+B Que se encontraría en reposo.
+
+C Que se movería solo a la derecha.
+
+D Que se movería solo a la izquierda.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2832
+
+Si la suma de fuerzas y pares a la que puede estar sometido un camión fuese distinta de cero, ¿qué repercusión tendría sobre su movimiento?
+
+A Que se movería en la dirección definida por la fuerza resultante de la suma.
+
+B Que se encontraría en reposo.
+
+C Que se movería solo a la derecha.
+
+D Que se movería solo a la izquierda.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2833
+
+Cuando un camión se encuentra inmóvil, la suma de las fuerzas y los pares es:
+
+A igual a cero.
+
+B desigual a cero.
+
+C igual a diez.
+
+D igual a cien.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2834
+
+Cuando un camión se encuentra en movimiento, la suma de las fuerzas y los pares es:
+
+A igual a diez.
+
+B igual a cien.
+
+C igual a cero.
+
+D desigual a cero.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2835
+
+¿Cuál de las siguientes fuerzas intervienen en el movimiento de un camión?
+
+A La fuerza mayor.
+
+B La fuerza menor.
+
+C La fuerza motriz.
+
+D La fuerza nula.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2836
+
+De las siguientes fuerzas, ¿cuál interviene en el movimiento de un camión?
+
+A La fuerza mayor.
+
+B La fuerza de frenado.
+
+C La fuerza menor.
+
+D La fuerza nula.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2871
+
+¿Qué fuerzas intervienen en un camión?
+
+A La fuerza menor.
+
+B La fuerza mayor.
+
+C La fuerza nula.
+
+D La fuerza de guiado lateral.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2872
+
+¿Cuál de las siguientes fuerzas intervienen en un camión?
+
+A La fuerza de adherencia.
+
+B La fuerza mayor.
+
+C La fuerza menor.
+
+D La fuerza nula.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2874
+
+De las siguientes fuerzas, ¿cuál interviene en el movimiento de un camión?
+
+A La fuerza de hipótesis.
+
+B La fuerza electromagnética.
+
+C La fuerza de compresión.
+
+D La fuerza motriz.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2875
+
+¿En qué consiste la fuerza de adherencia?
+
+A Es la que conserva la dirección del camión.
+
+B Es la que actúa en contra de la fuerza motriz.
+
+C Es la que resulta de la fricción y de la atracción.
+
+D Es la que resulta de la resistencia al aire.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2876
+
+¿En qué consiste la fuerza de frenado?
+
+A Es la que conserva la dirección del camión.
+
+B Es la que actúa en contra de la fuerza motriz.
+
+C Es la que resulta de la fricción y de la atracción.
+
+D Es la que resulta de la resistencia al aire.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2877
+
+¿En qué consiste la fuerza de guiado lateral?
+
+A Es la que conserva la dirección del camión.
+
+B Es la que actúa en contra de la fuerza motriz.
+
+C Es la que resulta de la fricción y de la atracción.
+
+D Es la que resulta de la resistencia al aire.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2878
+
+Si la resultante de las fuerzas de frenado y de guiado lateral se encuentra dentro del círculo de Kamm, el camión:
+
+A pierde estabilidad.
+
+B es imposible de controlar.
+
+C puede dirigirse sin problemas.
+
+D sufre un accidente.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 2879
+
+Según el círculo de Kamm, ¿qué sucede si aumenta la fuerza de frenado?
+
+A Que la fuerza de guiado desaparece.
+
+B Que la fuerza de guiado lateral disminuye.
+
+C Que la fuerza de guiado se multiplica.
+
+D Que la fuerza de guiado aumenta.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 3555
+
+¿Cuándo se produce la resistencia a la aceleración?
+
+A Al frenar el camión, solamente.
+
+B Al acelerar el camión, solamente.
+
+C Al cambiar de marcha.
+
+D Al acelerar o frenar el camión.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 5600
+
+En el momento de frenar al camión se sobrecarga el eje delantero, ¿qué sucede en el eje trasero?
+
+A Se mantiene igual.
+
+B Se sobrecarga.
+
+C Se aligera.
+
+D Los neumáticos sufren un deslizamiento.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 5602
+
+Para una mayor eficiencia de la frenada, ¿cuánto peso se debe transferir al eje delantero del camión?
+
+A El mínimo posible.
+
+B El máximo posible.
+
+C No se tiene que transferir ningún peso.
+
+D Durante una frenada no hay desplazamiento de masas.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 5603
+
+¿Qué repercusión tiene el hecho de que exista una mínima transferencia de masas de los ejes traseros a los delanteros del camión en el momento de la frenada?
+
+A Un mayor desgaste de los frenos.
+
+B Un menor consumo de combustible.
+
+C El aprovechamiento del agarre de todas las ruedas.
+
+D El mantenimiento de la velocidad.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 5852
+
+Para garantizar la correcta estiba de la carga, ¿cuál de las siguientes condiciones se debe cumplir?
+
+A No exceder la MMA.
+
+B La carga debe ser redistribuida después de una descarga parcial.
+
+C No limitar, ni siquiera parcialmente, la visibilidad del conductor.
+
+D Las tres condiciones anteriores son correctas.
+
+RESPUESTA: D
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 5950
+
+La fuerza centrífuga es la fuerza que tiende a:
+
+A empujar al camión hacia el interior de la curva que está trazando.
+
+B detener al camión al entrar en una curva.
+
+C empujar al camión hacia el exterior de la curva que está trazando.
+
+D mantener al camión en línea recta al entrar en una curva.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 6251
+
+De los siguientes factores, ¿cuál influye en el grado de rozamiento?
+
+A La presión de los neumáticos.
+
+B La pendiente de la calzada.
+
+C El tamaño del frontal del camión.
+
+D El diseño de las superficies del camión.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 6253
+
+¿Qué dos efectos tiene la resistencia del aire sobre el movimiento del camión?
+
+A La resistencia del aire en contra del avance y las turbulencias en la parte de atrás que favorecen el avance del vehículo.
+
+B La resistencia del aire en la parte de atrás en contra del avance y las turbulencias adelante en contra del avance del vehículo.
+
+C La resistencia del aire adelante que favorece el avance y las turbulencias en la parte de atrás que favorecen el avance del vehículo.
+
+D La resistencia del aire al avance y las turbulencias que se generan en la parte de atrás del vehículo.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 6256
+
+La fuerza que opone resistencia al movimiento entre la superficie de los neumáticos de un camión y la calzada se denomina:
+
+A aceleración.
+
+B rozamiento.
+
+C inercia.
+
+D deceleración.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 6258
+
+¿Por qué se produce resistencia al acelerar o frenar el camión?
+
+A Porque aumentan las turbulencias.
+
+B Porque el rozamiento se hace más intenso.
+
+C Por la deceleración.
+
+D Debido a la inercia de la masa del vehículo.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 6260
+
+¿Qué factores intervienen para producir la resistencia a la pendiente?
+
+A El grado de la pendiente y la masa total del camión.
+
+B El grado de la pendiente y la climatología.
+
+C El firme de la pendiente y el volumen de la carga.
+
+D La fuerza de tracción.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 6274
+
+¿Cuántas velocidades suelen tener los camiones que desarrollan poca potencia, destinados generalmente al transporte de corto recorrido?
+
+A Entre 4 y 6.
+
+B Entre 6 y 9.
+
+C Entre 10 y 12.
+
+D Entre 13 y 16.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6275
+
+Respecto a la caja de cambios de un camión, ¿por qué la mejor zona de utilización es la cercana al par máximo?
+
+A Porque se aprovecha al máximo el empuje del motor, aunque el consumo sea alto.
+
+B Porque en esa zona la potencia también es la máxima, con un consumo intermedio.
+
+C Porque en esa zona la relación entre la potencia y el par es máxima, lo que asegura una velocidad mayor.
+
+D Porque se aprovecha al máximo el empuje del motor con el menor consumo.
+
+RESPUESTA: D
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6276
+
+Si el conductor de un camión observa que pierde velocidad al subir una pendiente, ¿cómo deberá proceder?
+
+A Cambiando a una marcha más corta e intentando saltarse algunas marchas con el fin de reducir el número de cambios.
+
+B Realizando cuantos más cambios de marcha mejor hasta llegar a las marchas más cortas.
+
+C Pisando el acelerador lo máximo posible para que no necesite cambiar de marcha el vehículo.
+
+D No cambiando a una marcha más corta, en ningún caso, pues en el momento del cambio se pierde velocidad.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6277
+
+¿Es conveniente que un camión de elevado tonelaje disponga de muchas marchas?
+
+A No, porque al cambiar de marchas en una pendiente se pierde velocidad.
+
+B Sí, porque se facilita el cambio con un incremento de par.
+
+C No, porque el cambio es una operación muy delicada que debe hacerse con cuidado.
+
+D Sí, porque se facilita el cambio aunque el consumo aumenta.
+
+RESPUESTA: B
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6279
+
+¿Qué sucede cada vez que se realiza un cambio cuando un camión circula en una pendiente ascendente?
+
+A Que pierde potencia.
+
+B Que gana velocidad.
+
+C Que gana potencia.
+
+D Que pierde potencia y gana velocidad.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 6283
+
+¿Qué porcentaje del peso del vehículo debería descansar sobre los ejes con dirección para garantizar una buena seguridad y maniobrabilidad del camión?
+
+A Al menos un 20 %.
+
+B Al menos un 15 %.
+
+C Nunca más del 10 %.
+
+D Siempre un 5 %.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 6284
+
+¿Qué efectos tiene la carga sobre la posición del centro de gravedad y la estabilidad de un camión?
+
+A La carga provoca que baje el centro de gravedad del vehículo, incrementándose la probabilidad de vuelco.
+
+B La carga provoca que baje el centro de gravedad del vehículo, reduciéndose la probabilidad de vuelco.
+
+C La carga provoca que suba el centro de gravedad del vehículo, incrementándose la probabilidad de vuelco.
+
+D La carga provoca que suba el centro de gravedad del vehículo, reduciéndose la probabilidad de vuelco.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 6290
+
+¿Qué es la carga útil de un camión?
+
+A La masa resultante de restar la tara de la Masa Máxima Autorizada.
+
+B La masa del vehículo con su equipo fijo autorizado.
+
+C La carga que cabe en un vehículo.
+
+D La suma de la tara y la carga.
+
+RESPUESTA: A
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
+COD: 6899
+
+¿Qué se entiende por subviraje en una curva tomada por un camión?
+
+A La trayectoria real es más abierta que la que debería realizar.
+
+B La trayectoria real es más cerrada que la que debería realizar.
+
+C La trayectoria del camión cuando cambia de carril.
+
+D El vuelco del camión al tomar la curva frenando.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 6900
+
+¿Qué se entiende por sobreviraje en una curva tomada por un camión?
+
+A La trayectoria real es más abierta de la que debería realizar.
+
+B La trayectoria real es más cerrada de la que debería realizar.
+
+C La trayectoria del camión cuando cambia de carril.
+
+D La trayectoria real más recta de la que debería realizar.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 6901
+
+¿Cuándo se produce un cabeceo?
+
+A Cada vez que circulamos en una curva.
+
+B Cuando el camión experimenta una fuerza lateral.
+
+C Cuando hay una aceleración o una frenada.
+
+D Solo cuando hay una frenada.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 6927
+
+La energía acumulada por un camión en movimiento depende:
+
+A solo de su masa.
+
+B solo de su velocidad.
+
+C de su masa y de su velocidad.
+
+D de su capacidad de aceleración.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 6938
+
+¿Qué es una guiñada?
+
+A El movimiento de giro sobre el eje longitudinal.
+
+B El movimiento de giro sobre el eje transversal.
+
+C El movimiento de giro sobre el eje central.
+
+D El movimiento de giro sobre el eje vertical.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 6939
+
+¿Cuándo se produce un cambio de apoyo?
+
+A Cuando la curva permite que el camión circule apoyado durante un gran recorrido.
+
+B Cuando la inclinación que alcanza el camión es la máxima posible.
+
+C Cuando el apoyo pasa sucesivamente de las ruedas de un lado a las del otro.
+
+D Cuando el apoyo pasa sucesivamente de las ruedas delanteras a las traseras.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 6995
+
+El correcto reparto de la mercancía en el compartimento destinado al efecto, ¿a qué afecta de manera directa?
+
+A A la velocidad del vehículo solamente.
+
+B A la seguridad y al rendimiento del vehículo.
+
+C A la maniobrabilidad del vehículo solamente.
+
+D A la reducción del consumo de combustible y del tiempo de trabajo.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 6996
+
+¿A qué afecta directamente el incorrecto reparto de la mercancía en el compartimento destinado al efecto?
+
+A A la carga exclusivamente.
+
+B Al incremento del tiempo necesario para realizar el porte.
+
+C A la disminución de la estabilidad y maniobrabilidad del vehículo, incrementándose el riesgo de accidente.
+
+D Al aumento del consumo de combustible.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 6998
+
+En un camión, ¿qué consecuencias tendrá una sobrecarga del eje de dirección?
+
+A Puede hacer demasiado ligera la conducción.
+
+B Puede hacer pesada la conducción, dañar el eje y los neumáticos.
+
+C Puede hacer pesada la conducción e incrementar el consumo de combustible.
+
+D Puede desequilibrar la conducción.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 6999
+
+En el supuesto de que un mismo camión transporte dos o más mercancías diferentes, ¿qué acción es correcta?
+
+A No colocar las mercancías más pesadas sobre las ligeras.
+
+B Dejar los huecos existentes entre mercancías de distintos embalajes.
+
+C Cargar mercancías peligrosas junto a otras que no lo sean.
+
+D Ninguna de las tres acciones anteriores es correcta.
+
+RESPUESTA: A
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7000
+
+¿Cómo se denomina al recipiente hecho de cualquier material y de diversas formas, concebido para contener mercancías y destinado a individualizar, dosificar, conservar, presentar y describir unitariamente los objetos que contiene?
+
+A Embalaje.
+
+B Bulto.
+
+C Envase.
+
+D Cubierta.
+
+RESPUESTA: C
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7001
+
+¿Cómo se puede describir el embalaje?
+
+A Como cualquier material de diversas formas concebido para contener mercancías.
+
+B Como cualquier medio material destinado a proteger una mercancía para su expedición o su conservación en depósitos o almacenes.
+
+C Es el recipiente destinado a individualizar, conservar y presentar la mercancía.
+
+D Es una plataforma de carga.
+
+RESPUESTA: B
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7002
+
+¿A qué se llama embalaje primario?
+
+A Es aquel que está en contacto directo con el producto.
+
+B Al que se realiza con materiales desechables como cartón, papel, etc.
+
+C Respecto de una carga, al que sea más ligero.
+
+D Al que se utiliza para transportar productos dentro de sus envases.
+
+RESPUESTA: A
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7003
+
+¿Qué es el embalaje terciario o de transporte?
+
+A Aquel que protege al producto para el transporte y que generalmente contiene varias unidades de producto individual.
+
+B Es la envoltura utilizada para contener uno o varios embalajes.
+
+C Aquel que protege al embalaje primario y no cumple una función ligada directamente al uso del producto.
+
+D Las cajas plegables o rígidas de cartón o de plástico.
+
+RESPUESTA: A
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7004
+
+Desde el punto de vista de su transporte material, las cargas pueden dividirse en:
+
+A grandes y pequeñas.
+
+B ligeras y pesadas.
+
+C divisibles e indivisibles.
+
+D verticales u horizontales.
+
+RESPUESTA: C
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7009
+
+Para un transporte por carretera, ¿principalmente en qué sentido deben sujetarse los pilares metálicos?
+
+A En sentido vertical.
+
+B En sentido transversal.
+
+C En sentido longitudinal.
+
+D En sentido horizontal.
+
+RESPUESTA: C
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7010
+
+¿Cómo se deben estibar los troncos y piezas de madera que se van a transportar transversalmente?
+
+A Deben estar repartidos en pilas atadas que no sobrepasen dos metros de longitud.
+
+B Deben estar repartidos en pilas atadas que no sobrepasen los tres metros de longitud.
+
+C Deben estar repartidos en pilas atadas que no sobrepasen los cuatro metros de longitud.
+
+D Deben estar repartidos en pilas atadas.
+
+RESPUESTA: A
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7011
+
+Las cargas formadas por bloques pesados o muy pesados, ¿en qué parte de la batea deben colocarse?
+
+A Lo más cercano a la cabina que sea posible.
+
+B En la parte central de la batea.
+
+C Encima de los ejes.
+
+D En cualquier parte de la batea.
+
+RESPUESTA: B
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7012
+
+¿Por qué es recomendable estibar los objetos circulares usando cuñas portabobinas?
+
+A Porque reduce el consumo de combustible.
+
+B Porque aumenta la visibilidad del conductor.
+
+C Porque desciende el centro de gravedad, por lo que el vehículo goza de mayor estabilidad y maniobrabilidad.
+
+D Las tres respuestas anteriores son correctas.
+
+RESPUESTA: C
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7013
+
+¿Cómo debe realizarse el transporte de líquidos envasados en botellas o bidones?
+
+A Tumbados.
+
+B Tumbados de forma transversal.
+
+C Procurando que estos se asienten sobre sus bases.
+
+D De forma longitudinal.
+
+RESPUESTA: C
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7053
+
+La tara de un vehículo es:
+
+A la masa del vehículo en vacío.
+
+B la masa de la carga.
+
+C la masa del vehículo con carga.
+
+D la masa del vehículo con su conductor y su carga.
+
+RESPUESTA: A
+
+NORMA: RD 2822/1998, Anexo IX, 1
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 7057
+
+¿Puede ser conveniente saltarse una o varias velocidades durante la conducción de un camión?
+
+A Sí, tanto circulando en pendientes ascendentes como descendentes.
+
+B Solo durante una frenada de emergencia.
+
+C No, las velocidades deben introducirse de forma correlativa en todos los casos.
+
+D Saltarse la correlación de velocidades es una medida antieconómica e insegura.
+
+RESPUESTA: A
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
+COD: 7213
+
+Uno de los objetivos fundamentales de una correcta estiba es contrarrestar las fuerzas de inercia que actúan en las diferentes direcciones, pero, ¿cuándo actúan más estas fuerzas?
+
+A En los giros.
+
+B En las pendientes.
+
+C En los arranques o en frenazos intensos.
+
+D En las curvas.
+
+RESPUESTA: C
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7214
+
+¿Para qué tipo de pisos están recomendadas las técnicas de sujeción directas?
+
+A Para cargas asentadas sobre pisos lisos.
+
+B Para cargas asentadas sobre pisos húmedos.
+
+C Para cargas asentadas sobre pisos engrasados.
+
+D Las tres respuestas anteriores son correctas.
+
+RESPUESTA: D
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7215
+
+¿Cómo se llama el sistema de sujeción basado en el rozamiento entre el elemento de sujeción y la carga, por un lado, con las paredes y el suelo de la caja, por otro?
+
+A Sistema de sujeción directa.
+
+B Sistema de sujeción flexible.
+
+C Sistema de sujeción por resistencia.
+
+D Sistema de sujeción indirecta.
+
+RESPUESTA: D
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7216
+
+¿Para qué tipo de transporte están indicados los toldos?
+
+A Para todo tipo de materiales.
+
+B Para mercancías peligrosas.
+
+C Para materiales sueltos o a granel.
+
+D Para grandes bultos.
+
+RESPUESTA: C
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7217
+
+¿Qué ventaja tienen los cables metálicos de fibra de acero frente a las cinchas?
+
+A Son más flexibles.
+
+B Son más económicos.
+
+C Son más resistentes a la climatología.
+
+D Tienen mayor resistencia.
+
+RESPUESTA: D
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7218
+
+¿Para qué se emplean los tornos en la estiba?
+
+A Para reparar los elementos de sujeción.
+
+B Para tensar los elementos de sujeción (correas, cables y cadenas).
+
+C Sirven como medio auxiliar a la eslinga.
+
+D Las tres respuestas anteriores son correctas.
+
+RESPUESTA: B
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7219
+
+¿Se puede usar la eslinga como elemento de sujeción de la carga?
+
+A No.
+
+B Sí.
+
+C Solo si es una carga ligera.
+
+D Solo si es una carga poco voluminosa.
+
+RESPUESTA: B
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7220
+
+¿Cómo se deben utilizar las cuñas para fijar la carga?
+
+A Apoyadas en las paredes de la caja del vehículo.
+
+B Fijadas a la parte delantera y trasera de la carga por medio de cables metálicos.
+
+C Apoyadas en el suelo de la caja del vehículo.
+
+D Las tres respuestas anteriores son correctas.
+
+RESPUESTA: C
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7221
+
+Si las mercancías no están suficientemente compactadas, ¿qué puede pasar?
+
+A Existirá riesgo de desplazamiento de la carga y de disminución de la tensión en los dispositivos de sujeción.
+
+B Se puede producir una tensión extra en el compartimento de carga.
+
+C Se producirá una vibración que hará que aumente el consumo de carburante.
+
+D Se pueden producir pequeños desequilibrios en la conducción.
+
+RESPUESTA: A
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7222
+
+Debido a la irregularidad de la carga, el estibador debe ayudarse de ciertos materiales para rellenar los huecos. ¿Cuál de los siguientes materiales es incorrecto para esta tarea?
+
+A Madera.
+
+B Comburentes.
+
+C Espuma de poliuretano.
+
+D Bolsas de aire.
+
+RESPUESTA: B
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7223
+
+¿Qué función cumplen las cantoneras en la estiba?
+
+A De conservación de los elementos de sujeción.
+
+B De protección de la mercancía.
+
+C De agrupación de la mercancía.
+
+D Las tres respuestas anteriores son correctas.
+
+RESPUESTA: D
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7224
+
+¿Cuál es la normativa internacional de normalización que marca la estructura y medida de los palés?
+
+A AENOR.
+
+B DIN.
+
+C ISO.
+
+D Las tres respuestas anteriores son correctas.
+
+RESPUESTA: D
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7225
+
+¿Cuál es la medida del palé europeo o europalé?
+
+A 1.000 x 700 milímetros.
+
+B 1.200 x 800 milímetros.
+
+C 1.400 x 900 milímetros.
+
+D 1.500 x 1.000 milímetros.
+
+RESPUESTA: B
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7226
+
+¿Cuál es la medida del palé universal o isopalé?
+
+A 1.500 x 1.200 milímetros.
+
+B 1.600 x 1.200 milímetros.
+
+C 1.200 x 1.000 milímetros.
+
+D 1800 x 1.200 milímetros.
+
+RESPUESTA: C
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7227
+
+¿Cuál es el problema del palé de madera con relación a la normativa internacional?
+
+A Obliga a que la madera utilizada sea de haya.
+
+B Obliga a tratar la madera para su fortalecimiento.
+
+C Obliga a reciclar la madera utilizada en los palés.
+
+D Obliga a tratar la madera que se destina a exportación para su desbacterización.
+
+RESPUESTA: D
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7228
+
+¿Cuál es la principal ventaja del palé de cartón?
+
+A La garantía de higiene al tratarse de un producto desechable.
+
+B Su coste.
+
+C Es varias veces reutilizable.
+
+D El palé de cartón no existe.
+
+RESPUESTA: A
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7229
+
+¿Qué capacidad de carga puede soportar el palé metálico?
+
+A 2.000 kg de peso.
+
+B 1.000 kg de peso.
+
+C 3.000 kg de peso.
+
+D 2.500 kg de peso.
+
+RESPUESTA: A
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7230
+
+¿Cuál es la función del entoldado?
+
+A Refuerza la sujeción de la mercancía y contribuye a limitar sus deslizamientos durante el viaje.
+
+B Protege las mercancías transportadas de las inclemencias atmosféricas.
+
+C Evita el desprendimiento de una parte de la carga y el riesgo consiguiente de daños.
+
+D Las tres respuestas anteriores son correctas.
+
+RESPUESTA: D
+
+NORMA: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+REFERENCIA DOCTRINAL: Manual de estiba de la mercancía. CEFTRAL; Manual de estiba para mercancías sólidas. Ediciones UPC
+
+
+
+COD: 7231
+
+Según determinan las condiciones generales de contratación, ¿quién es el responsable de las operaciones de entoldado y desentoldado del vehículo?
+
+A El expedidor.
+
+B El cargador.
+
+C El transportista.
+
+D El consignatario.
+
+RESPUESTA: C
+
+NORMA: OM FOM/1882/2012, Anexo, 4.15
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 7279
+
+¿Cómo se denomina a la suma de las masas del vehículo motor cargado y del remolque arrastrado cargado para su utilización por las vías públicas?
+
+A Masa máxima del conjunto (MMC).
+
+B Masa máxima técnica del conjunto (MMTC).
+
+C Masa máxima autorizada del conjunto (MMC).
+
+D Masa técnica autorizada del conjunto (MTAC).
+
+RESPUESTA: C
+
+NORMA: RD 2822/1998, Anexo IX, 1
+
+REFERENCIA DOCTRINAL: Sin referencias doctrinales
+
+
+
+COD: 7551
+
+¿Qué se debe tener en cuenta para poder realizar un transporte de mercancías?
+
+A Las masas máximas permitidas.
+
+B Los trámites administrativos.
+
+C Calcular el teorema de Kamm.
+
+D Hacer una comprobación previa del transporte.
+
+RESPUESTA: A
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
+COD: 7555
+
+El sistema de suspensión de un camión…
+
+A no tiene influencia en el desplazamiento de la masa de la carga.
+
+B tiene influencia sobre su estabilidad.
+
+C tiene influencia sobre el mantenimiento de la presión de los neumáticos.
+
+D no tiene influencia sobre la confortabilidad de la carga.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7588
+
+¿Cómo afecta a la estabilidad del camión el correcto uso del freno de servicio?
+
+A Aumentando la distancia de frenado.
+
+B Disminuyendo la eficacia de frenado.
+
+C Evitando el desplazamiento excesivo de la carga.
+
+D Provocando un desplazamiento excesivo de la carga.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7592
+
+De las que se citan, ¿qué fuerzas se aplican a un camión en movimiento?
+
+A La fuerza motriz y la fuerza de frenado.
+
+B La fuerza de guiado atemporal y la fuerza de fricción.
+
+C La fuerza de la aceleración es la única fuerza que se aplica al movimiento de un camión.
+
+D Las fuerzas de superviraje y de infraviraje.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7601
+
+¿Cuál es la fuerza más conocida que interviene en un camión?
+
+A La fuerza de atracción terrestre o gravedad.
+
+B La fuerza de ingravidez.
+
+C La fuerza atemporal.
+
+D La resistencia motriz.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7602
+
+De las que se citan, ¿qué fuerzas se aplican a un camión en movimiento?
+
+A La fuerza electromotriz.
+
+B La fuerza intermolecular.
+
+C La fuerza termotecnia lateral.
+
+D Las fuerzas de guiado lateral que conservan la dirección del vehículo.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7604
+
+¿Qué fuerza interviene en el movimiento de un camión?
+
+A La fuerza segmentarial cónica.
+
+B La fuerza intermolecular.
+
+C La fuerza electromotriz.
+
+D La fuerza de adherencia que resulta de la fricción y de la atracción.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7605
+
+En el movimiento de un camión…
+
+A no son aplicables los pares de las ruedas y pares de inercia.
+
+B interviene la fuerza de molaridad.
+
+C no es aplicable la fuerza de la atracción terrestre.
+
+D interviene la resistencia aerodinámica o resistencia del aire.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7606
+
+La sobrecarga del eje de un camión…
+
+A puede tener efectos negativos al frenar.
+
+B afecta considerablemente a la fuerza termotecnia lateral.
+
+C acrecienta el efecto positivo de una pendiente ascendente.
+
+D puede tener efectos positivos para controlar la velocidad.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7607
+
+La sobrecarga del eje de un camión…
+
+A puede tener efectos negativos al controlar la velocidad.
+
+B acrecienta el efecto positivo de una pendiente ascendente.
+
+C hace que el centro de gravedad sea más estable.
+
+D ayuda a controlar la velocidad durante una pendiente descendente prolongada.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7608
+
+¿Puede provocar efectos negativos la sobrecarga de algunos de los ejes de un camión?
+
+A Sí.
+
+B No.
+
+C Sí, pero solamente si el eje que se sobrecarga es alguno de los delanteros.
+
+D Sí, pero solamente si el eje que se sobrecarga es alguno de los traseros.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7609
+
+La sobrecarga de alguno de los ejes de un camión…
+
+A produce el efecto de descenso térmico de temperatura.
+
+B provoca un aumento en la distancia de detención.
+
+C afecta positivamente en un aumento de la tracción.
+
+D reduce el efecto que provoca una pendiente descendente sobre la disminución de la velocidad del vehículo.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7610
+
+¿Puede provocar un aumento de la distancia de detención la sobrecarga de alguno de los ejes de un camión?
+
+A Sí.
+
+B No, puesto que la masa no afecta a la distancia de reacción.
+
+C Sí, pero solamente si el eje que se sobrecarga es alguno de los delanteros.
+
+D Sí, puesto que la masa afecta directamente a la distancia del tiempo de reacción del conductor.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7611
+
+La sobrecarga en el eje delantero de un camión…
+
+A puede afectar en el aumento de la tracción.
+
+B provoca exceso de peso sobre el eje de dirección y puede hacer pesada la conducción.
+
+C disminuye la fuerza termotecnia lateral.
+
+D provoca una reducción de la distancia de detención.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7620
+
+La resistencia que opone el aire al movimiento de un camión puede denominarse como:
+
+A resistencia aerodinámica.
+
+B fuerza segmentarial cónica.
+
+C fuerza de molaridad.
+
+D fuerza de consumo.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7621
+
+La deriva del neumático de un camión es la variación:
+
+A de la velocidad de giro del neumático.
+
+B de la trayectoria como consecuencia de la deformación de la llanta y que afecta al apoyo de la cubierta.
+
+C de la trayectoria como consecuencia de la deformación del dibujo del neumático y que, en ningún caso, afecta al apoyo de la cubierta.
+
+D de la trayectoria como consecuencia de la deformación del flanco del neumático y que afecta al apoyo de la cubierta.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7629
+
+Para lograr poner en movimiento un camión cargado…
+
+A se requiere un mínimo de esfuerzo.
+
+B se requiere una fuerza facilitada por el acelerador.
+
+C la fuerza facilitada por el motor deberá ser superior a la fuerza resistente que opone el vehículo.
+
+D se requiere una fuerza que es proporcionada por la caja de cambios.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 7630
+
+Cuando la fuerza disponible para poner en movimiento un camión es inferior a la fuerza resistente que se opone al movimiento…
+
+A el motor se calará.
+
+B el vehículo solo se pondrá en movimiento si la pendiente es inferior al 15 %.
+
+C el vehículo solo se pondrá en movimiento si la pendiente es inferior al 5 %.
+
+D el vehículo se comenzará a mover normalmente.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 7632
+
+Cuando la masa del camión es elevada durante la circulación en una pendiente ascendente…
+
+A se requiere más esfuerzo para mover el vehículo y se tendrán que realizar más cambios de marcha.
+
+B se requiere menor esfuerzo para mover el vehículo y se tendrán que realizar más cambios de marcha.
+
+C se requiere mayor esfuerzo para mover el vehículo y se tendrán que realizar menos cambios de marcha.
+
+D se requerirá el mismo esfuerzo y la misma utilización de marchas que durante una pendiente descendente.
+
+RESPUESTA: A
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 7633
+
+Cuantos más cambios realice el conductor de un camión durante una subida:
+
+A menos veces se perderá velocidad.
+
+B menos veces se tendrá que recuperar la velocidad.
+
+C más veces se perderá velocidad.
+
+D se llegará antes a la cima habiendo consumido menos.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 7649
+
+¿Qué se debe comprobar para saber si se puede transportar una determinada cantidad de mercancías?
+
+A La masa de la mercancía usando el teorema de Kant para comprobarlo.
+
+B Que el vehículo disponga de una carga útil suficiente para la cantidad de mercancías que va a transportar.
+
+C Comprobar, mediante una simulación con paquetes definidos para tal fin, que el vehículo dispone del espacio suficiente.
+
+D Realizar un cálculo de la masa sustancial de la carga.
+
+RESPUESTA: B
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
+COD: 7651
+
+¿Qué se debe calcular para poder realizar un transporte de mercancías?
+
+A Si se dispone de espacio suficiente, mediante una simulación con paquetes definidos para tal fin.
+
+B El peso indeterminado de la carga.
+
+C La cantidad de mercancías que se pueden transportar.
+
+D El centro de gravedad de la carga.
+
+RESPUESTA: C
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
+COD: 7652
+
+¿Qué se debe comprobar para saber si se puede transportar una determinada cantidad de mercancías?
+
+A La masa insustancial de la mercancía.
+
+B El centro de gravedad de la carga.
+
+C Los trámites administrativos.
+
+D Que se dispone del espacio y el acondicionamiento necesario para alojar correctamente la mercancía transportada.
+
+RESPUESTA: D
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
+COD: 7656
+
+La sobrecarga de alguno de los ejes de un camión…
+
+A aumenta la fuerza atemporal.
+
+B puede tener efectos negativos durante la frenada.
+
+C puede tener efectos positivos para el control de la velocidad.
+
+D puede tener efectos negativos sobre las capacidades del conductor.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7657
+
+La sobrecarga de alguno de los ejes de un camión…
+
+A no puede dañar el eje de dirección.
+
+B no puede dañar a los neumáticos.
+
+C no afecta a la tracción.
+
+D provoca efectos negativos en la conducción y seguridad del vehículo.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7660
+
+De las fuerzas que se citan, ¿cuál se aplica a un camión en movimiento?
+
+A La fuerza de adherencia.
+
+B La fuerza de reducción.
+
+C La fuerza nula.
+
+D La fuerza de progresión.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7667
+
+De las que se citan, ¿cuál constituye una resistencia al avance del camión?
+
+A La resistencia al rozamiento.
+
+B La fuerza de deceleración.
+
+C La resistencia de la climatología adversa.
+
+D La resistencia a la potencia.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7669
+
+¿Cuál de los siguientes factores puede hacer variar el grado de rozamiento?
+
+A El estado y superficie de las zapatas.
+
+B La distancia de frenado.
+
+C El peso del camión.
+
+D La velocidad de trasferencia de masas.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7678
+
+¿De qué factores depende la energía acumulada por un camión en movimiento?
+
+A De la masa del vehículo y de la velocidad.
+
+B De la velocidad y de la resistencia del aire.
+
+C De la Masa Máxima Autorizada del vehículo.
+
+D De la evacuación del calor en los sistemas de frenado.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7681
+
+Para poder calcular la carga útil de un camión es necesario:
+
+A sumar su MMA a su TARA.
+
+B restar la TARA de su MMA.
+
+C restar la MMA de la TARA.
+
+D cargar el vehículo en una báscula, en todo caso.
+
+RESPUESTA: B
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
+COD: 7688
+
+La energía acumulada de un camión que se encuentra en movimiento dependerá:
+
+A del estado y de la superficie de las zapatas.
+
+B del estado de los neumáticos.
+
+C de la masa del vehículo y de la velocidad.
+
+D de la velocidad, solamente.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7689
+
+En el momento de la frenada, ¿qué puede evitar una transferencia excesiva de masas de un eje a otro?
+
+A El peso del conductor.
+
+B Solamente una buena distribución de la carga.
+
+C Solamente una buena estiba de la carga.
+
+D Una buena estiba y distribución de la carga.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7690
+
+¿Qué se tendrá en cuenta respecto al centro de gravedad del camión para garantizar que este reaccione correctamente durante una frenada?
+
+A Que el centro de gravedad esté lo más bajo posible.
+
+B Que el centro de gravedad esté situado lo más a la izquierda posible del vehículo.
+
+C Que el centro de gravedad esté lo más alto posible.
+
+D Que el centro de gravedad esté situado lo más a la derecha posible del vehículo.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7701
+
+¿Cómo se denominan las acciones o influencias que modifican el estado de movimiento o de reposo de un camión?
+
+A Fuerzas.
+
+B Resistencias.
+
+C Resortes.
+
+D Facultades.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7702
+
+¿Cómo se denominan los diversos elementos que se oponen al movimiento del camión?
+
+A Fuerzas.
+
+B Resistencias.
+
+C Resortes.
+
+D Facultades.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7708
+
+De las que se citan, ¿cuál constituye una de las resistencias al avance del camión?
+
+A Resistencia de los rodamientos.
+
+B Resistencia a la entrada de oxígeno en la admisión.
+
+C Resistencia a la pendiente.
+
+D Resistencia de los materiales del chasis del vehículo.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7709
+
+De los siguientes factores, ¿cuál puede reducir la resistencia del aire?
+
+A Que las ventanillas y trampillas estén abiertas.
+
+B Una regulación correcta de los deflectores.
+
+C Colocar los toldos de manera que puedan ondear fácilmente.
+
+D Instalar objetos con formas sobresalientes en la superficie del camión.
+
+RESPUESTA: B
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7710
+
+¿Qué factor puede hacer variar el grado de rozamiento?
+
+A La potencia del motor.
+
+B Las previsiones meteorológicas.
+
+C La forma de conducir.
+
+D El estado y superficie de la calzada.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7711
+
+De las siguientes actuaciones que realiza el conductor de un camión, ¿cuál es correcta para reducir la resistencia a la aceleración?
+
+A Provocar aceleraciones excesivas, sobre todo en los arranques.
+
+B Reducir la presión de los neumáticos.
+
+C Mantener la distancia de seguridad para evitar frenadas bruscas.
+
+D Utilizar los frenos asiduamente, sobre todo en pendientes ascendentes.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7712
+
+¿Cuál de los siguientes efectos es típico de una sobrecarga en el eje trasero del camión?
+
+A El desgaste normal de la banda de rodadura de los neumáticos.
+
+B Los esfuerzos excesivos para la suspensión trasera.
+
+C La falta de apoyo en el eje trasero.
+
+D La dureza en la dirección del vehículo.
+
+RESPUESTA: B
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
+COD: 7716
+
+Los camiones, a la entrada de una curva, tienden a:
+
+A subvirar.
+
+B sobrevirar.
+
+C derrapar.
+
+D volcar.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 7733
+
+Una caja de cambio automático cambia de marcha:
+
+A cuando el conductor acciona el pedal del embrague.
+
+B en función de la velocidad programada por el conductor.
+
+C sin necesidad de la intervención del conductor.
+
+D cuando el conductor acciona un interruptor.
+
+RESPUESTA: C
+
+NORMA: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de mecánica para profesores de formación vial. Dirección General de Tráfico
+
+
+
+COD: 9079
+
+Un camión en movimiento está expuesto a:
+
+A fuerzas impares diferentes.
+
+B fuerzas y pares siempre iguales.
+
+C diferentes fuerzas y pares.
+
+D diferentes fuerzas impares.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 65491
+
+Los embragues hidráulicos son…
+
+A embragues automáticos.
+
+B embragues específicos para camiones.
+
+C embragues específicos para autobuses.
+
+D embragues para cajas de más de 8 marchas.
+
+RESPUESTA: A
+
+NORMA: Mecánica y entretenimiento simple del automóvil. DGT.
+
+REFERENCIA DOCTRINAL: Mecánica y entretenimiento simple del automóvil. DGT.
+
+
+
+COD: 65492
+
+¿Qué emplean para su funcionamiento los embragues hidráulicos?
+
+A La electricidad.
+
+B Un fluido, generalmente aceite.
+
+C La energía cinética de las ruedas.
+
+D La energía química de los gases del escape.
+
+RESPUESTA: B
+
+NORMA: Mecánica y entretenimiento simple del automóvil. DGT.
+
+REFERENCIA DOCTRINAL: Mecánica y entretenimiento simple del automóvil. DGT.
+
+
+
+COD: 65493
+
+En cajas de cambio automático, ¿cómo se sincroniza una marcha más larga?
+
+A Mediante el pulsador de cambio.
+
+B A través del pedal del acelerador.
+
+C Usando la palanca de cambio.
+
+D Liberando el freno motor.
+
+RESPUESTA: B
+
+NORMA: Mecánica y entretenimiento simple del automóvil. DGT.
+
+REFERENCIA DOCTRINAL: Mecánica y entretenimiento simple del automóvil. DGT.
+
+
+
+COD: 65494
+
+¿Afectan los sistema de transmisión automáticos al consumo de combustible del vehículo?
+
+A No, no afectan.
+
+B Incrementan el consumo en las pendientes ascendentes.
+
+C Incrementan el consumo en general.
+
+D Reducen el consumo.
+
+RESPUESTA: C
+
+NORMA: Mecánica y entretenimiento simple del automóvil. DGT.
+
+REFERENCIA DOCTRINAL: Mecánica y entretenimiento simple del automóvil. DGT.
+
+
+
+COD: 65495
+
+¿Qué debe accionar el conductor, en un vehículo con sistema de transmisión automática, para cambiar de marcha?
+
+A Únicamente pisar el pedal del embrague.
+
+B Únicamente accionar la palanca de cambio.
+
+C Únicamente presionar el pulsador de cambio.
+
+D Nada, todo el proceso de cambio se realiza automáticamente.
+
+RESPUESTA: D
+
+NORMA: Mecánica y entretenimiento simple del automóvil. DGT.
+
+REFERENCIA DOCTRINAL: Mecánica y entretenimiento simple del automóvil. DGT.
+
+
+
+COD: 65496
+
+¿Cómo afecta el incremento de la presión sobre el pedal del acelerador a la selección de marchas en un vehículo con sistema de transmisión automática?
+
+A Se produce el cambio a una marcha superior.
+
+B Acciona el avisador de cambio de marcha.
+
+C Se bloquea el incremento de velocidad hasta que se efectúe el cambio a una marcha superior.
+
+D No tiene interacción alguna en relación con el cambio de marcha.
+
+RESPUESTA: A
+
+NORMA: Mecánica y entretenimiento simple del automóvil. DGT.
+
+REFERENCIA DOCTRINAL: Mecánica y entretenimiento simple del automóvil. DGT.
+
+
+
+COD: 90035
+
+¿Qué define la fuerza de rozamiento?
+
+A La fuerza que opone resistencia al movimiento por contacto entre los neumáticos de un camión y la calzada.
+
+B La resistencia del aire al avance del vehículo.
+
+C La relación entre la presión de sistema de frenado y la masa total del vehículo.
+
+D La deceleración efectiva producida en cada cambio de marcha.
+
+RESPUESTA: A
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 90044
+
+¿Cómo se denomina a las fuerzas que tratan de girar el camión en torno al eje geométrico vertical?
+
+A Fuerzas de inercia dinámica.
+
+B Pares direccionales y pares motrices.
+
+C Fuerzas centrífugas o fuerzas laterales.
+
+D Pares de viraje.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 90045
+
+En relación con el movimiento de un vehículo, ¿qué son los pares de inercia?
+
+A Unas fuerzas que intervienen sobre su eje horizontal.
+
+B Las fuerzas, principalmente de aceleración, que actúan sobre él.
+
+C Las fuerzas que intentan conservar el sentido de giro que llevan las ruedas.
+
+D Unas fuerzas que intervienen sobre su el eje vertical.
+
+RESPUESTA: C
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 90129
+
+¿Cuándo aumenta la cantidad de aire que un camión en movimiento tiene que desplazar?
+
+A En las pendientes ascendentes.
+
+B En las pendientes descendentes.
+
+C Al aumentar la carga transportada.
+
+D Al aumentar la velocidad.
+
+RESPUESTA: D
+
+NORMA: Manual de seguridad vial. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de seguridad vial. Dirección General de Tráfico
+
+
+
+COD: 90135
+
+En un camión, ¿cómo se denomina el espacio concebido y adaptado para el transporte de las mercancías?
+
+A Volumen útil.
+
+B Sección de carga.
+
+C Contenedor.
+
+D Espacio máximo autorizado.
+
+RESPUESTA: A
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
+COD: 90136
+
+¿Cuál es el resultado del producto de las dimensiones de longitud, anchura y altura interiores de la caja del vehículo?
+
+A La masa máxima.
+
+B El volumen útil.
+
+C La capacidad de carga.
+
+D El espacio de transporte.
+
+RESPUESTA: B
+
+NORMA: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+REFERENCIA DOCTRINAL: Manual de reglamentación de vehículos. Dirección General de Tráfico
+
+
+
