@@ -61,10 +61,16 @@
 </head>
 <body>
     <h3>Preguntas CAP</h3>
-    <a href="https://www.transportes.gob.es/areas-de-actividad/transporte-terrestre/servicios-al-transportista/cap/examenes-de-formacion-de-conductores-profesionales-cap" target="_blank" style="text-decoration: none;">
-        Exámenes de Formación de Conductores Profesionales (CAP)
+    <a href="https://www.transportes.gob.es/areas-de-actividad/transporte-terrestre/servicios-al-transportista/cap/examenes-de-formacion-de-conductores-profesionales-cap#accordion" target="_blank" style="text-decoration: none;">
+        Exámenes de Formación de Conductores Profesionales (CAP) - Otros Documentos
     </a>
-    <br><br>
+    <br>
+	<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-exclamation-triangle" viewBox="0 0 16 16">
+	  <path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.15.15 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.2.2 0 0 1-.054.06.1.1 0 0 1-.066.017H1.146a.1.1 0 0 1-.066-.017.2.2 0 0 1-.054-.06.18.18 0 0 1 .002-.183L7.884 2.073a.15.15 0 0 1 .054-.057m1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767z"/>
+	  <path d="M7.002 12a1 1 0 1 1 2 0 1 1 0 0 1-2 0M7.1 5.995a.905.905 0 1 1 1.8 0l-.35 3.507a.552.552 0 0 1-1.1 0z"/>
+	</svg>
+	Contiene preguntas precargadas con fecha 08/02/2024
+	<br><br>
 	
 	<div class="card" style="border-color:red">
 	  <div class="card-header"  style="border-color:red">
@@ -75,7 +81,11 @@
 		</ul>
 	  </div>
 	  <div class="card-body">
-		
+		<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-info-circle" viewBox="0 0 16 16">
+			<path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+			<path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0"/>
+		</svg>
+		<em> Selecciona uno o varios ficheros</em>
 		<div class="input-group">
 		  <label class="input-group-text" for="fileInput">Archivos:</label>
 		  <input type="file" class="form-control" id="fileInput" aria-describedby="inputGroupFileAddon04" aria-label="Upload" multiple>
@@ -84,7 +94,11 @@
 		</div>
 
 		<br>
-				
+		<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-info-circle" viewBox="0 0 16 16">
+			<path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+			<path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0"/>
+		</svg>
+		<em> Selecciona una o varias carpetas</em>
 		<div class="input-group">
 		  <label class="input-group-text" for="folderInput">Carpeta:</label>
 		  <input type="file" class="form-control" id="folderInput" aria-describedby="inputGroupFileAddon04" aria-label="Upload" webkitdirectory>
@@ -99,7 +113,18 @@
 				Norma / Referencia en respuestas
 			</label>
 		</div>
-
+		<div class="form-check">
+			<input class="form-check-input" type="checkbox" value="" id="check_pdf" checked>
+			<label class="form-check-label" for="check_pdf">
+				Generar archivos PDF tipo examen, las respuestas en la última página
+			</label>
+		</div>
+		<div class="form-check">
+			<input class="form-check-input" type="checkbox" value="" id="check_merc_viaj">
+			<label class="form-check-label" for="check_merc_viaj">
+				Generar ficheros TXT de preguntas y respuestas
+			</label>
+		</div>
 	  </div>
 	</div>
 	
@@ -118,8 +143,16 @@
 		<table class="table"  style="border:0">
 		  <tbody>
 			<tr>
+			  <td colspan="2" style="border:0">
+				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-info-circle" viewBox="0 0 16 16">
+				  <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+				  <path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0"/>
+				</svg>
+				<em>Para generar un examen, <u>es necesario que todos los temas estén cargados</u>, tanto de Mercancías como de Viajeros</em>
+			  </td>
+			</tr>
+			<tr>
 			  <td rowspan="2" style="border:0">
-
 				<!-- Sección Generales -->
 				<div class="section">
 					<h5>Generales</h5>
@@ -256,7 +289,14 @@
 		</ul>
 	  </div>
 	  <div class="card-body">
-			
+			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-info-circle" viewBox="0 0 16 16">
+				<path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+				<path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0"/>
+			</svg>
+			<em>Es posible crear tests aleatorios basados en los temas o ficheros cargados.</em>
+			<br>
+			<em>&nbsp;&nbsp&nbsp;&nbsp;Para crear un test con temas específicos, <u>cancela</u> los temas cargados y carga los que se necesiten</em>
+			<br><br>
 			<div class="input-group mb-3">
 			  <span class="input-group-text" id="inputGroup-sizing-default" for="searchByCode">Buscar por COD:</span>
 			  <input type="number" class="form-control" id="searchByCode" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
@@ -347,6 +387,8 @@
     const checkViajeros = document.getElementById('checkViajeros');
 	
 	const norma_referencia = document.getElementById('norma_referencia');
+	const check_pdf = document.getElementById('check_pdf');
+	const check_merc_viaj = document.getElementById('check_merc_viaj');
 	
 	let filteredFiles = [];
 
@@ -641,7 +683,7 @@ readRemoteZip(zipUrl);
 
         if (files.length === 0) {
             console.warn("No se seleccionaron archivos o carpetas.");
-            alert("Por favor, selecciona uno o más archivos o carpetas.");
+            alert("Por favor, cargue al menos un archivo o carpeta.");
             return;
         }
 
@@ -907,7 +949,7 @@ readRemoteZip(zipUrl);
 
 		if (files.length === 0) {
 			console.warn("No se seleccionaron archivos o carpetas.");
-			alert("Por favor, selecciona uno o más archivos o carpetas.");
+			alert("Por favor, cargue los temas necesarios para crear examen.\nSon necesarios todos los temas: Mercancias y Viajeros");
 			return;
 		}
 		let questions = []; // Resetear las preguntas cargadas
@@ -1120,6 +1162,7 @@ readRemoteZip(zipUrl);
 		// displayQuestions(questions);
 
 		// Generar los archivos de preguntas y respuestas
+		
 		generateFiles(question_total,'exam_merca','exam_merca');
 		
 		return question_total
@@ -1214,6 +1257,7 @@ readRemoteZip(zipUrl);
 		// displayQuestions(questions);
 
 		// Generar los archivos de preguntas y respuestas
+		
 		generateFiles(question_total,'exam_viaj','exam_viaj');
 		
 		return question_total
@@ -1406,8 +1450,10 @@ readRemoteZip(zipUrl);
 
 		//descargarArchivo(`p_test_${timestamp}.txt`, preguntasText);
 		//descargarArchivo(`r_test_${timestamp}.txt`, respuestasText);
-		descargarArchivo(`p_${fich_p}_${timestamp}.txt`, preguntasText);
-		descargarArchivo(`r_${fich_r}_${timestamp}.txt`, respuestasText);
+		if (check_merc_viaj.checked) {
+			descargarArchivo(`p_${fich_p}_${timestamp}.txt`, preguntasText);
+			descargarArchivo(`r_${fich_r}_${timestamp}.txt`, respuestasText);
+		}
 
 		// Generar PDF
 		const { jsPDF } = window.jspdf;
@@ -1592,7 +1638,9 @@ readRemoteZip(zipUrl);
 
 
 		// Descargar PDF
-		pdf.save(nombre_pdf.slice(2));
+		if (check_pdf.checked) {
+			pdf.save(nombre_pdf.slice(2));
+		}
 
 		// Función para calcular la altura de una pregunta
 		function calculateHeight(q, index, pdf, width, lineHeight) {
