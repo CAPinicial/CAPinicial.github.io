@@ -431,6 +431,7 @@ readRemoteZip(zipUrl);
 	  cancelBtnFolder.addEventListener('click', () => {
 		folderInput.value = ''; // Limpiar selección
 		folderCount.textContent = '0 preguntas'; // Restablecer el contador
+		filteredFiles = [];
 	  });
 
 
@@ -624,10 +625,13 @@ readRemoteZip(zipUrl);
             ...folderInput.files
         ];
 		
-		files = [
-			...files,
-			...filteredFiles
-		];
+		if (fileInput.files.length === 0 && folderInput.files.length === 0) {
+			console.log("El input está vacío, añadiendo archivos filtrados...");
+			files = [
+				...files,
+				...filteredFiles // Añadir los archivos filtrados solo si el input está vacío
+			];
+		}
 
         console.log("Archivos seleccionados para procesar:", files);
 
@@ -903,10 +907,13 @@ readRemoteZip(zipUrl);
 			...folderInput.files
 		];
 		
-		files = [
-			...files,
-			...filteredFiles
-		];
+		if (fileInput.files.length === 0 && folderInput.files.length === 0) {
+			console.log("El input está vacío, añadiendo archivos filtrados...");
+			files = [
+				...files,
+				...filteredFiles // Añadir los archivos filtrados solo si el input está vacío
+			];
+		}
 
 		console.log("Archivos seleccionados para procesar:", files);
 
@@ -927,12 +934,14 @@ readRemoteZip(zipUrl);
 			viajeros = await espec_viajeros(files, generales);
 		}
 		
-        if (checkMercancias.checked && checkViajeros.checked) {
-			displayQuestions(generales);
-		} else if (!checkMercancias.checked && checkViajeros.checked) {
-			displayQuestions(viajeros);
-		} else if (checkMercancias.checked && !checkViajeros.checked) {
-			displayQuestions(mercancias);
+		if (filteredFiles.length !== 0) {
+			if (checkMercancias.checked && checkViajeros.checked) {
+				displayQuestions(generales);
+			} else if (!checkMercancias.checked && checkViajeros.checked) {
+				displayQuestions(viajeros);
+			} else if (checkMercancias.checked && !checkViajeros.checked) {
+				displayQuestions(mercancias);
+			}
 		}
 
 		const optionsDiv = document.querySelector('.options');
