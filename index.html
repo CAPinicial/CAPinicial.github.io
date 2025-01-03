@@ -11,6 +11,8 @@
 	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
 	<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+
 
     <style>
         body {
@@ -346,6 +348,73 @@
 	
 	const norma_referencia = document.getElementById('norma_referencia');
 	
+	let filteredFiles = [];
+
+		
+
+async function readRemoteZip(url) {
+    try {
+        // Descargar el archivo ZIP desde la URL
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`Error descargando el archivo: ${response.statusText}`);
+        }
+
+        const arrayBuffer = await response.arrayBuffer(); // Obtener los datos como ArrayBuffer
+        const zip = await JSZip.loadAsync(arrayBuffer); // Cargar el ZIP con JSZip
+
+        // Verificar si el archivo ZIP tiene archivos para procesar
+        if (!zip || Object.keys(zip.files).length === 0) {
+            throw new Error("El archivo ZIP está vacío o no contiene archivos.");
+        }
+
+        // Crear un array para almacenar los archivos "simulados"
+        const simulatedFiles = [];
+
+        // Iterar sobre los archivos dentro del ZIP
+        zip.forEach(async (relativePath, file) => {
+            if (!file.dir) { // Ignorar directorios
+                const content = await file.async("string"); // Leer el contenido como texto
+
+                console.log(`ABCD: ${relativePath.split('/').pop()}`); // Nombre del archivo
+                console.log(`Archivo: ${relativePath}`);
+                console.log(`Contenido: ${content}`);
+
+                // Crear un Blob a partir del contenido del archivo
+                const blob = new Blob([content], { type: 'text/plain' });
+
+                // Crear un objeto File para simular un archivo del input
+                const simulatedFile = new File([blob], relativePath.split('/').pop(), { type: 'text/plain' });
+
+                // Añadir el archivo simulado al array
+                simulatedFiles.push(simulatedFile);
+
+                // Actualizar el contador de preguntas
+                updateQuestionCount(simulatedFiles, folderCount);
+
+                // Filtrar archivos con nombre de 10 caracteres o menos dentro de las carpetas
+                filteredFiles = simulatedFiles.filter(file => file.name.length <= 10);
+
+                console.log(`filteredFiles: ${filteredFiles}`);
+                // Actualizar la variable global para la fecha más reciente de los archivos
+                latestFolderDate = formatDate(getLatestModificationDate(filteredFiles));
+            }
+        });
+
+    } catch (error) {
+        // Muestra un mensaje de error detallado
+        console.error(`Error procesando el archivo ZIP: ${error.message}`);
+    }
+}
+
+// URL del archivo ZIP remoto
+const zipUrl = "https://raw.githubusercontent.com/CAPinicial/CAPinicial.github.io/main/PreguntasTxt.zip";
+
+// Llamar a la función
+readRemoteZip(zipUrl);
+
+
+
 
 
   const cancelBtnFile = document.getElementById('cancelBtnFile');
@@ -363,6 +432,7 @@
 		folderInput.value = ''; // Limpiar selección
 		folderCount.textContent = '0 preguntas'; // Restablecer el contador
 	  });
+
 
     let questions = []; // Variable global para almacenar las preguntas
 
@@ -549,10 +619,15 @@
     loadQuestionsButton.addEventListener('click', async () => {
         console.log("Generando preguntas...");
 				
-        const files = [
+        let files = [
             ...fileInput.files,
             ...folderInput.files
         ];
+		
+		files = [
+			...files,
+			...filteredFiles
+		];
 
         console.log("Archivos seleccionados para procesar:", files);
 
@@ -823,9 +898,14 @@
 	document.getElementById('createExamButton').addEventListener('click', async () => {
 		console.log("Generando examen basado en criterios...");
 		
-		const files = [
+		let files = [
 			...fileInput.files,
 			...folderInput.files
+		];
+		
+		files = [
+			...files,
+			...filteredFiles
 		];
 
 		console.log("Archivos seleccionados para procesar:", files);
