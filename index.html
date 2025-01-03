@@ -554,6 +554,10 @@ readRemoteZip(zipUrl);
 
 	// Evento para actualizar la cantidad de preguntas al seleccionar carpetas
 	folderInput.addEventListener('change', () => {
+	
+	filteredFiles = [];
+	files = [];
+	
 		if (folderInput.files.length === 0) {
 			// Si no hay archivos seleccionados, resetear el contador
 			folderCount.textContent = '0 preguntas';
@@ -773,22 +777,6 @@ readRemoteZip(zipUrl);
         displayQuestions(displayedQuestions);
         // Generar los archivos de preguntas y respuestas
         generateFiles(displayedQuestions,'test','test');
-		
-				
-		const optionsDiv = document.querySelector('.options');
-		const showOptionsButton = document.getElementById('showOptions');
-
-		// Ocultar el div "options" y mostrar el botón "MOSTRAR"
-		loadQuestionsButton.addEventListener('click', () => {
-			optionsDiv.classList.add('hidden'); // Ocultar el div "options"
-			showOptionsButton.style.display = 'block'; // Mostrar el botón "MOSTRAR"
-		});
-
-		// Mostrar el div "options" y ocultar el botón "MOSTRAR"
-		showOptionsButton.addEventListener('click', () => {
-			optionsDiv.classList.remove('hidden'); // Mostrar el div "options"
-			showOptionsButton.style.display = 'none'; // Ocultar el botón "MOSTRAR"
-		});
     });
 
     // Función para analizar las preguntas desde el contenido del archivo
