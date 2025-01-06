@@ -54,4 +54,4 @@ Esta es una web diseñada para gestionar y crear preguntas y respuestas del CAP 
 Si deseas contribuir a este proyecto o tienes sugerencias, no dudes en abrir un **issue** o enviar un **pull request**.
 
 ## Licencia
-Este proyecto está bajo la licencia [MIT](LICENSE).
+Este proyecto está bajo la licencia [licencia MIT](LICENSE).
