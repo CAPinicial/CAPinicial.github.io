@@ -1,0 +1,1683 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="www.linkedin.com/in/jorge-robles-dev">
+    <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/CAP_logo_Nov_2021.svg/2048px-CAP_logo_Nov_2021.svg.png" type="image/png">
+    <title>Preguntas CAP</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.4.0/jspdf.umd.min.js"></script>
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .options {
+            margin-bottom: 20px;
+        }
+        .question {
+            margin-bottom: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .question h3 {
+            margin-top: 0;
+        }
+        /* Ocultamos las respuestas correctas, normas y referencias por defecto */
+        .ocultar {
+            display: none;
+        }
+        .alerta {
+            color: red;
+            font-weight: bold;
+        }
+        .file-info {
+            display: inline-block;
+            margin-left: 10px;
+            font-weight: bold;
+            color: green;
+        }
+		.hidden {
+			display: none;
+		}
+        .no-connection-message {
+            color: red;
+            font-weight: bold;
+            margin: 20px;
+            padding: 10px;
+            border: 2px solid red;
+            background-color: #f8d7da;
+            display: none; /* Ocultar mensaje inicialmente */
+        }
+    </style>
+</head>
+<body>
+    <h3>Preguntas CAP</h3>
+    <a href="https://www.transportes.gob.es/areas-de-actividad/transporte-terrestre/servicios-al-transportista/cap/examenes-de-formacion-de-conductores-profesionales-cap#accordion" target="_blank" style="text-decoration: none;">
+        Exámenes de Formación de Conductores Profesionales (CAP) - Otros Documentos
+    </a>
+    <br>
+	<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-exclamation-triangle" viewBox="0 0 16 16">
+	  <path d="M7.938 2.016A.13.13 0 0 1 8.002 2a.13.13 0 0 1 .063.016.15.15 0 0 1 .054.057l6.857 11.667c.036.06.035.124.002.183a.2.2 0 0 1-.054.06.1.1 0 0 1-.066.017H1.146a.1.1 0 0 1-.066-.017.2.2 0 0 1-.054-.06.18.18 0 0 1 .002-.183L7.884 2.073a.15.15 0 0 1 .054-.057m1.044-.45a1.13 1.13 0 0 0-1.96 0L.165 13.233c-.457.778.091 1.767.98 1.767h13.713c.889 0 1.438-.99.98-1.767z"/>
+	  <path d="M7.002 12a1 1 0 1 1 2 0 1 1 0 0 1-2 0M7.1 5.995a.905.905 0 1 1 1.8 0l-.35 3.507a.552.552 0 0 1-1.1 0z"/>
+	</svg>
+	Contiene preguntas precargadas con fecha 08/02/2024
+	<br><br>
+	
+	<div class="card" style="border-color:red">
+	  <div class="card-header"  style="border-color:red">
+		<ul class="nav nav-tabs card-header-tabs">
+		  <li class="nav-item">
+			<a class="nav-link active"  style="border-top: 1px solid red; border-right: 1px solid red; border-bottom: 0px solid red; border-left: 1px solid red;">Seleccionar Preguntas</a>
+		  </li>
+		</ul>
+	  </div>
+	  <div class="card-body">
+		<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-info-circle" viewBox="0 0 16 16">
+			<path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+			<path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0"/>
+		</svg>
+		<em> Selecciona uno o varios ficheros</em>
+		<div class="input-group">
+		  <label class="input-group-text" for="fileInput">Archivos:</label>
+		  <input type="file" class="form-control" id="fileInput" aria-describedby="inputGroupFileAddon04" aria-label="Upload" multiple>
+		  <button class="btn btn-outline-secondary" type="button" id="cancelBtnFile">Cancelar</button>
+		  <label  class="input-group-text" for="fileInput"><span id="fileCount" class="file-info">0 preguntas</span></label>
+		</div>
+
+		<br>
+		<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-info-circle" viewBox="0 0 16 16">
+			<path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+			<path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0"/>
+		</svg>
+		<em> Selecciona una o varias carpetas</em>
+		<div class="input-group">
+		  <label class="input-group-text" for="folderInput">Carpeta:</label>
+		  <input type="file" class="form-control" id="folderInput" aria-describedby="inputGroupFileAddon04" aria-label="Upload" webkitdirectory>
+		  <button class="btn btn-outline-secondary" type="button" id="cancelBtnFolder">Cancelar</button>
+		  <label  class="input-group-text" for="folderInput"><span id="folderCount" class="file-info">0 preguntas</span></label>
+		</div>
+		<br>
+		
+		<div class="form-check">
+			<input class="form-check-input" type="checkbox" value="" id="norma_referencia">
+			<label class="form-check-label" for="norma_referencia">
+				Norma / Referencia en respuestas
+			</label>
+		</div>
+		<div class="form-check">
+			<input class="form-check-input" type="checkbox" value="" id="check_pdf" checked>
+			<label class="form-check-label" for="check_pdf">
+				Generar archivos PDF tipo examen, las respuestas en la última página
+			</label>
+		</div>
+		<div class="form-check">
+			<input class="form-check-input" type="checkbox" value="" id="check_merc_viaj">
+			<label class="form-check-label" for="check_merc_viaj">
+				Generar ficheros TXT de preguntas y respuestas
+			</label>
+		</div>
+		<div class="form-check">
+			<input class="form-check-input" type="checkbox" value="" id="shuffleQuestions" checked>
+			<label class="form-check-label" for="shuffleQuestions">
+				Desordenar preguntas
+			</label>
+		</div>
+	  </div>
+	</div>
+	
+	<br>
+	
+	<div class="card" style="border-color:red">
+	  <div class="card-header"  style="border-color:red">
+		<ul class="nav nav-tabs card-header-tabs">
+		  <li class="nav-item">
+			<a class="nav-link active"  style="border-top: 1px solid red; border-right: 1px solid red; border-bottom: 0px solid red; border-left: 1px solid red;">Examen</a>
+		  </li>
+		</ul>
+	  </div>
+	  <div class="card-body">
+		<div class="table table-responsive">
+		<table class="table"  style="border:0">
+		  <tbody>
+			<tr>
+			  <td colspan="2" style="border:0">
+				<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-info-circle" viewBox="0 0 16 16">
+				  <path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+				  <path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0"/>
+				</svg>
+				<em>Para generar un examen, <u>es necesario que todos los temas estén cargados</u>, tanto de Mercancías como de Viajeros</em>
+			  </td>
+			</tr>
+			<tr>
+			  <td rowspan="2" style="border:0">
+				<!-- Sección Generales -->
+				<div class="section">
+					<h5>Generales</h5>
+					<div class="textbox-group">
+						<input type="text" id="gen-1" value="1.1.txt">
+						<input type="text" id="genc-1" value="8">
+					</div>
+					<div class="textbox-group">
+						<input type="text" id="gen-2" value="1.2.txt">
+						<input type="text" id="genc-2" value="8">
+					</div>
+					<div class="textbox-group">
+						<input type="text" id="gen-3" value="1.3.txt">
+						<input type="text" id="genc-3" value="8">
+					</div>
+					<div class="textbox-group">
+						<input type="text" id="gen-4" value="1.3BIS.txt">
+						<input type="text" id="genc-4" value="8">
+					</div>
+					<div class="textbox-group">
+						<input type="text" id="gen-5" value="2.1.txt">
+						<input type="text" id="genc-5" value="13">
+					</div>
+					<div class="textbox-group">
+						<input type="text" id="gen-6" value="3.1.txt">
+						<input type="text" id="genc-6" value="5">
+					</div>
+					<div class="textbox-group">
+						<input type="text" id="gen-7" value="3.2.txt">
+						<input type="text" id="genc-7" value="5">
+					</div>
+					<div class="textbox-group">
+						<input type="text" id="gen-8" value="3.3.txt">
+						<input type="text" id="genc-8" value="5">
+					</div>
+					<div class="textbox-group">
+						<input type="text" id="gen-9" value="3.4.txt">
+						<input type="text" id="genc-9" value="5">
+					</div>
+					<div class="textbox-group">
+						<input type="text" id="gen-10" value="3.5.txt">
+						<input type="text" id="genc-10" value="5">
+					</div>
+					<div class="textbox-group">
+						<input type="text" id="gen-11" value="3.6.txt">
+						<input type="text" id="genc-11" value="5">
+					</div>
+					<div>
+						<span>Total General: </span><strong> <span id="total-gen">0</span> / 75</strong>
+					</div>
+				</div>
+			  </td>
+			  <td style="border:0">
+				<!-- Sección Mercancias -->
+				<div class="section">
+					<h5>Mercancías</h5>
+					<div class="textbox-group">
+						<input type="text" id="mer-1" value="1.4.txt">
+						<input type="text" id="merc-1" value="10">
+					</div>
+					<div class="textbox-group">
+						<input type="text" id="mer-2" value="2.2.txt">
+						<input type="text" id="merc-2" value="10">
+					</div>
+					<div class="textbox-group">
+						<input type="text" id="mer-3" value="3.7.txt">
+						<input type="text" id="merc-3" value="5">
+					</div>
+					<div>
+						<span>Total Mercancías: </span><strong> <span id="total-mer">0</span> / 25</strong>
+					</div>
+				</div>
+			  </td>
+			</tr>
+			<tr>
+			  <td style="border:0">
+				<!-- Sección Viajeros -->
+				<div class="section">
+					<h5>Viajeros</h5>
+					<div class="textbox-group">
+						<input type="text" id="via-1" value="1.5.txt">
+						<input type="text" id="viac-1" value="5">
+					</div>
+					<div class="textbox-group">
+						<input type="text" id="via-2" value="1.6.txt">
+						<input type="text" id="viac-2" value="5">
+					</div>
+					<div class="textbox-group">
+						<input type="text" id="via-3" value="2.3.txt">
+						<input type="text" id="viac-3" value="10">
+					</div>
+					<div class="textbox-group">
+						<input type="text" id="via-4" value="3.8.txt">
+						<input type="text" id="viac-4" value="5">
+					</div>
+					<div>
+						<span>Total Viajeros: </span><strong> <span id="total-via">0</span> / 25</strong>
+					</div>
+				</div>
+				<br>
+				<div class="form-check">
+				  <input class="form-check-input" type="checkbox" value="" id="checkMercancias" checked>
+				  <label class="form-check-label" for="checkMercancias">
+					Mercancías
+				  </label>
+				</div>
+				<div class="form-check">
+				  <input class="form-check-input" type="checkbox" value="" id="checkViajeros" checked>
+				  <label class="form-check-label" for="checkViajeros">
+					Viajeros
+				  </label>
+				</div>
+			  </td>
+			</tr>
+			<tr>
+			  <td style="border:0">
+				<button class="btn btn-outline-danger" id="createExamButton">CREAR EXAMEN</button>
+			  </td>
+			</tr>
+		  </tbody>
+		</table>
+		</div>
+	  </div>
+	</div>
+	
+	<br>
+
+	<div class="card" style="border-color:red">
+	  <div class="card-header"  style="border-color:red">
+		<ul class="nav nav-tabs card-header-tabs">
+		  <li class="nav-item">
+			<a class="nav-link active"  style="border-top: 1px solid red; border-right: 1px solid red; border-bottom: 0px solid red; border-left: 1px solid red;">Test</a>
+		  </li>
+		</ul>
+	  </div>
+	  <div class="card-body">
+			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-info-circle" viewBox="0 0 16 16">
+				<path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+				<path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0"/>
+			</svg>
+			<em>Es posible crear tests aleatorios basados en los temas o ficheros cargados.</em>
+			<br>
+			<em>&nbsp;&nbsp&nbsp;&nbsp;Para crear un test con temas específicos, <u>cancela</u> los temas cargados y carga los que se necesiten</em>
+			<br><br>
+			<div class="input-group mb-3">
+			  <span class="input-group-text" id="inputGroup-sizing-default" for="searchByCode">Buscar por COD:</span>
+			  <input type="number" class="form-control" id="searchByCode" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+			</div>
+
+			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-info-circle" viewBox="0 0 16 16">
+				<path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+				<path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0"/>
+			</svg>
+			<em>Escribe una o varias palabras en el recuadro para buscar preguntas y/o respuestas relacionadas</em>
+			<br>
+			<div class="input-group mb-3">
+			  <span class="input-group-text" id="inputGroup-sizing-default" for="searchQuestions">Buscar con..</span>
+			  <input type="text" class="form-control" id="searchQuestions" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+			</div>
+			
+		
+			<div class="form-check">
+			  <input class="form-check-input" type="checkbox" value="" id="searchInQuestions" checked>
+			  <label class="form-check-label" for="searchInQuestions">
+				Buscar en las preguntas
+			  </label>
+			</div>
+
+			<div class="form-check">
+			  <input class="form-check-input" type="checkbox" value="" id="searchInAnswers" checked>
+			  <label class="form-check-label" for="searchInAnswers">
+				Buscar en las respuestas
+			  </label>
+			</div>
+			
+			<br>
+			
+			<div class="input-group mb-3">
+			  <label class="input-group-text" for="questionCount">Seleccionar número de preguntas a mostrar:</label>
+			  <select class="form-select" id="questionCount">
+				<option value="25" selected>25</option>
+				<option value="50">50</option>
+				<option value="75">75</option>
+				<option value="100">100</option>
+				<option value="ALL">TODAS</option>
+			  </select>
+			</div>
+			
+			<div class="input-group mb-3">
+			  <span class="input-group-text" id="inputGroup-sizing-default" for="customQuestionCount">o ingresa un número personalizado:</span>
+			  <input type="number" class="form-control" id="customQuestionCount" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+			</div>
+
+
+		<button class="btn btn-outline-danger" id="loadQuestions">GENERAR PREGUNTAS</button>
+
+	  </div>
+	</div>
+
+
+    <br><br>
+	
+    <div id="messageContainer" class="alerta"></div> <!-- Mensaje de aviso -->
+	
+	<div id="resultMessageContainer" style="margin-bottom: 20px;"></div>
+	<div id="questionContainer"></div>
+
+    <div id="questionContainer"></div>
+
+
+<script>
+    const fileInput = document.getElementById('fileInput');
+    const folderInput = document.getElementById('folderInput');
+    const loadQuestionsButton = document.getElementById('loadQuestions');
+    const questionContainer = document.getElementById('questionContainer');
+    const shuffleQuestionsCheckbox = document.getElementById('shuffleQuestions');
+    const questionCountSelect = document.getElementById('questionCount');
+    const customQuestionCountInput = document.getElementById('customQuestionCount');
+    const messageContainer = document.getElementById('messageContainer');
+    const fileCount = document.getElementById('fileCount');
+    const folderCount = document.getElementById('folderCount');
+    const searchQuestionsInput = document.getElementById('searchQuestions');
+    const searchInQuestionsCheckbox = document.getElementById('searchInQuestions');
+    const searchInAnswersCheckbox = document.getElementById('searchInAnswers');
+	let latestFileDate = null;
+	let latestFolderDate = null;
+	
+
+    const checkMercancias = document.getElementById('checkMercancias');
+    const checkViajeros = document.getElementById('checkViajeros');
+	
+	const norma_referencia = document.getElementById('norma_referencia');
+	const check_pdf = document.getElementById('check_pdf');
+	const check_merc_viaj = document.getElementById('check_merc_viaj');
+	
+	let filteredFiles = [];
+
+		
+
+async function readRemoteZip(url) {
+    try {
+        // Descargar el archivo ZIP desde la URL
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`Error descargando el archivo: ${response.statusText}`);
+        }
+
+        const arrayBuffer = await response.arrayBuffer(); // Obtener los datos como ArrayBuffer
+        const zip = await JSZip.loadAsync(arrayBuffer); // Cargar el ZIP con JSZip
+
+        // Verificar si el archivo ZIP tiene archivos para procesar
+        if (!zip || Object.keys(zip.files).length === 0) {
+            throw new Error("El archivo ZIP está vacío o no contiene archivos.");
+        }
+
+        // Crear un array para almacenar los archivos "simulados"
+        const simulatedFiles = [];
+
+        // Iterar sobre los archivos dentro del ZIP
+        zip.forEach(async (relativePath, file) => {
+            if (!file.dir) { // Ignorar directorios
+                const content = await file.async("string"); // Leer el contenido como texto
+
+                console.log(`ABCD: ${relativePath.split('/').pop()}`); // Nombre del archivo
+                console.log(`Archivo: ${relativePath}`);
+                console.log(`Contenido: ${content}`);
+
+                // Crear un Blob a partir del contenido del archivo
+                const blob = new Blob([content], { type: 'text/plain' });
+
+                // Crear un objeto File para simular un archivo del input
+                const simulatedFile = new File([blob], relativePath.split('/').pop(), { type: 'text/plain' });
+
+                // Añadir el archivo simulado al array
+                simulatedFiles.push(simulatedFile);
+
+                // Actualizar el contador de preguntas
+                updateQuestionCount(simulatedFiles, folderCount);
+
+                // Filtrar archivos con nombre de 10 caracteres o menos dentro de las carpetas
+                filteredFiles = simulatedFiles.filter(file => file.name.length <= 10);
+
+                console.log(`filteredFiles: ${filteredFiles}`);
+                // Actualizar la variable global para la fecha más reciente de los archivos
+                latestFolderDate = formatDate(getLatestModificationDate(filteredFiles));
+            }
+        });
+
+    } catch (error) {
+        // Muestra un mensaje de error detallado
+        console.error(`Error procesando el archivo ZIP: ${error.message}`);
+    }
+}
+
+// URL del archivo ZIP remoto
+const zipUrl = "https://raw.githubusercontent.com/CAPinicial/CAPinicial.github.io/main/PreguntasTxt.zip";
+
+// Llamar a la función
+readRemoteZip(zipUrl);
+
+
+
+
+
+  const cancelBtnFile = document.getElementById('cancelBtnFile');
+  const cancelBtnFolder = document.getElementById('cancelBtnFolder');
+
+	  // Función para cancelar la selección de archivos
+	  cancelBtnFile.addEventListener('click', () => {
+		fileInput.value = ''; // Limpiar selección
+		fileCount.textContent = '0 preguntas'; // Restablecer el contador
+	  });
+
+
+	  // Función para cancelar la selección de carpetas
+	  cancelBtnFolder.addEventListener('click', () => {
+		folderInput.value = ''; // Limpiar selección
+		folderCount.textContent = '0 preguntas'; // Restablecer el contador
+		filteredFiles = [];
+	  });
+
+
+    let questions = []; // Variable global para almacenar las preguntas
+
+        // Script para mostrar/ocultar los criterios
+        const criteriaContainer = document.getElementById('criteriaContainer');
+
+		
+        // Función para actualizar el total de los criteria
+        function updateTotal() {
+            let total_gen = 0;
+            let total_mer = 0;
+            let total_via = 0;
+
+            // Iterar sobre todos los campos de criterio
+            for (let i = 1; i <= 11; i++) {
+                // Obtener el valor de cada campo de criterio
+                const criteriaValue = document.getElementById(`genc-${i}`).value;
+                // Sumar al total, asegurándonos de que el valor sea un número
+                total_gen += parseInt(criteriaValue) || 0;
+            }
+
+            // Actualizar el total en la página
+            document.getElementById("total-gen").innerText = total_gen;
+			
+            for (let i = 1; i <= 3; i++) {
+                // Obtener el valor de cada campo de criterio
+                const criteriaValue = document.getElementById(`merc-${i}`).value;
+                // Sumar al total, asegurándonos de que el valor sea un número
+                total_mer += parseInt(criteriaValue) || 0;
+            }
+
+            // Actualizar el total en la página
+            document.getElementById("total-mer").innerText = total_mer;
+			
+            for (let i = 1; i <= 4; i++) {
+                // Obtener el valor de cada campo de criterio
+                const criteriaValue = document.getElementById(`viac-${i}`).value;
+                // Sumar al total, asegurándonos de que el valor sea un número
+                total_via += parseInt(criteriaValue) || 0;
+            }
+
+            // Actualizar el total en la página
+            document.getElementById("total-via").innerText = total_via;
+        }
+		
+        // Añadir el evento 'input' a todos los campos relevantes para actualizar los totales en tiempo real
+        for (let i = 1; i <= 11; i++) {
+            document.getElementById(`genc-${i}`).addEventListener("input", updateTotal);
+        }
+
+        for (let i = 1; i <= 3; i++) {
+            document.getElementById(`merc-${i}`).addEventListener("input", updateTotal);
+        }
+
+        for (let i = 1; i <= 4; i++) {
+            document.getElementById(`viac-${i}`).addEventListener("input", updateTotal);
+        }
+		
+        // Llamar a la función una vez al cargar la página para mostrar el total inicial
+        updateTotal();
+
+        // Añadir el evento input a todos los inputs de criterios
+        for (let i = 1; i <= 11; i++) {
+            const criteriaInput = document.getElementById(`genc-${i}`);
+            criteriaInput.addEventListener("input", updateTotal);
+        }
+		
+        // Añadir el evento input a todos los inputs de criterios
+        for (let i = 1; i <= 3; i++) {
+            const criteriaInput = document.getElementById(`merc-${i}`);
+            criteriaInput.addEventListener("input", updateTotal);
+        }
+		
+        // Añadir el evento input a todos los inputs de criterios
+        for (let i = 1; i <= 4; i++) {
+            const criteriaInput = document.getElementById(`viac-${i}`);
+            criteriaInput.addEventListener("input", updateTotal);
+        }
+
+        // Llamar a la función una vez al cargar la página para mostrar el total inicial
+        updateTotal();
+
+    // Función para normalizar texto (ignorando tildes, diéresis y mayúsculas)
+    function normalizeText(text) {
+        return text.toLowerCase()
+            .normalize("NFD") // Descomponer caracteres acentuados
+            .replace(/[\u0300-\u036f]/g, ""); // Eliminar diacríticos
+    }
+	
+	function formatDate(date) {
+		if (isNaN(date.getTime())) {
+			// Si la fecha no es válida, devuelve un mensaje o una fecha predeterminada
+			return 'Fecha inválida';
+		}
+
+		const day = String(date.getDate()).padStart(2, '0');
+		const month = String(date.getMonth() + 1).padStart(2, '0');
+		const year = date.getFullYear();
+		return `${day}/${month}/${year}`;
+	}
+
+	// Evento para actualizar la cantidad de preguntas al seleccionar archivos
+	fileInput.addEventListener('change', () => {
+		if (fileInput.files.length === 0) {
+			// Si no hay archivos seleccionados, resetear el contador
+			fileCount.textContent = '0 preguntas';
+		} else {
+			console.log("Archivos seleccionados:", fileInput.files);
+			updateQuestionCount(fileInput.files, fileCount);
+			
+			// Filtrar archivos con nombre de 10 caracteres o menos
+			const files = Array.from(fileInput.files).filter(file => file.name.length <= 10);
+			
+			// Actualizar la variable global para la fecha más reciente de los archivos
+			latestFileDate = formatDate(getLatestModificationDate(files));
+		}
+	});
+
+	// Evento para actualizar la cantidad de preguntas al seleccionar carpetas
+	folderInput.addEventListener('change', () => {
+	
+	filteredFiles = [];
+	files = [];
+	
+		if (folderInput.files.length === 0) {
+			// Si no hay archivos seleccionados, resetear el contador
+			folderCount.textContent = '0 preguntas';
+		} else {
+			console.log("Carpetas seleccionadas (archivos):", folderInput.files);
+			updateQuestionCount(folderInput.files, folderCount);
+			
+			// Filtrar archivos con nombre de 10 caracteres o menos dentro de las carpetas
+			const files = Array.from(folderInput.files).filter(file => file.name.length <= 10);
+			
+			// Actualizar la variable global para la fecha más reciente de las carpetas
+			latestFolderDate = formatDate(getLatestModificationDate(files));
+		}
+	});
+	
+    // Obtener la fecha de modificación más reciente de una lista de archivos
+    function getLatestModificationDate(files) {
+        let latestDate = null;
+        for (const file of files) {
+            const fileDate = file.lastModified;
+            if (!latestDate || fileDate > latestDate) {
+                latestDate = fileDate;
+            }
+        }
+        return latestDate ? new Date(latestDate) : new Date('2099-01-01T00:00:00');
+    }
+
+    // Función que cuenta las preguntas en los archivos seleccionados
+    function updateQuestionCount(files, countDisplay) {
+        let totalQuestions = 0;
+        Array.from(files).forEach(file => {
+            console.log(`Procesando archivo: ${file.name}`);
+            if (file.name.endsWith('.txt')) {
+                const reader = new FileReader();
+                reader.onload = (e) => {
+                    const content = e.target.result;
+                    const questionCount = countQuestions(content);
+                    totalQuestions += questionCount;
+                    console.log(`Archivo: ${file.name}, Preguntas encontradas: ${questionCount}`);
+                    countDisplay.textContent = `${totalQuestions} preguntas`;
+                };
+                reader.readAsText(file);
+            } else {
+                console.warn(`Archivo ignorado (no es .txt): ${file.name}`);
+            }
+        });
+    }
+
+    // Contar las preguntas en el contenido de un archivo
+    function countQuestions(content) {
+        const lines = content.split(/\r?\n/).map(line => line.trim()).filter(line => line !== '');
+        let questionCount = 0;
+
+        lines.forEach(line => {
+            if (line.startsWith("COD:")) {
+                questionCount++;
+            }
+        });
+
+        return questionCount;
+    }
+
+    // Evento para generar preguntas cuando se hace clic en el botón
+    loadQuestionsButton.addEventListener('click', async () => {
+        console.log("Generando preguntas...");
+				
+        let files = [
+            ...fileInput.files,
+            ...folderInput.files
+        ];
+		
+		if (fileInput.files.length === 0 && folderInput.files.length === 0) {
+			console.log("El input está vacío, añadiendo archivos filtrados...");
+			files = [
+				...files,
+				...filteredFiles // Añadir los archivos filtrados solo si el input está vacío
+			];
+		}
+
+        console.log("Archivos seleccionados para procesar:", files);
+
+        if (files.length === 0) {
+            console.warn("No se seleccionaron archivos o carpetas.");
+            alert("Por favor, cargue al menos un archivo o carpeta.");
+            return;
+        }
+
+        questions = []; // Resetear las preguntas cargadas
+		totalFoundQuestions = 0;
+        const searchQuery = normalizeText(searchQuestionsInput.value); // Obtener el contenido de la búsqueda
+
+		const searchCode = document.getElementById('searchByCode').value.trim(); // Obtener el código ingresado
+
+	// Procesar los archivos seleccionados
+	for (const file of files) {
+		try {
+			if (file.name.endsWith('.txt')) {
+				console.log(`Leyendo archivo: ${file.name}`);
+				const content = await file.text();
+				const parsedQuestions = parseQuestions(content);
+				console.log(`Preguntas procesadas del archivo ${file.name}:`, parsedQuestions);
+
+				// Añadir el nombre del archivo a cada pregunta
+				parsedQuestions.forEach(q => {
+					q.sourceFile = file.name;  // Agregar el nombre del archivo
+				});
+
+				if (searchQuery) {
+					parsedQuestions.forEach(q => {
+						const matchInQuestion = searchInQuestionsCheckbox.checked && normalizeText(q.questionText).includes(searchQuery);
+						const matchInAnswers = searchInAnswersCheckbox.checked && q.answers.some(ans => normalizeText(ans).includes(searchQuery));
+						if (matchInQuestion || matchInAnswers) {
+							totalFoundQuestions++;
+							questions.push(q);
+						}
+					});
+				} else {
+					questions.push(...parsedQuestions);
+				}
+			} else {
+				console.warn(`Archivo ignorado (no es .txt): ${file.name}`);
+			}
+		} catch (error) {
+			console.error(`Error al procesar el archivo ${file.name}:`, error);
+		}
+	}
+
+		
+		if (searchCode) {
+			questions = questions.filter(q => q.cod === searchCode);
+			if (questions.length === 0) {
+				alert(`No se encontró ninguna pregunta con el código ${searchCode}.`);
+				return;
+			}
+		}
+
+        if (questions.length === 0) {
+            console.warn("No se encontraron preguntas válidas.");
+            alert("No se encontraron preguntas válidas en los archivos seleccionados.");
+            return;
+        }
+
+        // Si hay una búsqueda, filtrar las preguntas
+        if (searchQuery) {
+            questions = questions.filter(q => {
+                let matchInQuestions = false;
+                let matchInAnswers = false;
+
+                // Buscar en las preguntas solo si está marcado
+                if (searchInQuestionsCheckbox.checked) {
+                    matchInQuestions = normalizeText(q.questionText).includes(searchQuery);
+                }
+
+                // Buscar en las respuestas solo si está marcado
+                if (searchInAnswersCheckbox.checked) {
+                    matchInAnswers = q.answers.some(ans => normalizeText(ans).includes(searchQuery));
+                }
+
+                // La pregunta se incluirá si coincide en alguna de las secciones seleccionadas
+                return matchInQuestions || matchInAnswers;
+            });
+        }
+		
+		let resultMessage = ''; // Inicializar el mensaje vacío
+
+		if (searchQuery) {
+			const searchInQuestions = searchInQuestionsCheckbox.checked;
+			const searchInAnswers = searchInAnswersCheckbox.checked;
+
+			if (searchInQuestions && searchInAnswers) {
+				resultMessage = `Las preguntas totales con la palabra '${searchQuery}' aparecen en ${totalFoundQuestions} preguntas/respuestas.`;
+			} else if (searchInQuestions) {
+				resultMessage = `Las preguntas totales con la palabra '${searchQuery}' aparecen en ${totalFoundQuestions} preguntas.`;
+			} else if (searchInAnswers) {
+				resultMessage = `Las preguntas totales con la palabra '${searchQuery}' aparecen en ${totalFoundQuestions} respuestas.`;
+			}
+		} else {
+			resultMessage = `Se encontraron un total de ${questions.length} preguntas.`;
+		}
+
+		// Actualizar el contenedor con el mensaje (sin usar alert)
+		const resultMessageContainer = document.getElementById('resultMessageContainer');
+		resultMessageContainer.textContent = ''; // Limpiar cualquier mensaje previo
+		resultMessageContainer.textContent = resultMessage;
+
+        // Si el checkbox de desordenar está marcado, desordenamos las preguntas
+        if (shuffleQuestionsCheckbox.checked) {
+            console.log("Desordenando preguntas...");
+            shuffleArray(questions);
+        }
+
+        let displayedQuestions = questions; // Todas las preguntas por defecto
+
+        // Determinar la cantidad de preguntas a mostrar
+        const questionCount = questionCountSelect.value;
+        const customCount = parseInt(customQuestionCountInput.value);
+
+        if (questionCount === "ALL") {
+            displayedQuestions = questions; // Mostrar todas las preguntas
+            console.log("Mostrando todas las preguntas.");
+        } else if (questionCount !== "ALL" && customQuestionCountInput.value === "") {
+            displayedQuestions = questions.slice(0, parseInt(questionCount));
+            console.log(`Mostrando las primeras ${parseInt(questionCount)} preguntas.`);
+        } else if (customCount > 0) {
+            displayedQuestions = questions.slice(0, customCount);
+            console.log(`Mostrando las primeras ${customCount} preguntas (personalizado).`);
+        } else {
+            console.warn("Número de preguntas personalizado inválido.");
+            messageContainer.textContent = "Por favor, ingresa un número válido.";
+            return;
+        }
+
+        messageContainer.textContent = '';
+        console.log("Preguntas a mostrar:", displayedQuestions);
+
+        // Mostrar las preguntas filtradas
+        displayQuestions(displayedQuestions);
+        // Generar los archivos de preguntas y respuestas
+        generateFiles(displayedQuestions,'test','test');
+    });
+
+    // Función para analizar las preguntas desde el contenido del archivo
+	function parseQuestions(content) {
+		const lines = content.split(/\r?\n/).map(line => line.trim()).filter(line => line !== '');
+		const questions = [];
+		let currentQuestion = null;
+
+		for (let i = 0; i < lines.length; i++) {
+			const line = lines[i];
+			if (line.startsWith("COD:")) {
+				// Si ya hay una pregunta procesándose, agrégala a la lista
+				if (currentQuestion) {
+					questions.push(currentQuestion);
+				}
+				// Iniciar una nueva pregunta
+				currentQuestion = {
+					cod: line.replace('COD:', '').trim(),
+					questionText: '',
+					answers: [],
+					correctAnswer: '',
+					norma: '',
+					reference: ''
+				};
+				// Asumir que la pregunta está en la línea siguiente
+				currentQuestion.questionText = lines[i + 1] || '';
+				i++; // Saltar a la siguiente línea porque ya la usamos
+			} else if (currentQuestion) {
+				if (line.startsWith('RESPUESTA:')) {
+					currentQuestion.correctAnswer = line.replace('RESPUESTA:', '').trim();
+				} else if (line.startsWith('NORMA:')) {
+					currentQuestion.norma = line.replace('NORMA:', '').trim();
+				} else if (line.startsWith('REFERENCIA DOCTRINAL:')) {
+					currentQuestion.reference = line.replace('REFERENCIA DOCTRINAL:', '').trim();
+				} else if (line.match(/^[A-D]\s/)) {
+					// Identificar opciones de respuesta que comienzan con A, B, C, o D seguidas de un espacio
+					const match = line.match(/^([A-D])\s(.+)$/);
+					if (match) {
+						const [, letter, text] = match; // Capturar la letra y el texto
+						currentQuestion.answers.push(`${letter} ${text}`);
+					}
+				}
+			}
+		}
+
+		// Agregar la última pregunta procesada
+		if (currentQuestion) {
+			questions.push(currentQuestion);
+		}
+
+		return questions;
+	}
+
+
+    // Función para desordenar el array de preguntas
+    function shuffleArray(array) {
+        for (let i = array.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [array[i], array[j]] = [array[j], array[i]];
+        }
+        return array;
+    }
+	
+	// Función para mostrar las preguntas en la pantalla
+	function displayQuestions(questions) {
+		questionContainer.innerHTML = ''; // Limpiar las preguntas previas
+
+		// Obtener el estado del checkbox norma_referencia
+		const isNormaReferenciaChecked = norma_referencia.checked;
+
+		questions.forEach(function (q) {
+			const questionDiv = document.createElement('div');
+			questionDiv.classList.add('question');
+
+			// Construir la pregunta y las respuestas
+			let questionHTML = 
+				"<h5>COD: " + q.cod + "</h5>" +
+				"<p>" + q.questionText + "</p>" +
+				"<ul>" +
+				q.answers.map(function(ans) {
+					return "<li style='list-style-type: none;'>" + ans + "</li>";
+				}).join('') +
+				"</ul>" +
+				"<p><strong>Archivo/Tema:</strong> " + q.sourceFile + "</p>" +  // Mostrar el nombre del archivo
+				"<p class='ocultar'><strong>Respuesta Correcta:</strong> " + q.correctAnswer + "</p>";
+
+			// Solo añadir la norma y referencia doctrinal si el checkbox está marcado
+			if (isNormaReferenciaChecked) {
+				questionHTML += 
+					"<p class='ocultar'><strong>Norma:</strong> " + q.norma + "</p>" +
+					"<p class='ocultar'><strong>Referencia Doctrinal:</strong> " + q.reference + "</p>";
+			}
+
+			// Agregar el contenido al div de la pregunta
+			questionDiv.innerHTML = questionHTML;
+
+			// Agregar un evento de clic al div de la pregunta
+			questionDiv.addEventListener('click', function() {
+				const answerParagraphs = questionDiv.querySelectorAll('.ocultar');
+				answerParagraphs.forEach(function(paragraph) {
+					// Alternar la visibilidad de los párrafos con la clase 'ocultar'
+					paragraph.style.display = (paragraph.style.display === 'none' || paragraph.style.display === '') ? 'block' : 'none';
+				});
+			});
+
+			questionContainer.appendChild(questionDiv);
+		});
+	}
+	
+	// Manejador del botón Crear Examen
+	document.getElementById('createExamButton').addEventListener('click', async () => {
+		console.log("Generando examen basado en criterios...");
+		
+		let files = [
+			...fileInput.files,
+			...folderInput.files
+		];
+		
+		if (fileInput.files.length === 0 && folderInput.files.length === 0) {
+			console.log("El input está vacío, añadiendo archivos filtrados...");
+			files = [
+				...files,
+				...filteredFiles // Añadir los archivos filtrados solo si el input está vacío
+			];
+		}
+
+		console.log("Archivos seleccionados para procesar:", files);
+
+		if (files.length === 0) {
+			console.warn("No se seleccionaron archivos o carpetas.");
+			alert("Por favor, cargue los temas necesarios para crear examen.\nSon necesarios todos los temas: Mercancias y Viajeros");
+			return;
+		}
+		let questions = []; // Resetear las preguntas cargadas
+		
+		let generales = await general_exam(files);
+		let mercancias;
+		let viajeros;
+		if (checkMercancias.checked) {
+			mercancias = await espec_mercancias(files, generales);
+		}
+        if (checkViajeros.checked) {
+			viajeros = await espec_viajeros(files, generales);
+		}
+		
+		if (filteredFiles.length !== 0) {
+			if (checkMercancias.checked && checkViajeros.checked) {
+				displayQuestions(generales);
+			} else if (!checkMercancias.checked && checkViajeros.checked) {
+				displayQuestions(viajeros);
+			} else if (checkMercancias.checked && !checkViajeros.checked) {
+				displayQuestions(mercancias);
+			}
+		}
+
+		const optionsDiv = document.querySelector('.options');
+		const showOptionsButton = document.getElementById('showOptions');
+/*
+		// Ocultar el div "options" y mostrar el botón "MOSTRAR"
+		loadQuestionsButton.addEventListener('click', () => {
+			optionsDiv.classList.add('hidden'); // Ocultar el div "options"
+			showOptionsButton.style.display = 'block'; // Mostrar el botón "MOSTRAR"
+		});
+
+		// Mostrar el div "options" y ocultar el botón "MOSTRAR"
+		showOptionsButton.addEventListener('click', () => {
+			optionsDiv.classList.remove('hidden'); // Mostrar el div "options"
+			showOptionsButton.style.display = 'none'; // Ocultar el botón "MOSTRAR"
+		});
+*/
+	});
+	
+	async function general_exam(files, generales){
+		questions = []; //resetear preguntas
+		
+		/*const fileCriteria = {
+			"1.1.txt": 8,
+			"1.2.txt": 8,
+			"1.3.txt": 8,
+			"1.3BIS.txt": 8,
+			"2.1.txt": 13,
+			"3.1.txt": 5,
+			"3.2.txt": 5,
+			"3.3.txt": 5,
+			"3.4.txt": 5,
+			"3.5.txt": 5,
+			"3.6.txt": 5
+		};*/
+		
+            // Inicializar el objeto fileCriteria
+            const fileCriteria = {};
+
+            // Número total de textbox-group
+            const totalGroups = 11; // Cambia este número si agregas más grupos
+
+            for (let i = 1; i <= totalGroups; i++) {
+                // Obtener el archivo y el criterio usando sus IDs
+                const file = document.getElementById(`gen-${i}`).value;
+                const criteria = parseInt(document.getElementById(`genc-${i}`).value);
+
+                // Añadir al objeto fileCriteria
+                fileCriteria[file] = criteria;
+            }
+
+		// Cargar y filtrar preguntas según el criterio
+		for (const file of files) {
+			try {
+				if (file.name.endsWith('.txt')) {
+					console.log(`Leyendo archivo: ${file.name}`);
+					const content = await file.text();
+					const parsedQuestions = parseQuestions(content);
+					console.log(`Preguntas procesadas del archivo ${file.name}:`, parsedQuestions);
+					
+					// Añadir el nombre del archivo a cada pregunta
+					parsedQuestions.forEach(q => {
+						q.sourceFile = file.name;  // Agregar el nombre del archivo
+					});
+
+					if (file.name in fileCriteria) {
+						const requiredCount = fileCriteria[file.name];
+
+						if (parsedQuestions.length >= requiredCount) {
+							// Seleccionamos preguntas aleatorias del archivo
+							const selectedQuestions = getRandomQuestions(parsedQuestions, requiredCount);
+							questions.push(...selectedQuestions);
+						} else {
+							alert(
+								`El archivo "${file.name}" no contiene suficientes preguntas. ` +
+								`Se necesitan ${requiredCount}, pero sólo hay ${parsedQuestions.length}.`
+							);
+						}
+					}
+				} else {
+					console.warn(`Archivo ignorado (no es .txt): ${file.name}`);
+				}
+			} catch (error) {
+				console.error(`Error al procesar el archivo ${file.name}:`, error);
+			}
+		}
+
+		// Verificar si se cargaron preguntas
+		console.log("Preguntas después de procesar los archivos:", questions);
+
+		if (questions.length === 0) {
+			console.warn("No se generaron preguntas válidas.");
+			alert("No se encontraron preguntas válidas en los archivos seleccionados.");
+			return;
+		}
+		
+        // Si el checkbox de desordenar está marcado, desordenamos las preguntas
+        if (shuffleQuestionsCheckbox.checked) {
+            console.log("Desordenando preguntas...");
+            shuffleArray(questions);
+        }
+
+		// Mostrar las preguntas seleccionadas en pantalla
+		// displayQuestions(questions);
+
+		// Generar los archivos de preguntas y respuestas
+		return questions;
+	}
+	
+	async function espec_mercancias(files, generales){
+		questions = []; //resetear preguntas
+		
+		/*const fileCriteria = {
+			"1.4.txt": 10,
+			"2.2.txt": 10,
+			"3.7.txt": 5
+		};*/
+		
+            // Inicializar el objeto fileCriteria
+            const fileCriteria = {};
+
+            // Número total de textbox-group
+            const totalGroups = 3; // Cambia este número si agregas más grupos
+
+            for (let i = 1; i <= totalGroups; i++) {
+                // Obtener el archivo y el criterio usando sus IDs
+                const file = document.getElementById(`mer-${i}`).value;
+                const criteria = parseInt(document.getElementById(`merc-${i}`).value);
+
+                // Añadir al objeto fileCriteria
+                fileCriteria[file] = criteria;
+            }
+
+		// Cargar y filtrar preguntas según el criterio
+		for (const file of files) {
+			try {
+				if (file.name.endsWith('.txt')) {
+					console.log(`Leyendo archivo: ${file.name}`);
+					const content = await file.text();
+					const parsedQuestions = parseQuestions(content);
+					console.log(`Preguntas procesadas del archivo ${file.name}:`, parsedQuestions);
+					
+					// Añadir el nombre del archivo a cada pregunta
+					parsedQuestions.forEach(q => {
+						q.sourceFile = file.name;  // Agregar el nombre del archivo
+					});
+
+					if (file.name in fileCriteria) {
+						const requiredCount = fileCriteria[file.name];
+
+						if (parsedQuestions.length >= requiredCount) {
+							// Seleccionamos preguntas aleatorias del archivo
+							const selectedQuestions = getRandomQuestions(parsedQuestions, requiredCount);
+							questions.push(...selectedQuestions);
+						} else {
+							alert(
+								`El archivo "${file.name}" no contiene suficientes preguntas. ` +
+								`Se necesitan ${requiredCount}, pero sólo hay ${parsedQuestions.length}.`
+							);
+						}
+					}
+				} else {
+					console.warn(`Archivo ignorado (no es .txt): ${file.name}`);
+				}
+			} catch (error) {
+				console.error(`Error al procesar el archivo ${file.name}:`, error);
+			}
+		}
+
+		// Verificar si se cargaron preguntas
+		console.log("Preguntas después de procesar los archivos:", questions);
+
+		if (questions.length === 0) {
+			console.warn("No se generaron preguntas válidas.");
+			alert("No se encontraron preguntas válidas en los archivos seleccionados.");
+			return;
+		}
+		
+        // Si el checkbox de desordenar está marcado, desordenamos las preguntas
+        if (shuffleQuestionsCheckbox.checked) {
+            console.log("Desordenando preguntas...");
+            shuffleArray(questions);
+        }
+		
+		let question_total = questions.concat(generales);
+
+		// Mostrar las preguntas seleccionadas en pantalla
+		// displayQuestions(questions);
+
+		// Generar los archivos de preguntas y respuestas
+		
+		generateFiles(question_total,'exam_merca','exam_merca');
+		
+		return question_total
+	}
+
+	// Función para seleccionar preguntas aleatorias
+	function getRandomQuestions(questions, count) {
+		const shuffled = [...questions].sort(() => 0.5 - Math.random());
+		return shuffled.slice(0, count);
+	}
+	
+	
+	async function espec_viajeros(files,generales){
+		questions = []; //resetear preguntas
+	
+		/*const fileCriteria = {
+			"1.5.txt": 5,
+			"1.6.txt": 5,
+			"2.3.txt": 10,
+			"3.8.txt": 5
+		};*/
+
+            // Inicializar el objeto fileCriteria
+            const fileCriteria = {};
+
+            // Número total de textbox-group
+            const totalGroups = 4; // Cambia este número si agregas más grupos
+
+            for (let i = 1; i <= totalGroups; i++) {
+                // Obtener el archivo y el criterio usando sus IDs
+                const file = document.getElementById(`via-${i}`).value;
+                const criteria = parseInt(document.getElementById(`viac-${i}`).value);
+
+                // Añadir al objeto fileCriteria
+                fileCriteria[file] = criteria;
+            }
+
+		// Cargar y filtrar preguntas según el criterio
+		for (const file of files) {
+			try {
+				if (file.name.endsWith('.txt')) {
+					console.log(`Leyendo archivo: ${file.name}`);
+					const content = await file.text();
+					const parsedQuestions = parseQuestions(content);
+					console.log(`Preguntas procesadas del archivo ${file.name}:`, parsedQuestions);
+					
+					// Añadir el nombre del archivo a cada pregunta
+					parsedQuestions.forEach(q => {
+						q.sourceFile = file.name;  // Agregar el nombre del archivo
+					});
+
+					if (file.name in fileCriteria) {
+						const requiredCount = fileCriteria[file.name];
+
+						if (parsedQuestions.length >= requiredCount) {
+							// Seleccionamos preguntas aleatorias del archivo
+							const selectedQuestions = getRandomQuestions(parsedQuestions, requiredCount);
+							questions.push(...selectedQuestions);
+						} else {
+							alert(
+								`El archivo "${file.name}" no contiene suficientes preguntas. ` +
+								`Se necesitan ${requiredCount}, pero sólo hay ${parsedQuestions.length}.`
+							);
+						}
+					}
+				} else {
+					console.warn(`Archivo ignorado (no es .txt): ${file.name}`);
+				}
+			} catch (error) {
+				console.error(`Error al procesar el archivo ${file.name}:`, error);
+			}
+		}
+
+		// Verificar si se cargaron preguntas
+		console.log("Preguntas después de procesar los archivos:", questions);
+
+		if (questions.length === 0) {
+			console.warn("No se generaron preguntas válidas.");
+			alert("No se encontraron preguntas válidas en los archivos seleccionados.");
+			return;
+		}
+		
+        // Si el checkbox de desordenar está marcado, desordenamos las preguntas
+        if (shuffleQuestionsCheckbox.checked) {
+            console.log("Desordenando preguntas...");
+            shuffleArray(questions);
+        }
+		
+		let question_total = questions.concat(generales);
+
+		// Mostrar las preguntas seleccionadas en pantalla
+		// displayQuestions(questions);
+
+		// Generar los archivos de preguntas y respuestas
+		
+		generateFiles(question_total,'exam_viaj','exam_viaj');
+		
+		return question_total
+	}
+
+
+
+
+	// Función para leer y seleccionar preguntas de los archivos
+	function leerYSeleccionarPreguntas(archivos, distribucion, preguntasExamen, totalPreguntas) {
+		let preguntasLeidas = 0;
+		
+		archivos.forEach((archivo, index) => {
+			const preguntasPorArchivo = distribucion[index]; // Número de preguntas a extraer de este archivo
+			
+			if (preguntasPorArchivo > 0) {
+				// Leer el contenido del archivo
+				const reader = new FileReader();
+				reader.onload = function(event) {
+					// Obtener las preguntas del archivo
+					const preguntasArchivo = JSON.parse(event.target.result); // Suponiendo que el archivo sea JSON
+					const seleccionadas = seleccionarPreguntasAleatorias(preguntasArchivo, preguntasPorArchivo);
+					preguntasExamen.push(...seleccionadas);
+					preguntasLeidas += seleccionadas.length;
+
+					// Verificar si hemos leído todas las preguntas necesarias
+					if (preguntasLeidas >= totalPreguntas) {
+						generarExamen(preguntasExamen);
+					}
+				};
+
+				reader.readAsText(archivo); // Leer el archivo como texto (suponiendo JSON)
+			}
+		});
+	}
+
+	// Función para seleccionar preguntas aleatorias
+	function seleccionarPreguntasAleatorias(preguntas, cantidad) {
+		const seleccionadas = [];
+		const indices = new Set();
+
+		while (indices.size < cantidad && indices.size < preguntas.length) {
+			const indice = Math.floor(Math.random() * preguntas.length);
+			if (!indices.has(indice)) {
+				indices.add(indice);
+				seleccionadas.push(preguntas[indice]);
+			}
+		}
+
+		return seleccionadas;
+	}
+
+	// Función para generar el examen con las preguntas seleccionadas
+	function generarExamen(preguntasExamen) {
+		// Dividir las preguntas según los criterios indicados
+		const section1 = preguntasExamen.splice(0, 10); // Fichero 1.4 (10 preguntas)
+		const section2 = preguntasExamen.splice(0, 10); // Fichero 2.2 (10 preguntas)
+		const section3 = preguntasExamen.splice(0, 5);  // Fichero 3.7 (5 preguntas)
+
+		// Restantes 75 preguntas divididas según los criterios
+		const remainingSections = [
+			{ count: 8, label: '1.1' },
+			{ count: 8, label: '1.2' },
+			{ count: 8, label: '1.3' },
+			{ count: 8, label: '1.3BIS' },
+			{ count: 13, label: '2.1' },
+			{ count: 5, label: '3.1' },
+			{ count: 5, label: '3.2' },
+			{ count: 5, label: '3.3' },
+			{ count: 5, label: '3.4' },
+			{ count: 5, label: '3.5' },
+			{ count: 5, label: '3.6' }
+		];
+
+		const distribucionFinal = [];
+		remainingSections.forEach(section => {
+			const preguntasSeccion = preguntasExamen.splice(0, section.count);
+			distribucionFinal.push({ label: section.label, preguntas: preguntasSeccion });
+		});
+
+		// Mostrar el examen completo
+		mostrarPreguntasGeneradas({
+			sections: [
+				{ label: '1.4', preguntas: section1 },
+				{ label: '2.2', preguntas: section2 },
+				{ label: '3.7', preguntas: section3 },
+				...distribucionFinal
+			]
+		});
+	}
+
+	// Función para mostrar preguntas generadas en la interfaz
+	function mostrarPreguntasGeneradas(examen) {
+
+		const contenedor = document.getElementById('preguntasGeneradas');
+		contenedor.innerHTML = ''; // Limpiar contenido previo
+		examen.sections.forEach(section => {
+			const sectionTitle = document.createElement('h3');
+			sectionTitle.textContent = `Sección ${section.label}`;
+			contenedor.appendChild(sectionTitle);
+
+			section.preguntas.forEach((pregunta, index) => {
+				const elemento = document.createElement('div');
+				elemento.innerHTML = `
+					<h4>${index + 1}. ${pregunta.questionText}</h4>
+					<ul>
+						${pregunta.answers.map(ans => `<li>${ans}</li>`).join('')}
+					</ul>
+					<p><strong>Respuesta Correcta:</strong> ${pregunta.correctAnswer}</p>
+					<p><strong>Norma:</strong> ${pregunta.norma}</p>
+					<p><strong>Referencia Doctrinal:</strong> ${pregunta.reference}</p>
+				`;
+				contenedor.appendChild(elemento);
+			});
+		});
+	}
+
+
+	// Función para obtener los archivos seleccionados
+	function obtenerArchivosSeleccionados() {
+		// Asegúrate de que el ID del input sea correcto (aquí se asume que es "folderInput")
+		const inputArchivos = document.getElementById('folderInput');
+		
+		// Verifica si hay archivos seleccionados
+		if (inputArchivos && inputArchivos.files) {
+			return Array.from(inputArchivos.files); // Devuelve los archivos seleccionados como un array
+		} else {
+			return []; // Retorna un array vacío si no hay archivos seleccionados
+		}
+	}
+
+	// Función para obtener la distribución de preguntas por archivo
+	function obtenerDistribucionPreguntas() {
+		// Implementa esta lógica según cómo capturas la cantidad de preguntas por archivo
+		const inputs = document.querySelectorAll('.cantidadPreguntasPorArchivo');
+		return Array.from(inputs).map(input => parseInt(input.value, 10));
+	}
+
+
+	// Función para mostrar preguntas generadas en la interfaz
+	function mostrarPreguntasGeneradas(examen) {
+		const contenedor = document.getElementById('preguntasGeneradas');
+		contenedor.innerHTML = ''; // Limpiar contenido previo
+		examen.sections.forEach(section => {
+			const sectionTitle = document.createElement('h3');
+			sectionTitle.textContent = `Sección ${section.label}`;
+			contenedor.appendChild(sectionTitle);
+
+			section.preguntas.forEach((pregunta, index) => {
+				const elemento = document.createElement('div');
+				elemento.textContent = `${index + 1}. ${pregunta}`;
+				contenedor.appendChild(elemento);
+			});
+		});
+	}
+
+
+	// Función para generar los archivos de preguntas y respuestas
+	function generateFiles(questions, fich_p, fich_r) {
+		const now = new Date();
+		const timestamp = `${now.getFullYear()}${(now.getMonth() + 1).toString().padStart(2, '0')}${now.getDate().toString().padStart(2, '0')}.${now.getHours().toString().padStart(2, '0')}${now.getMinutes().toString().padStart(2, '0')}${now.getSeconds().toString().padStart(2, '0')}`;
+
+		let preguntasText = '';
+		let respuestasText = '';
+		
+		let tipo_examen = "¿?";
+		let nombre_pdf = `p_${fich_p}_${timestamp}.pdf`;
+				
+		if (fich_p === "exam_merca") {
+			tipo_examen = "MERCANCIAS";
+		} else if (fich_p === "exam_viaj") {
+			tipo_examen = "VIAJEROS";
+		} else {
+			tipo_examen = "¿?";
+		}
+		
+		if (norma_referencia.checked) {
+			questions.forEach(q => {
+				preguntasText += `COD: ${q.cod}\n${q.questionText}\n${q.answers.join('\n')}\n\n`;
+				respuestasText += `COD: ${q.cod} > ${q.correctAnswer} < NORMA: ${q.norma} < REFERENCIA DOCTRINAL: ${q.reference}\n`;
+			});
+		} else {
+			questions.forEach(q => {
+				preguntasText += `COD: ${q.cod}\n${q.questionText}\n${q.answers.join('\n')}\n\n`;
+				respuestasText += `COD: ${q.cod} > ${q.correctAnswer} <\n`;
+			});
+		}
+
+
+
+		//descargarArchivo(`p_test_${timestamp}.txt`, preguntasText);
+		//descargarArchivo(`r_test_${timestamp}.txt`, respuestasText);
+		if (check_merc_viaj.checked) {
+			descargarArchivo(`p_${fich_p}_${timestamp}.txt`, preguntasText);
+			descargarArchivo(`r_${fich_r}_${timestamp}.txt`, respuestasText);
+		}
+
+		// Generar PDF
+		const { jsPDF } = window.jspdf;
+		const pdf = new jsPDF();
+
+		const fontSize = 12;
+		const lineHeight = 6;
+		const marginX = 20;
+		const usableWidth = 170; // Ancho disponible entre márgenes
+		const marginTop = 30;
+		const pageHeight = 297; // Altura de página en mm (A4)
+		const usableHeight = 280; // Altura disponible entre márgenes superior e inferior
+
+		let cursorY = marginTop;
+
+		pdf.setFont("Helvetica");
+		pdf.setFontSize(fontSize);
+
+		const addPageIfNeeded = (heightNeeded) => {
+			if (cursorY + heightNeeded > usableHeight) {
+				pdf.addPage();
+				cursorY = marginTop;
+			}
+		};
+
+		// *** Agregar título centrado y a la derecha ***
+		
+		// Título "EXAMEN OBTENCIÓN DEL CAP nombre_pdf.slice(2, -4)"
+		pdf.setFont("Helvetica", "bold");
+		const examTitle = "EXAMEN OBTENCIÓN DEL CAP " + nombre_pdf.slice(2, -4);
+		const titleWidth = pdf.getTextWidth(examTitle);
+		const centerX = (pdf.internal.pageSize.width - titleWidth) / 2; // Centrar el texto
+		pdf.text(examTitle, centerX, cursorY);
+
+		cursorY += lineHeight * 2; // Espaciado después del título
+
+		// Examen a la derecha
+		const examText = "Examen: " + tipo_examen;
+		const examTextX = pdf.internal.pageSize.width - pdf.getTextWidth(examText) - 20; // A la derecha
+		pdf.setFont("Helvetica", "normal");
+		pdf.text(examText, examTextX, cursorY);
+
+		cursorY += lineHeight * 1.5; // Espaciado
+
+		// Duración a la derecha
+		const durationText = "Duración: 120 m";
+		pdf.text(durationText, examTextX, cursorY);
+
+		cursorY += lineHeight * 2; // Espaciado después de la duración
+
+		// Generar contenido de preguntas y respuestas (esto no cambia)
+		questions.forEach((q, index) => {
+			const questionHeight = calculateHeight(q, index, pdf, usableWidth, lineHeight);
+
+			// Asegurar que toda la pregunta entre en la misma página
+			addPageIfNeeded(questionHeight);
+
+			// Agregar código y pregunta con número
+			pdf.setFont("Helvetica", "normal");  // Establecer fuente normal para el código
+
+			const questionTextWithCode = `COD: ${q.cod}   Tema: ${q.sourceFile.slice(0, -4)}\n`; // Solo el código, en fuente normal
+			const questionLines = pdf.splitTextToSize(questionTextWithCode, usableWidth);
+			questionLines.forEach(line => {
+				pdf.text(line, marginX, cursorY);
+				cursorY += lineHeight;  // Incrementar normalmente el cursor Y para las líneas de código
+			});
+
+			cursorY -= lineHeight; // Reducir el espacio entre el código y la pregunta
+
+			// Cambiar a negrita solo para la pregunta
+			pdf.setFont("Helvetica", "bold");  // Establecer fuente en negrita
+			
+			const questionWithNumber = `${index + 1}. ${q.questionText}`;
+			const questionWithNumberLines = pdf.splitTextToSize(questionWithNumber, usableWidth);
+			questionWithNumberLines.forEach(line => {
+				pdf.text(line, marginX, cursorY);
+				cursorY += lineHeight;
+			});
+
+
+			// Agregar respuestas con mayor tabulación
+			pdf.setFont("Helvetica", "normal");
+			const tabulatedMargin = marginX + 10; // Margen adicional para respuestas
+			q.answers.forEach(answer => {
+				const answerLines = pdf.splitTextToSize(answer, usableWidth - 10); // Ajuste de ancho
+				answerLines.forEach(line => {
+					pdf.text(line, tabulatedMargin, cursorY);
+					cursorY += lineHeight;
+				});
+			});
+
+			cursorY += lineHeight; // Espaciado extra entre preguntas
+		});
+
+		// Nueva página para las respuestas
+		pdf.addPage();
+		cursorY = marginTop;
+
+		// Título de la página de respuestas
+		pdf.setFont("Helvetica", "bold");
+		pdf.setFontSize(14);
+		pdf.text("ERANTZUNAK / RESPUESTAS " + nombre_pdf.slice(2, -4), marginX, cursorY);
+		pdf.setFontSize(fontSize);
+		cursorY += lineHeight * 2;
+
+		// Generar respuestas en columnas (cuatro columnas)
+		const columns = 4;
+		const columnWidth = (usableWidth / columns) - 5; // Espacio para margen interno
+		const rowsPerColumn = Math.ceil(questions.length / columns); // Número de filas por columna
+		
+		let dateToShow = null;
+		
+		// Si la fecha de archivo no es nula, usarla
+		if (latestFileDate !== null) {
+			dateToShow = latestFileDate;
+		}
+		// Si no, usar la fecha de la carpeta si no es nula
+		else if (latestFolderDate !== null) {
+			dateToShow = latestFolderDate;
+		}
+		
+		// Si hay una fecha para mostrar, agregarla al PDF
+		
+		pdf.setFont("Helvetica", "normal");
+		if (dateToShow !== null) {
+			pdf.text("Última actualización de los ficheros de test: " + dateToShow, 85, 250);  // Muestra la fecha en el PDF
+		}
+		pdf.setFont("Helvetica", "bold");
+		
+
+		// Iterar sobre las respuestas de las preguntas y organizar en columnas
+		questions.forEach((q, index) => {
+			const columnIndex = Math.floor(index / rowsPerColumn); // Determinar la columna
+			const rowIndex = index % rowsPerColumn; // Determinar la fila
+
+			// Calcular la posición X para cada columna
+			const startX = marginX + columnIndex * (columnWidth + 5);
+			const startY = marginTop + lineHeight * 3 + rowIndex * lineHeight;
+
+			let responseText = `${index + 1}. `;  // Empezamos con el número de la pregunta
+
+			// Agregar respuestas (resaltar la respuesta correcta)
+			let currentX = startX + pdf.getTextWidth(responseText); // Empieza después del número de la pregunta
+			q.answers.forEach((answer, index) => {
+				const answerWidth = pdf.getTextWidth(answer[0]); // Ancho del texto de la respuesta
+
+				// Si la respuesta es correcta, resaltar el fondo
+				if (answer[0] === q.correctAnswer) {
+					pdf.setFillColor(169, 169, 169); // Color de fondo gris medio
+					// Rectángulo amarillo de fondo, con un pequeño margen para que el texto no se pegue al borde
+					pdf.rect(currentX -1, startY -5, answerWidth +2, 7, 'F');
+					console.log(`Resaltada la respuesta correcta: ${answer}`); // Log de la respuesta correcta
+				}
+
+				// Escribir la respuesta
+				pdf.text(answer[0], currentX, startY);
+				console.log(`Respuesta ${index + 1}: ${answer[0]} en posición X: ${currentX}, Y: ${startY}`); // Log de la respuesta y posición
+
+				// Actualizar la posición X para la siguiente respuesta
+				currentX += answerWidth + 5; // Espacio entre respuestas
+			});
+
+			pdf.text(responseText, startX, startY);
+		});
+		
+		// Función para agregar el número de página al pie de cada página
+		const addPageNumber = (pdf) => {
+			const totalPages = pdf.internal.getNumberOfPages(); // Obtener el total de páginas
+			for (let pageNum = 1; pageNum <= totalPages; pageNum++) {
+				const pageNumberText = `${pageNum}`;
+				const pageTextWidth = pdf.getTextWidth(pageNumberText); // Obtener el ancho del texto del número de página
+				const pageX = pdf.internal.pageSize.width - pageTextWidth - 20; // Alineado a la derecha
+				const pageY = pdf.internal.pageSize.height - 20; // 10mm desde el pie de la página
+
+				pdf.setPage(pageNum); // Establecer la página en la que se encuentra
+				pdf.text(pageNumberText, pageX, pageY); // Colocar el número de página
+			}
+		};
+
+		// Agregar número de página al final de todas las páginas
+		addPageNumber(pdf);
+
+
+		// Descargar PDF
+		if (check_pdf.checked) {
+			pdf.save(nombre_pdf.slice(2));
+		}
+
+		// Función para calcular la altura de una pregunta
+		function calculateHeight(q, index, pdf, width, lineHeight) {
+			const questionTextWithCode = `COD: ${q.cod}\n${index + 1}. ${q.questionText}`;
+			const questionLines = pdf.splitTextToSize(questionTextWithCode, width);
+			const answerLines = q.answers.map(answer => pdf.splitTextToSize(answer, width - 10));
+
+			// Altura del texto + respuestas + espaciado
+			return (
+				questionLines.length * lineHeight + // Pregunta y código
+				answerLines.reduce((acc, lines) => acc + lines.length * lineHeight, 0) + // Respuestas
+				lineHeight // Espaciado entre preguntas
+			);
+		}
+		
+	}
+
+
+    // Función para descargar el archivo
+    function descargarArchivo(nombre, contenido) {
+        const blob = new Blob([contenido], { type: 'text/plain' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = nombre;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+    }
+</script>
+
+
+
+
+</body>
+</html>
