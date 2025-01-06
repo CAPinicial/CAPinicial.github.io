@@ -59,8 +59,25 @@
         }
     </style>
 </head>
-<body>
-    <h3>Preguntas CAP</h3>
+<body>	
+    <h3>Preguntas CAP</h3> 
+	
+	<!-- Enlace para abrir el modal -->
+	<div style="text-align: right;">
+		<!-- Enlace para abrir el modal -->
+		<a href="#" class="open-modal" style="cursor: pointer; text-decoration: none;">
+			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-info-circle" viewBox="0 0 16 16">
+				<path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+				<path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0"/>
+			</svg>
+			APRENDE A USAR LA WEB
+			<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-info-circle" viewBox="0 0 16 16">
+				<path d="M8 15A7 7 0 1 1 8 1a7 7 0 0 1 0 14m0 1A8 8 0 1 0 8 0a8 8 0 0 0 0 16"/>
+				<path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0"/>
+			</svg>
+		</a>
+	</div>
+
     <a href="https://www.transportes.gob.es/areas-de-actividad/transporte-terrestre/servicios-al-transportista/cap/examenes-de-formacion-de-conductores-profesionales-cap#accordion" target="_blank" style="text-decoration: none;">
         Exámenes de Formación de Conductores Profesionales (CAP) - Otros Documentos
     </a>
@@ -71,6 +88,59 @@
 	</svg>
 	Contiene preguntas precargadas con fecha 08/02/2024
 	<br><br>
+
+	<!-- El modal -->
+	<div id="myModal" class="modal" style="display: none; position: fixed; z-index: 1; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.4);">
+		<!-- Contenido del modal -->
+		<div class="modal-content" style="background-color: #fefefe; padding: 20px; border: 1px solid #888; width: 80%; max-width: 1500px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); border-radius: 8px; font-family: Arial, sans-serif; line-height: 1.6; top: 5%; position: absolute; left: 50%; transform: translateX(-50%);">
+			<span class="close" style="color: #aaa; float: right; font-size: 28px; font-weight: bold; cursor: pointer;" onclick="closeModal()">&times;</span>
+			<h2 style="font-size: 24px; color: #333; font-weight: bold; margin-bottom: 20px;">Información sobre la Web</h2>
+
+			<p style="font-size: 16px; color: #555; line-height: 1.6;">
+				Web para gestionar y crear preguntas y respuestas del CAP inicial de Mercancías y Viajeros utilizando las preguntas públicas publicadas por el Ministerio de Transportes.
+			</p>
+
+			<p style="font-size: 16px; color: #555; line-height: 1.6;">
+				La web incluye preguntas precargadas actualizadas hasta el <strong>08/02/2024</strong>.
+			</p>
+			- - -
+			<p style="font-size: 16px; color: #555; line-height: 1.6;">
+				En el apartado <strong>"Seleccionar Preguntas"</strong>, se pueden borrar las preguntas precargadas y adjuntar nuevas preguntas en formato .txt, siguiendo el formato disponible en la sección "Otros Documentos" de la web del ministerio. Estas preguntas pueden cargarse por temas en ficheros separados, como un conjunto o directamente mediante una carpeta completa.
+			</p>
+
+			<p style="font-size: 16px; color: #555; line-height: 1.6;">
+				Mediante casillas de verificación, puedes configurar diversas opciones, entre las que destacan:
+			</p>
+
+			<ul style="font-size: 16px; color: #555; line-height: 1.6; padding-left: 20px;">
+				<li>Generar un PDF tipo examen con las preguntas y las respuestas, opcionalmente en la última página.</li>
+				<li>Generar archivos .txt separados para preguntas y respuestas.</li>
+				<li>Habilitar opción para desordenar las preguntas.</li>
+			</ul>
+			- - -
+			<p style="font-size: 16px; color: #555; line-height: 1.6;">
+				En el apartado <strong>"Examen"</strong>, puedes configurar exámenes para Mercancías, Viajeros o ambos. Las preguntas visualizadas en la web y en los ficheros generados serán las mismas.
+			</p>
+
+			<ul style="font-size: 16px; color: #555; line-height: 1.6; padding-left: 20px;">
+				<li>Si seleccionas ambos, se generan dos exámenes: cada uno incluye 25 preguntas específicas diferentes y 75 preguntas generales comunes. La web mostrará las 75 preguntas comunes.</li>
+				<li>Si seleccionas únicamente Mercancías o Viajeros, la web visualizará 100 preguntas relacionadas.</li>
+			</ul>
+
+			<p style="font-size: 16px; color: #555; line-height: 1.6;">
+				Las preguntas del examen se muestran en la parte inferior de la web. Al hacer clic en una pregunta, se muestra su respuesta, y al pulsar nuevamente, esta se oculta.
+			</p>
+			- - -
+			<p style="font-size: 16px; color: #555; line-height: 1.6;">
+				En el apartado <strong>"Test"</strong>, puedes buscar preguntas específicas por código o por palabras clave presentes en las preguntas o respuestas. También permite seleccionar el número total de preguntas deseado desde una lista desplegable o escribiendo el número.
+			</p>
+
+			<ul style="font-size: 16px; color: #555; line-height: 1.6; padding-left: 20px;">
+				<li>Este apartado es útil para crear exámenes temáticos. Si previamente has cargado únicamente los temas deseados, las preguntas se limitarán a esos ficheros.</li>
+				<li>Es importante eliminar las preguntas precargadas si deseas trabajar solo con las nuevas.</li>
+			</ul>
+		</div>
+	</div>
 	
 	<div class="card" style="border-color:red">
 	  <div class="card-header"  style="border-color:red">
@@ -396,72 +466,83 @@
 	
 	let filteredFiles = [];
 
-		
-
-async function readRemoteZip(url) {
-    try {
-        // Descargar el archivo ZIP desde la URL
-        const response = await fetch(url);
-        if (!response.ok) {
-            throw new Error(`Error descargando el archivo: ${response.statusText}`);
-        }
-
-        const arrayBuffer = await response.arrayBuffer(); // Obtener los datos como ArrayBuffer
-        const zip = await JSZip.loadAsync(arrayBuffer); // Cargar el ZIP con JSZip
-
-        // Verificar si el archivo ZIP tiene archivos para procesar
-        if (!zip || Object.keys(zip.files).length === 0) {
-            throw new Error("El archivo ZIP está vacío o no contiene archivos.");
-        }
-
-        // Crear un array para almacenar los archivos "simulados"
-        const simulatedFiles = [];
-
-        // Iterar sobre los archivos dentro del ZIP
-        zip.forEach(async (relativePath, file) => {
-            if (!file.dir) { // Ignorar directorios
-                const content = await file.async("string"); // Leer el contenido como texto
-
-                console.log(`ABCD: ${relativePath.split('/').pop()}`); // Nombre del archivo
-                console.log(`Archivo: ${relativePath}`);
-                console.log(`Contenido: ${content}`);
-
-                // Crear un Blob a partir del contenido del archivo
-                const blob = new Blob([content], { type: 'text/plain' });
-
-                // Crear un objeto File para simular un archivo del input
-                const simulatedFile = new File([blob], relativePath.split('/').pop(), { type: 'text/plain' });
-
-                // Añadir el archivo simulado al array
-                simulatedFiles.push(simulatedFile);
-
-                // Actualizar el contador de preguntas
-                updateQuestionCount(simulatedFiles, folderCount);
-
-                // Filtrar archivos con nombre de 10 caracteres o menos dentro de las carpetas
-                filteredFiles = simulatedFiles.filter(file => file.name.length <= 10);
-
-                console.log(`filteredFiles: ${filteredFiles}`);
-                // Actualizar la variable global para la fecha más reciente de los archivos
-                latestFolderDate = formatDate(getLatestModificationDate(filteredFiles));
-            }
-        });
-
-    } catch (error) {
-        // Muestra un mensaje de error detallado
-        console.error(`Error procesando el archivo ZIP: ${error.message}`);
+    // Abrir el modal
+    document.querySelector(".open-modal").onclick = function() {
+        document.getElementById("myModal").style.display = "block";
     }
-}
 
-// URL del archivo ZIP remoto
-const zipUrl = "https://raw.githubusercontent.com/CAPinicial/CAPinicial.github.io/main/PreguntasTxt.zip";
+    // Cerrar el modal
+    function closeModal() {
+        document.getElementById("myModal").style.display = "none";
+    }
 
-// Llamar a la función
-readRemoteZip(zipUrl);
+    // Cerrar el modal si el usuario hace clic fuera del contenido
+    window.onclick = function(event) {
+        if (event.target == document.getElementById("myModal")) {
+            document.getElementById("myModal").style.display = "none";
+        }
+    }
 
+	async function readRemoteZip(url) {
+		try {
+			// Descargar el archivo ZIP desde la URL
+			const response = await fetch(url);
+			if (!response.ok) {
+				throw new Error(`Error descargando el archivo: ${response.statusText}`);
+			}
 
+			const arrayBuffer = await response.arrayBuffer(); // Obtener los datos como ArrayBuffer
+			const zip = await JSZip.loadAsync(arrayBuffer); // Cargar el ZIP con JSZip
 
+			// Verificar si el archivo ZIP tiene archivos para procesar
+			if (!zip || Object.keys(zip.files).length === 0) {
+				throw new Error("El archivo ZIP está vacío o no contiene archivos.");
+			}
 
+			// Crear un array para almacenar los archivos "simulados"
+			const simulatedFiles = [];
+
+			// Iterar sobre los archivos dentro del ZIP
+			zip.forEach(async (relativePath, file) => {
+				if (!file.dir) { // Ignorar directorios
+					const content = await file.async("string"); // Leer el contenido como texto
+
+					console.log(`ABCD: ${relativePath.split('/').pop()}`); // Nombre del archivo
+					console.log(`Archivo: ${relativePath}`);
+					console.log(`Contenido: ${content}`);
+
+					// Crear un Blob a partir del contenido del archivo
+					const blob = new Blob([content], { type: 'text/plain' });
+
+					// Crear un objeto File para simular un archivo del input
+					const simulatedFile = new File([blob], relativePath.split('/').pop(), { type: 'text/plain' });
+
+					// Añadir el archivo simulado al array
+					simulatedFiles.push(simulatedFile);
+
+					// Actualizar el contador de preguntas
+					updateQuestionCount(simulatedFiles, folderCount);
+
+					// Filtrar archivos con nombre de 10 caracteres o menos dentro de las carpetas
+					filteredFiles = simulatedFiles.filter(file => file.name.length <= 10);
+
+					console.log(`filteredFiles: ${filteredFiles}`);
+					// Actualizar la variable global para la fecha más reciente de los archivos
+					latestFolderDate = formatDate(getLatestModificationDate(filteredFiles));
+				}
+			});
+
+		} catch (error) {
+			// Muestra un mensaje de error detallado
+			console.error(`Error procesando el archivo ZIP: ${error.message}`);
+		}
+	}
+
+	// URL del archivo ZIP remoto
+	const zipUrl = "https://raw.githubusercontent.com/CAPinicial/CAPinicial.github.io/main/PreguntasTxt.zip";
+
+	// Llamar a la función
+	readRemoteZip(zipUrl);
 
   const cancelBtnFile = document.getElementById('cancelBtnFile');
   const cancelBtnFolder = document.getElementById('cancelBtnFolder');
