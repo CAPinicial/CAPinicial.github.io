@@ -124,7 +124,7 @@
 
 			<ul style="font-size: 16px; color: #555; line-height: 1.6; padding-left: 20px;">
 				<li>Si seleccionas ambos, se generan dos exámenes: cada uno incluye 25 preguntas específicas diferentes y 75 preguntas generales comunes. La web mostrará las 75 preguntas comunes.</li>
-				<li>Si seleccionas únicamente Mercancías o Viajeros, la web visualizará 100 preguntas relacionadas.</li>
+				<li>Si seleccionas únicamente Mercancías o Viajeros, se genera el exámen, la web visualizará 100 preguntas relacionadas.</li>
 			</ul>
 
 			<p style="font-size: 16px; color: #555; line-height: 1.6;">
@@ -132,11 +132,14 @@
 			</p>
 			- - -
 			<p style="font-size: 16px; color: #555; line-height: 1.6;">
-				En el apartado <strong>"Test"</strong>, puedes buscar preguntas específicas por código o por palabras clave presentes en las preguntas o respuestas. También permite seleccionar el número total de preguntas deseado desde una lista desplegable o escribiendo el número.
+				En el apartado <strong>"Test"</strong>, puedes buscar preguntas específicas por código, por palabras clave presentes en las preguntas o respuestas o por tema específico como 1.1 o 1.2
+			</p>
+			<p>
+				También permite seleccionar el número total de preguntas deseado desde una lista desplegable o escribiendo el número.
 			</p>
 
 			<ul style="font-size: 16px; color: #555; line-height: 1.6; padding-left: 20px;">
-				<li>Este apartado es útil para crear exámenes temáticos. Si previamente has cargado únicamente los temas deseados, las preguntas se limitarán a esos ficheros.</li>
+				<li>Este apartado es útil para crear exámenes temáticos. Si previamente has cargado ciertos temas deseados, las preguntas se limitarán a esos ficheros.</li>
 				<li>Es importante eliminar las preguntas precargadas si deseas trabajar solo con las nuevas.</li>
 			</ul>
 		</div>
@@ -373,6 +376,7 @@
 			<br>
 			<em>&nbsp;&nbsp&nbsp;&nbsp;Para crear un test con temas específicos, <u>cancela</u> las preguntas cargadas y carga las que se necesiten</em>
 			<br><br>
+			<div id="sourceFileListContainer"></div>
 			<div class="input-group mb-3">
 			  <span class="input-group-text" id="inputGroup-sizing-default" for="searchByCode">Buscar por COD:</span>
 			  <input type="number" class="form-control" id="searchByCode" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
@@ -383,6 +387,8 @@
 				<path d="m8.93 6.588-2.29.287-.082.38.45.083c.294.07.352.176.288.469l-.738 3.468c-.194.897.105 1.319.808 1.319.545 0 1.178-.252 1.465-.598l.088-.416c-.2.176-.492.246-.686.246-.275 0-.375-.193-.304-.533zM9 4.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0"/>
 			</svg>
 			<em>Escribe una o varias palabras en el recuadro para buscar preguntas y/o respuestas relacionadas</em>
+			<br>
+			<em>&nbsp;&nbsp;&nbsp;&nbsp;Tambien se permite buscar por tema buscando por el número de tema (p.e. 1.1 o 1.2)</em>
 			<br>
 			<div class="input-group mb-3">
 			  <span class="input-group-text" id="inputGroup-sizing-default" for="searchQuestions">Buscar con..</span>
@@ -401,6 +407,13 @@
 			  <input class="form-check-input" type="checkbox" value="" id="searchInAnswers" checked>
 			  <label class="form-check-label" for="searchInAnswers">
 				Buscar en las respuestas
+			  </label>
+			</div>
+			
+			<div class="form-check">
+			  <input class="form-check-input" type="checkbox" value="" id="searchInSourceFile" checked>
+			  <label class="form-check-label" for="searchInSourceFile">
+				Buscar en los temas
 			  </label>
 			</div>
 			
@@ -453,6 +466,7 @@
     const searchQuestionsInput = document.getElementById('searchQuestions');
     const searchInQuestionsCheckbox = document.getElementById('searchInQuestions');
     const searchInAnswersCheckbox = document.getElementById('searchInAnswers');
+    const searchInSourceFileCheckbox = document.getElementById('searchInSourceFile');
 	let latestFileDate = null;
 	let latestFolderDate = null;
 	
@@ -463,8 +477,6 @@
 	const norma_referencia = document.getElementById('norma_referencia');
 	const check_pdf = document.getElementById('check_pdf');
 	const check_merc_viaj = document.getElementById('check_merc_viaj');
-	
-	let filteredFiles = [];
 
     // Abrir el modal
     document.querySelector(".open-modal").onclick = function() {
@@ -778,39 +790,48 @@
 
 		const searchCode = document.getElementById('searchByCode').value.trim(); // Obtener el código ingresado
 
-	// Procesar los archivos seleccionados
-	for (const file of files) {
-		try {
-			if (file.name.endsWith('.txt')) {
-				console.log(`Leyendo archivo: ${file.name}`);
-				const content = await file.text();
-				const parsedQuestions = parseQuestions(content);
-				console.log(`Preguntas procesadas del archivo ${file.name}:`, parsedQuestions);
+		// Procesar los archivos seleccionados
+		for (const file of files) {
+			try {
+				if (file.name.endsWith('.txt')) {
+					console.log(`Leyendo archivo: ${file.name}`);
+					const content = await file.text();
+					const parsedQuestions = parseQuestions(content);
+					console.log(`Preguntas procesadas del archivo ${file.name}:`, parsedQuestions);
 
-				// Añadir el nombre del archivo a cada pregunta
-				parsedQuestions.forEach(q => {
-					q.sourceFile = file.name;  // Agregar el nombre del archivo
-				});
-
-				if (searchQuery) {
+					// Añadir el nombre del archivo a cada pregunta
 					parsedQuestions.forEach(q => {
-						const matchInQuestion = searchInQuestionsCheckbox.checked && normalizeText(q.questionText).includes(searchQuery);
-						const matchInAnswers = searchInAnswersCheckbox.checked && q.answers.some(ans => normalizeText(ans).includes(searchQuery));
-						if (matchInQuestion || matchInAnswers) {
-							totalFoundQuestions++;
-							questions.push(q);
-						}
+						q.sourceFile = file.name;  // Agregar el nombre del archivo
 					});
+
+					if (searchQuery) {
+						parsedQuestions.forEach(q => {
+							// Si se seleccionó buscar en el nombre del archivo
+							const matchInSourceFile = searchInSourceFileCheckbox.checked && normalizeText(q.sourceFile) === normalizeText(searchQuery + ".txt");
+
+							// Si se seleccionó buscar en las preguntas
+							const matchInQuestion = searchInQuestionsCheckbox.checked && normalizeText(q.questionText).includes(searchQuery);
+
+							// Si se seleccionó buscar en las respuestas
+							const matchInAnswers = searchInAnswersCheckbox.checked && q.answers.some(ans => normalizeText(ans).includes(searchQuery));
+
+							// Si hay coincidencia en el nombre del archivo, pregunta o respuesta
+							if (matchInSourceFile || matchInQuestion || matchInAnswers) {
+								totalFoundQuestions++;
+								questions.push(q);
+							}
+						});
+					} else {
+						// Si no hay searchQuery, agregar todas las preguntas
+						questions.push(...parsedQuestions);
+					}
 				} else {
-					questions.push(...parsedQuestions);
+					console.warn(`Archivo ignorado (no es .txt): ${file.name}`);
 				}
-			} else {
-				console.warn(`Archivo ignorado (no es .txt): ${file.name}`);
+			} catch (error) {
+				console.error(`Error al procesar el archivo ${file.name}:`, error);
 			}
-		} catch (error) {
-			console.error(`Error al procesar el archivo ${file.name}:`, error);
 		}
-	}
 
 		
 		if (searchCode) {
@@ -832,6 +853,7 @@
             questions = questions.filter(q => {
                 let matchInQuestions = false;
                 let matchInAnswers = false;
+                let matchInSourceFile = false;
 
                 // Buscar en las preguntas solo si está marcado
                 if (searchInQuestionsCheckbox.checked) {
@@ -842,9 +864,14 @@
                 if (searchInAnswersCheckbox.checked) {
                     matchInAnswers = q.answers.some(ans => normalizeText(ans).includes(searchQuery));
                 }
+				
+                // Buscar en las respuestas solo si está marcado
+                if (searchInSourceFileCheckbox.checked) {
+                    matchInSourceFile = normalizeText(q.sourceFile) === normalizeText(searchQuery + ".txt");
+                }
 
                 // La pregunta se incluirá si coincide en alguna de las secciones seleccionadas
-                return matchInQuestions || matchInAnswers;
+                return matchInQuestions || matchInAnswers || matchInSourceFile;
             });
         }
 		
@@ -853,13 +880,22 @@
 		if (searchQuery) {
 			const searchInQuestions = searchInQuestionsCheckbox.checked;
 			const searchInAnswers = searchInAnswersCheckbox.checked;
+			const searchInSourceFile = searchInSourceFileCheckbox.checked;
 
-			if (searchInQuestions && searchInAnswers) {
-				resultMessage = `Las preguntas totales con la palabra '${searchQuery}' aparecen en ${totalFoundQuestions} preguntas/respuestas.`;
+			if (searchInQuestions && searchInAnswers && searchInSourceFile) {
+				resultMessage = `Las preguntas totales con la palabra '${searchQuery}' aparecen en ${totalFoundQuestions} preguntas, respuestas y archivos/temas.`;
+			} else if (searchInQuestions && searchInAnswers) {
+				resultMessage = `Las preguntas totales con la palabra '${searchQuery}' aparecen en ${totalFoundQuestions} preguntas y respuestas.`;
+			} else if (searchInQuestions && searchInSourceFile) {
+				resultMessage = `Se han encontrado un total de ${totalFoundQuestions} preguntas que contenga '${searchQuery}' en las preguntas o en el tema.`;
+			} else if (searchInAnswers && searchInSourceFile) {
+				resultMessage = `Se han encontrado un total de ${totalFoundQuestions} preguntas que contenga '${searchQuery}' en las respuestas o en el tema.`;
 			} else if (searchInQuestions) {
 				resultMessage = `Las preguntas totales con la palabra '${searchQuery}' aparecen en ${totalFoundQuestions} preguntas.`;
 			} else if (searchInAnswers) {
 				resultMessage = `Las preguntas totales con la palabra '${searchQuery}' aparecen en ${totalFoundQuestions} respuestas.`;
+			} else if (searchInSourceFile) {
+				resultMessage = `Las preguntas totales con el tema '${searchQuery}.txt' contiene ${totalFoundQuestions} preguntas.`;
 			}
 		} else {
 			resultMessage = `Se encontraron un total de ${questions.length} preguntas.`;
